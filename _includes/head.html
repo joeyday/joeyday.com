@@ -6,8 +6,7 @@
   <title>{% if page.title %}{{ page.title | escape }} ‹ {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <script src="https://use.typekit.net/ypn8ubi.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link rel="stylesheet" href="https://use.typekit.net/lkn6tyl.css">
   <script src="https://use.fontawesome.com/65b54580d8.js"></script>
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
