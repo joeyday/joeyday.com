@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Hi, I’m Joey. I’m a 30-something software engineer (read: big nerd) in Salt Lake
     City. When I grow up I’d like to be a seminary professor (read: even bigger nerd).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/joeyday/joeyday.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dev.joeyday.com" # the base hostname & protocol for your site, e.g. http://example.com
 # google_analytics: UA-103818339-1
 
 # Social media
@@ -31,7 +31,7 @@ github_username:  joeyday
 markdown: kramdown
 # highlighter: rouge
 theme: jekyll-theme-minimal
-permalink: /joeyday.com/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
 
