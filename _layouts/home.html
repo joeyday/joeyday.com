@@ -29,7 +29,9 @@ layout: default
                 <div class="post-content" itemprop="articleBody">
                     {{ post.excerpt }}
     
-                    <p><a href="{{ post.url | relative_url }}">Continue reading “{{ post.title | escape }}” ›</a></p>
+                    {% if post.excerpt != post.content %}
+                        <p><a href="{{ post.url | relative_url }}">Continue reading “{{ post.title | escape }}” ›</a></p>
+                    {% endif %}
                 </div>
             </li>
         {% endfor %}
