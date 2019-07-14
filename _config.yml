@@ -31,7 +31,7 @@ github_username:  joeyday
 markdown: kramdown
 # highlighter: rouge
 theme: jekyll-theme-minimal
-permalink: /joeyday.com/:year/:month/:day/:title:output_ext
+permalink: /joeyday.com/:year/:month/:day/:title/
 plugins:
   - jekyll-feed
 
