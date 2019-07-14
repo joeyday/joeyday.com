@@ -5,7 +5,7 @@ date: 2002-03-20
 ---
 
 <figure class="alignleft">
-    <img src="/assets/images/" alt="" />
+    <img src="/assets/images/2002-03-20-5buck.gif" alt="5 Buck Pizza" />
 </figure>
 
 Well, a couple days ago I got a call from the management at [5 Buck Pizza](http://www.ut-biz.com/5buckpizza), a local Pizza store. I put in an application for a driver position a month ago and they were calling me to see if I still wanted the job. I haven’t been getting very many hours at my other job and I was actually going to go apply at a few places to find a second job. It was perfect timing that they called me when they did.
