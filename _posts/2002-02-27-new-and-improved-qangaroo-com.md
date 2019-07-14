@@ -2,10 +2,8 @@
 layout: post
 title:  New and Improved Qangaroo.com
 date:   2002-02-27 00:00:00 -0600
-categories:
+categories: First Edition
 ---
-
-## New and Improved Qangaroo.com
 
 Hallelujah! (Is that how you spell it?) I’m learning HTML and it’s about time! Consequently, the site is under some MAJOR construction. I’m using a text editor called NoteTab. It has a few features Notepad doesn’t, but all in all it is a simple text editor.
 
