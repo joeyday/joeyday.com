@@ -34,5 +34,18 @@ layout: default
             </div>
         </article>
     {% endfor %}
+    
+    <nav class="navigation paging-navigation" role="navigation">
+      <h1 class="screen-reader-text">Posts navigation</h1>
+      <div class="nav-links">
+        {% if paginator.next_page %}
+          <div class="nav-previous"><a href="{{ paginator.next_page_path }}"><span class="meta-nav">‹</span> Older posts</a></div>
+        {% endif %}
+
+        {% if paginator.previous_page %}
+          <div class="nav-next"><a href="{{ paginator.previous_page_path }}">Newer posts <span class="meta-nav">›</span></a></div>
+        {% endif %}
+      </div>
+    </nav>
 
 </div>

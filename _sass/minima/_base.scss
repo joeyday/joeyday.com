@@ -662,51 +662,50 @@ object {
 /*--------------------------------------------------------------
 12.1 Captions
 --------------------------------------------------------------*/
-.wp-caption {
+.site-content figure {
 	margin-bottom: 1.5em;
 	max-width: 100%;
-    }
-.wp-caption img[class*="wp-image-"] {
-	display: block;
-	margin: 0 auto;
-    }
-.wp-caption-text {
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  figcaption {
     font-size: 0.764em;
     color: #666;
     font-style: italic;
-	text-align: center;
-	padding-bottom: 0.8075em;
+    text-align: center;
+    padding-bottom: 0.8075em;
     border-bottom: 1px solid #ccc;
-    }
-.wp-caption .wp-caption-text {
-	margin: 0.8075em 0;
-    }
+    margin: 0.8075em 0;
+  }
+}
     
 @media screen and (min-width: 75em) {
-    .wp-caption {
-        position: relative;
-        }
-        
-    .wp-caption-text {
-        position: absolute;
-        top: 0;
-        width: 12.125em;
-        margin: 0;
-        padding: 0.8075em 0;
-        border-top: 1px solid #ccc;
-        border-bottom: 1px solid #ccc;
-        }
+  .site-content figure {
+    position: relative;
 
-    .wp-caption.alignleft .wp-caption-text,
-    .wp-caption.aligncenter .wp-caption-text {
-        left: -13.625em;
-        }
-        
-    .wp-caption.alignright .wp-caption-text {
-        right: -13.625em;
-        }
-            
+    figcaption {
+      position: absolute;
+      top: 0;
+      width: 12.125em;
+      margin: 0;
+      padding: 0.8075em 0;
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
     }
+
+    &.alignleft figcaption,
+    &.aligncenter figcaption {
+      left: -13.625em;
+    }
+
+    &.alignright figcaption {
+      right: -13.625em;
+    }
+  }         
+}
 
 /*--------------------------------------------------------------
 12.2 Galleries
