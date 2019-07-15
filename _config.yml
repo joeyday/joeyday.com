@@ -31,13 +31,13 @@ github_username:  joeyday
 markdown: kramdown
 # highlighter: rouge
 theme: jekyll-theme-minimal
-permalink: /:year/:month/:day/:title/
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+# permalink: /:year/:month/:day/:title/
 excerpt_separator: "<!--more-->"
 paginate: 10
 paginate_path: "/page/:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
