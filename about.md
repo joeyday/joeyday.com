@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Established in 2002 by Joey Day, this is an exercise in critical thinking and writing about Christian theology, apologetics, technology, software engineering, web development, ramen noodles, and whatever other topics strike my fancy.
+Established in 2002 by Joey Day, this is an exercise in critical thinking and writing about Christian theology, apologetics, technology, software engineering, web development, video games, ramen noodles, and whatever other topics strike my fancy.
 
 ## About the author
 
