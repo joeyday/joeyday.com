@@ -16,17 +16,26 @@
 
   {% if page_paths %}
     <nav id="site-navigation" class="main-navigation" role="navigation">
-      <a class="page-link" href="/">Home</a>
+      <ul class="menu nav-menu">
+        <li class="menu-item">
+          <a class="page-link" href="/">Home</a>
+        </li>
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.title %}
+            <li class="menu-item">
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
       
-      {% for path in page_paths %}
-        {% assign my_page = site.pages | where: "path", path | first %}
-        {% if my_page.title %}
-        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-        {% endif %}
-      {% endfor %}
-      
-      <a class="page-link" href="http://twitter.com/joeyday">Twitter</a>
-      <a class="page-link" href="http://facebook.com/joeynday">Facebook</a>
+        <li class="menu-item">
+          <a class="page-link" href="http://twitter.com/joeyday">Twitter</a>
+        </li>
+        <li class="menu-item">
+          <a class="page-link" href="http://facebook.com/joeynday">Facebook</a>
+        </li>
+      </ul>
     </nav>
   {% endif %}
 </header>
