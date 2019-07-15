@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginate
 excerpt_separator: "<!--more-->"
 paginate: 10
+paginate_path: "/page/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
