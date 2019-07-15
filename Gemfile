@@ -20,9 +20,9 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-   gem "jekyll-paginate-v2", "~> 2.0.0"
-   gem "liquefy", "~> 0.1.2"
+   gem "jekyll-feed"
+   gem "jekyll-paginate"
+   gem "liquefy"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
