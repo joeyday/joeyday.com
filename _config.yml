@@ -35,6 +35,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
 excerpt_separator: "<!--more-->"
+paginate: 10
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
