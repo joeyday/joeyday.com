@@ -1,0 +1,13 @@
+---
+layout:  post
+title:  Eventful Week
+date:   2002-09-21
+---
+
+A lot has happened since the last time I wrote. First, let me say that my grandmother is doing fine. She was released from the hospital yesterday, and with some home care therapy and the like, she should be able to make a complete recovery from the stroke. I'm sure she is grateful for all of your prayers on her behalf.
+
+Second, I got a package in the mail on Thursday that guarantees I'm the nerdiest (is that a word?) person any of you know. It's a Targus Portable Stowaway Keyboard for my Handspring Visor Prism. Basically it's a full-size keyboard that folds in four sections down to only slightly larger that my Visor. I have already used it to write a paper for my Spanish class whilst I was sitting in the Crimson Underground (a food-court-like area on the lower floor of the University Union Building). I've got a Word Processor program on my Visor called Documents To Go. It allows me to sync all my documents up with Microsoft Word. So I'll be able to print my paper out at home and turn it in on Wednesday! Slick. 😊
+
+Stuart is now working with me at ContentWatch. He interviewed two Tuesdays ago and was hired last Friday. He started this last Tuesday, and is catching on fast. There's a considerable chunk of information to digest before you can really start answering support questions, but I'm confident that in no time at all he'll be answering just about any question a customer can throw at him. He has since quit his job at 5 Buck Pizza. Of course, "quit" may be a word that deserves further scrutiny (but I'll leave that discussion for another day!).
+
+And last but not least, last weekend I had four (count ’em—4!) bloody noses in four days. I'm going to try to make an appointment with my Primary Care Physician on Monday. They probably won't be able to get me in 'till the end of the week, but I need to go. I've had a sore throat off and on for the past three or four weeks, and lately I've had a lot of congestion in my nose and/or sinuses. I think my nose is just dry, but a good friend suggested that I might need to have an artery cauterized up there somewhere. Yikes. Anyway, I've been sleeping with a humidifier at night, and Janene gave me some saline nose spray (nothing addictive, darnit), which seems to be moistening up my nose quite well. Hopefully I don't have something seriously wrong with me, but that remains to be seen.
