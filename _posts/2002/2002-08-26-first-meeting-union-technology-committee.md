@@ -8,4 +8,4 @@ I’m settling in to all my classes quite well, I think. I’ve done a few homew
 
 We had our first meeting for the Union Technology Committee last Friday. We met again today to discuss what we’re planning to do with the website. I’m really excited to be serving on the committee. There’s some kind of national association that all University Unions belong to, and they hold yearly competitions for various union departments, one of which being a website competition. So Dave (the Union Technology Chair, my immediate superior) has made a goal for us to win the competition this year. We’ve been looking over some of the websites that have won in the past, and I really think we could do it. The next few months should be very interesting and fun.
 
-I’m going to start learning PHP and Flash for the Union website, so I might be posting some new stuff on my [Computers](/computers) page soon. Keep checking back.
+I’m going to start learning PHP and Flash for the Union website, so I might be posting some new stuff on my [Computers](/computers) page soon. Keep checking back.{% include endmark.html %}

@@ -8,4 +8,4 @@ My car went into the shop this morning. I've had it looked at by so many people 
 
 So I gave them the green light to replace the two injectors and completely flush the other four. In total, the work is costing me about $750, which completely breaks me, but doesn't force me into any debt. I'll pick up the car at around four o'clock today, so I'll have to let you know later if all is well.
 
-I do want to thank my God for the abundance of blessing I receive at his hand daily—even hourly. He is an awesome God, of that I'm convinced!
+I do want to thank my God for the abundance of blessing I receive at his hand daily—even hourly. He is an awesome God, of that I'm convinced!{% include endmark.html %}
