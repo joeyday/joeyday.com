@@ -187,6 +187,9 @@ pre {
     }
 pre, code, kbd, tt, var {
 	font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-feature-settings: normal !important;
+  -webkit-font-feature-settings: normal !important;
+  -moz-font-feature-settings: normal !important;
     }
 /* abbr, acronym {
 	border-bottom: 1px dotted #666;

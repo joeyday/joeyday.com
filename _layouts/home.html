@@ -17,6 +17,11 @@ layout: default
                 {% endif %}
                 
                 <div class="entry-meta">
+                  {% if post.author %}
+                    <span class="posted-by">
+                      By guest author {{ post.author }}
+                    </span><br />
+                  {% endif %}
                   <span class="posted-on">
                     <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                         {% assign date_format = site.minima.date_format | default: "%A, %B %e, %Y" %}
