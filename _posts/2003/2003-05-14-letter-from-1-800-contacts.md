@@ -4,7 +4,7 @@ title:	Letter From 1-800 CONTACTS
 date:	2003-05-14
 ---
 
-I walked in the house this afternoon and checked the counter for my mail, and there was a letter from 1-800 CONTACTS. I figure it's pretty customary for a company to call you if they want to hire you and send you a letter if not, so right away I prepared myself for the worst. I've included a copy of the letter below. Please note: My own commentary is in brackets throughout the letter. :)
+I walked in the house this afternoon and checked the counter for my mail, and there was a letter from 1-800 CONTACTS. I figure it's pretty customary for a company to call you if they want to hire you and send you a letter if not, so right away I prepared myself for the worst. I've included a copy of the letter below. Please note: My own commentary is in brackets throughout the letter. 😊
 
 > May 12, 2003
 >
@@ -18,7 +18,7 @@ I walked in the house this afternoon and checked the counter for my mail, and th
 >
 > Sincerely,
 >
-> Michelle Cloud
+> Michelle Cloud  
 > Recruiting/Training Coordinator
 
 I wish I could say I'm angry, but if I was being proactive I would have a job by now. I'm starting to feel really frustrated with the situation, because I know I could get a great job, but what if I'm being too picky? Should I just apply at four thousand places and take the first one that calls me back? Is the job market such that hand picking a job is just not possible?{% include endmark.html %}

@@ -5,7 +5,7 @@ date:	2003-05-17
 ---
 
 <figure class="aligncenter">
-    <img src="/assets/images/2003-05-17-businesscard.jpg" style="width: 420px;" alt="Joey’s new business card" />
+    <img src="/assets/images/2003-05-17-businesscard.gif" style="width: 420px;" alt="Joey’s new business card" />
 </figure>
 
 I feel like I've finally arrived. I have business cards 😄. This UPC job is really spoiling me. They've already booked me for an I-LEAD leadership conference in Indiana around the first of August. They've also offered me the opportunity to go to an EMS conference in Colorado in mid-July. EMS stands for Event Management System, and it is a software product the Union is going to start using. It's mostly going to be used by our reservations secretaries, but they want me to know how to use it since I'll be implementing a web interface so that individuals and organizations can log onto our website to book reservations in the Union building.

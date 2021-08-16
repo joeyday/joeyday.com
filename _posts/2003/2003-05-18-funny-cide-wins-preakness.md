@@ -10,6 +10,6 @@ I didn't see the Preakness (I wasn't really interested to tell you the truth), b
 
 If you'd like more info, there were a number of articles on Reuters.com.
 
-[Funny Cide's Triple Crown Dreams Lie in Belmont](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=2765330)
-[Funny Cide Guns for the History Books](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=2763527)
+[Funny Cide's Triple Crown Dreams Lie in Belmont](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=2765330)  
+[Funny Cide Guns for the History Books](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=2763527)  
 [Funny Cide Crushes Preakness Field](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=2763486){% include endmark.html %}
