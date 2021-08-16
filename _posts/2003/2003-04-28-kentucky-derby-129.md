@@ -16,13 +16,13 @@ There is a lot of tradition surrounding the derby. Of all the traditions I'd hav
 
 ## Chocolate Chip Cookie Pie (a.k.a. Derby Pie)
 
-2 eggs
-1/2 cup all purpose flour
-1/2 cup sugar
-1/2 cup brown sugar
-1 cup melted butter, cooled
-1 cup chocolate chips
-1 cup chopped pecans (or use 2 cups chips and leave out the pecans)
+2 eggs  
+1/2 cup all purpose flour  
+1/2 cup sugar  
+1/2 cup brown sugar  
+1 cup melted butter, cooled  
+1 cup chocolate chips  
+1 cup chopped pecans (or use 2 cups chips and leave out the pecans)  
 1 9-inch unbaked pie shell
 
 Beat eggs well in large bowl. Add flour and sugars and mix until well blended. Stir in the melted butter. Add chips and pecans (if using). Pour into unbaked pie shell, and bake at 325 degrees for 55-65 minutes until puffy and golden brown. Makes 12 servings.{% include endmark.html %}

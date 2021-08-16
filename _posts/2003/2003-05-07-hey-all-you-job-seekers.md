@@ -17,7 +17,7 @@ My point is...
 My point is there IS a market out there for our photo-editing service. People want their pictures fixed, restored, and reprinted. People want to add missing people to their family gatherings, and they want to fix their own bad facial expressions. They don't want to pay a lot for Photoshop, and they don't know how to edit pictures on their own.
 People just need to know about us, but I don't know how to market the business alone. I need your help.
 
-# Job Description
+## Job Description
 
 Until December 2003, __I will give you HALF of any revenue _[Fixapicture.com](http://fixapicture.com/)_ generates from customers you bring in.__
 
@@ -29,6 +29,6 @@ _[Fixapicture.com](http://fixapicture.com/)_ even has a small advertising budget
 
 If a customer says they responded to an ad you organized, __you get half of what they pay.__
 
-# Conclusion
+## Conclusion
 
 I really believe this company has potential. There's a market out there. There's a working company in here. Come get in on the ground floor, and help us bring the two together!
