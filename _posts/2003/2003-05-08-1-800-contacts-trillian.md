@@ -1,0 +1,11 @@
+---
+layout:	post
+title:	1-800 CONTACTS, Trillian
+date:	2003-05-08
+---
+
+Well, after finding out that everyone but me (As I type this there are 8 comments on my post from [May 2](/2003/05/02/job-application-union-website/)) seems to know that Vector Marketing is not a good place to work, I'm feeling somewhat sheepish. :)
+
+I have now applied at [1-800 CONTACTS](http://www.1800contacts.com/), where I could start full-time making $8.50/hr. From what I understand, they have an on site chef, and the food is free on the weekends. On top of that, bread, cereal, fruit, and beverages are always free. They also have massage tables in the break rooms and a fitness center. They require six months of customer service experience and 35 WPM typing skills. I have almost double of both so I'm really hoping they will consider me. The $8.50 would be a pay cut for me, but the full time hours would more than make up for that. They also claim to have "frequent reviews", so hopefully I could get a raise after being there a while.
+
+Have you heard of this new thing called [Trillian](http://www.trillian.cc/)? I guess Stuart started using it last week, and the other day a friend at work (Cole) told me he's been using it and loves it. So I finally decided to download it, and now I'm absolutely hooked. Trillian is a really slick little tool that allows you to log into the four major instant messenger programs (AOL Instant Messenger, ICQ, MSN/Windows Messenger, and Yahoo! Messenger) all at once. It also has a somewhat decent IRC client built in. I personally think the basic look of Trillian is quite ugly, but the good news is it's skinnable. The skin I'm using makes Trillian look exactly like MSN Messenger 5.0, so I feel right at home using it. In the past two days I've already installed it at work, at home, and at Janene's house. I will probably install it up at the Union building the next time I am there. If you're into instant messaging, I fully recommend that you start using Trillian.{% include endmark.html %}
