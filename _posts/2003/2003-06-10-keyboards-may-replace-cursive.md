@@ -2,6 +2,7 @@
 layout:	post
 title:	Keyboards May Replace Cursive
 date:	2003-06-10
+author: Kristen
 ---
 
 This board has been slow for a bit, so I'm going to add something. I found [this article](http://www.msnbc.com/news/922690.asp?0dm=T14MT) online today at MSN. I remember learning cursive in 3rd grade. I remember slanting my paper... and lining up each letter and having it reach clear from the bottom to the top. I think David and I talked about this once. I remember being more meticulous in my practices... while he said he just didn't really do the lessons and just sort of quickly wrote things out. Guess which one out of the two of us has better handwriting today? 😉

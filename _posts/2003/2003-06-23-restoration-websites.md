@@ -1,0 +1,17 @@
+---
+layout:	post
+title:	Restoration Websites
+date:	2003-06-23
+---
+
+For the past few months I've been reading _Mormon America_, by Richard and Joan Ostling. It is probably the most objective book about Mormonism by any non-Mormon writer, and I've found it to be a painstakingly accurate and non-confrontational book. It presents the details of the Mormon faith very meticulously and mostly positively, and leaves the reader up to his own judgment as to what sort of religion Mormonism is. I would highly recommend it to any reader.
+
+The other day I was flipping through and found an interesting appendix in the back that lists a handful of websites related to Mormonism...
+
+The list includes the obvious [lds.org](https://www.lds.org/) and [mormon.com](http://www.mormon.com/), but adds to these the Reorganized Church's website, [rlds.org](http://www.rlds.org/) (which, incindentally, now points to [cofchrist.org](http://www.cofchrist.org/), which stands for their new name, "Community of Christ") and another intriguing site, [restoration.org](http://www.restoration.org/).
+
+Restoration.org lists over a hundred splinter churches from the original LDS church, most of which are located in or around Independance, MO. One of the more interesting splinters is the [Church of Jesus Christ of Latter Day Saints (Strangite)](http://www.strangite.org/) ("Latter Day" is not a typo. That's how they write it. They also do not include the article "The" at the beginning of the name). They claim that a man named James J. Strang was appointed by Smith himself to lead the church after his death. They also claim that Strang translated a set of plates said to be the actual plates given by the Lord to Moses on the Mount Sinai. These plates were included with the brass plates that Nephi took from Laban, and were hidden with the Book of Mormon in the Hill Cumorah. The translation is called "The Book of the Law of the Lord". Strang was martyred in 1856, similarly to Joseph Smith, twelve years after he supposedly succeeded Joseph. Since then they have been without a prophet, and they do not regard this situation as compromising to their faith in any way, though many of their membership have since defected to the RLDS church.
+
+Another interesting link from restoration.org is [iNephi.com](http://www.inephi.com/). At this site, you can view actual photographs of every page of an original 1830 edition of the Book of Mormon. The photographed book belongs to a fellow named John Hajicek, who also oversees two other websites: [mormonism.com](http://www.mormonism.com/) and [hajicek.com](http://www.hajicek.com/). Mr. Hajacek owns the largest individually held collection of Mormon historical documents, third in size next to the collections held by the LDS church and Brigham Young University. He lists his entire collection on mormonism.com and his (very interesting) personal convictions on hajicek.com.
+
+I found all of this information extremely intriguing, and hope that many of you who read this site may also. Please note that I have not shared any of this information out of criticism or offense toward any of my Mormon friends or family members. I only found these links interesting and thought I should share them.{% include endmark.html %}

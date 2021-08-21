@@ -14,7 +14,7 @@ You may need to watch it two or three times to figure out what is going on in a 
 
 There have been several articles published about the commercial. I’ve listed a few of them below:
 
-Daily Telegraph: [Lights! Camera! Retake!](http://www.dailytelegraph.co.uk/news/main.jhtml?xml=/news/2003/04/13/nhonda13.xml&sSheet=/news/2003/04/13/ixhome.html)
-Daily Report: [TAKE 606](http://www.dailyrecord.co.uk/news/page.cfm?objectid=12844132&method=full&siteid=89488&headline=TAKE%20606)
-The Oregonian: [Mechanical Marvel](http://www.oregonlive.com/search/index.ssf?/base/business/1051618164120441.xml?oregonian?fng)
+Daily Telegraph: [Lights! Camera! Retake!](http://www.dailytelegraph.co.uk/news/main.jhtml?xml=/news/2003/04/13/nhonda13.xml&sSheet=/news/2003/04/13/ixhome.html)  
+Daily Report: [TAKE 606](http://www.dailyrecord.co.uk/news/page.cfm?objectid=12844132&method=full&siteid=89488&headline=TAKE%20606)  
+The Oregonian: [Mechanical Marvel](http://www.oregonlive.com/search/index.ssf?/base/business/1051618164120441.xml?oregonian?fng)  
 Slate (MSN): [Honda’s Incredible Driving Contraption](http://slate.msn.com/id/2081638/){% include endmark.html %}
