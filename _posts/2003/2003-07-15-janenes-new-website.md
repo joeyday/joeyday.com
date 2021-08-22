@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	Janene's New Website
+title:	Janene’s New Website
 date:	2003-07-15
 ---
 
