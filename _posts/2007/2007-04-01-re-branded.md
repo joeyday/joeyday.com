@@ -2,7 +2,7 @@
 id: 655
 title: Re-branded
 date: '2007-04-01T18:00:24+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/01/re-branded'
 permalink: /index.php/2007/04/01/re-branded/

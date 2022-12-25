@@ -2,7 +2,7 @@
 id: 120
 title: 'Interblog Menus'
 date: '2004-12-31T01:02:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/31/interblog-menus'
 permalink: /index.php/2004/12/31/interblog-menus/

@@ -2,7 +2,7 @@
 id: 482
 title: 'Discrimination in L.A. County'
 date: '2004-07-04T15:57:43+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/04/discrimination-in-la-county'
 permalink: /index.php/2004/07/04/discrimination-in-la-county/

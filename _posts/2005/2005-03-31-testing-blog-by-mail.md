@@ -2,7 +2,7 @@
 id: 156
 title: 'Testing Blog by Mail'
 date: '2005-03-31T11:16:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/31/testing-blog-by-mail'
 permalink: /index.php/2005/03/31/testing-blog-by-mail/

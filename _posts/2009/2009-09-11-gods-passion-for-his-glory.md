@@ -2,7 +2,7 @@
 id: 1304
 title: 'God&#039;s Passion for His Glory'
 date: '2009-09-11T18:44:35+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1304'
 permalink: /index.php/2009/09/11/gods-passion-for-his-glory/

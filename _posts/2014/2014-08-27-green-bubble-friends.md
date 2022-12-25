@@ -2,7 +2,7 @@
 id: 2453
 title: '“Green Bubble Friends”'
 date: '2014-08-27T17:33:11+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2453'
 permalink: /index.php/2014/08/27/green-bubble-friends/

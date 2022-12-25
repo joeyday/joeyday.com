@@ -2,7 +2,7 @@
 id: 638
 title: 'Bible literacy'
 date: '2007-03-31T17:41:59+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/31/bible-literacy'
 permalink: /index.php/2007/03/31/bible-literacy/

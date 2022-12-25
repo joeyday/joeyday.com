@@ -2,7 +2,7 @@
 id: 595
 title: 'Syzygy playlist the first'
 date: '2007-01-30T13:41:12+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/01/30/syzygy-playlist-the-first'
 permalink: /index.php/2007/01/30/syzygy-playlist-the-first/

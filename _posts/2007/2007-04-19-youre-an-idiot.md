@@ -2,7 +2,7 @@
 id: 671
 title: 'You&#039;re an idiot'
 date: '2007-04-19T09:35:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/19/youre-an-idiot'
 permalink: /index.php/2007/04/19/youre-an-idiot/

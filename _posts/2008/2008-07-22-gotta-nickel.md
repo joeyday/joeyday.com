@@ -2,7 +2,7 @@
 id: 818
 title: 'Gotta nickel?'
 date: '2008-07-22T18:43:52+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/07/22/gotta-nickel'
 permalink: /index.php/2008/07/22/gotta-nickel/

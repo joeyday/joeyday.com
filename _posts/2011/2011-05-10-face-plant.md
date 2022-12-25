@@ -2,7 +2,7 @@
 id: 1760
 title: 'Face plant!'
 date: '2011-05-10T19:01:25+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1760'
 permalink: /index.php/2011/05/10/face-plant/

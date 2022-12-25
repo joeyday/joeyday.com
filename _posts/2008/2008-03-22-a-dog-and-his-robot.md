@@ -2,7 +2,7 @@
 id: 789
 title: 'A dog and his robot'
 date: '2008-03-22T11:09:57+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/22/a-dog-and-his-robot'
 permalink: /index.php/2008/03/22/a-dog-and-his-robot/

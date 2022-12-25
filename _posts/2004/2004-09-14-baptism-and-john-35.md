@@ -2,7 +2,7 @@
 id: 487
 title: 'Baptism and John 3:5'
 date: '2004-09-14T16:41:05+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/14/baptism-and-john-35'
 permalink: /index.php/2004/09/14/baptism-and-john-35/

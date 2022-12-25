@@ -2,7 +2,7 @@
 id: 556
 title: 'Eternal Companion: A few passages'
 date: '2006-05-29T20:57:51+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/29/eternal-companion-a-few-passages'
 permalink: /index.php/2006/05/29/eternal-companion-a-few-passages/

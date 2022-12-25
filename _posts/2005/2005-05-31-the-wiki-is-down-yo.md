@@ -2,7 +2,7 @@
 id: 169
 title: 'The Wiki is Down, Yo.'
 date: '2005-05-31T10:57:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/31/the-wiki-is-down-yo'
 permalink: /index.php/2005/05/31/the-wiki-is-down-yo/

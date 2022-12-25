@@ -2,7 +2,7 @@
 id: 81
 title: 'Gmail Invites'
 date: '2004-09-21T10:17:38+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/21/gmail-invites'
 permalink: /index.php/2004/09/21/gmail-invites/

@@ -2,7 +2,7 @@
 id: 520
 title: 'Mormon Literature'
 date: '2005-03-29T19:39:10+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/29/mormon-literature'
 permalink: /index.php/2005/03/29/mormon-literature/

@@ -2,7 +2,7 @@
 id: 3012
 title: 'The Symbol of the Cross'
 date: '2005-03-02T11:47:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/02/the-symbol-of-the-cross'
 permalink: /index.php/2005/03/02/the-symbol-of-the-cross/

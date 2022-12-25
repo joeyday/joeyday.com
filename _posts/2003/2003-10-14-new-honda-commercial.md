@@ -2,7 +2,7 @@
 id: 19
 title: 'New Honda Commercial'
 date: '2003-10-14T08:47:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/14/new-honda-commercial'
 permalink: /index.php/2003/10/14/new-honda-commercial/

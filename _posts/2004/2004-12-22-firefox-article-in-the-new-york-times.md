@@ -2,7 +2,7 @@
 id: 115
 title: 'Firefox Article in the New York Times'
 date: '2004-12-22T11:18:37+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/22/firefox-article-in-the-new-york-times'
 permalink: /index.php/2004/12/22/firefox-article-in-the-new-york-times/

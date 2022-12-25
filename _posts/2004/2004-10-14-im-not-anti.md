@@ -2,7 +2,7 @@
 id: 97
 title: 'I&#039;m Not Anti-Microsoft, Am I?'
 date: '2004-10-14T20:22:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/14/im-not-anti'
 permalink: /index.php/2004/10/14/im-not-anti/

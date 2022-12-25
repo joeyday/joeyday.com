@@ -2,7 +2,7 @@
 id: 512
 title: 'Lost Books'
 date: '2005-03-14T16:31:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/14/lost-books'
 permalink: /index.php/2005/03/14/lost-books/

@@ -2,7 +2,7 @@
 id: 533
 title: 'Is paid ministry unbiblical?'
 date: '2005-06-03T15:05:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/06/03/is-paid-ministry-unbiblical'
 permalink: /index.php/2005/06/03/is-paid-ministry-unbiblical/

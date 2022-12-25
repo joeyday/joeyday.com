@@ -2,7 +2,7 @@
 id: 851
 title: 'NPR Miscellany #5'
 date: '2008-08-03T01:02:35+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/08/03/npr-miscellany-5'
 permalink: /index.php/2008/08/03/npr-miscellany-5/

@@ -2,7 +2,7 @@
 id: 810
 title: 'The Weepies&#039; son Theo introduces Hideaway'
 date: '2008-04-24T11:30:23+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/24/the-weepies-son-theo-introduces-hideaway'
 permalink: /index.php/2008/04/24/the-weepies-son-theo-introduces-hideaway/

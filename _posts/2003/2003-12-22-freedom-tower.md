@@ -2,7 +2,7 @@
 id: 42
 title: 'Freedom Tower'
 date: '2003-12-22T16:23:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/22/freedom-tower'
 permalink: /index.php/2003/12/22/freedom-tower/

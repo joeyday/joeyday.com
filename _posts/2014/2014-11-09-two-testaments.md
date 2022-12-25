@@ -2,7 +2,7 @@
 id: 2589
 title: 'Two Testaments'
 date: '2014-11-09T22:28:22+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2589'
 permalink: /index.php/2014/11/09/two-testaments/

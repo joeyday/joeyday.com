@@ -2,7 +2,7 @@
 id: 2104
 title: Quadcopters
 date: '2013-02-22T14:51:34+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2104'
 permalink: /index.php/2013/02/22/quadcopters/

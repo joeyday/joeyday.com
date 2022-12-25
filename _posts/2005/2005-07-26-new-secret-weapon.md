@@ -2,7 +2,7 @@
 id: 178
 title: 'New Secret Weapon'
 date: '2005-07-26T14:42:21+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/secret-weapon'
 permalink: /index.php/2005/07/26/new-secret-weapon/

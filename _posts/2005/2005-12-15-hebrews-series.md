@@ -2,7 +2,7 @@
 id: 550
 title: 'Hebrews Series'
 date: '2005-12-15T09:40:55+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/12/15/hebrews-series'
 permalink: /index.php/2005/12/15/hebrews-series/

@@ -2,7 +2,7 @@
 id: 14
 title: 'New Forum for I-LEAD Participants'
 date: '2003-10-08T08:25:52+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/08/new-forum-for-i-lead-participants'
 permalink: /index.php/2003/10/08/new-forum-for-i-lead-participants/

@@ -2,7 +2,7 @@
 id: 615
 title: 'NPR miscellany #3'
 date: '2007-03-04T16:55:15+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/04/npr-miscellany-3'
 permalink: /index.php/2007/03/04/npr-miscellany-3/

@@ -2,7 +2,7 @@
 id: 136
 title: 'The WordPress 1.5 Dashboard'
 date: '2005-02-21T10:28:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/21/the-wordpress-15-dashboard'
 permalink: /index.php/2005/02/21/the-wordpress-15-dashboard/

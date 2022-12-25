@@ -2,7 +2,7 @@
 id: 2747
 title: 'Integrating ServiceNow with HipChat'
 date: '2015-05-18T23:18:51+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2747'
 permalink: /index.php/2015/05/18/integrating-servicenow-with-hipchat/

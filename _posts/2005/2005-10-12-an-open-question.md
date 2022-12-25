@@ -2,7 +2,7 @@
 id: 541
 title: 'An Open Question'
 date: '2005-10-12T14:30:26+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/10/12/an-open-question'
 permalink: /index.php/2005/10/12/an-open-question/

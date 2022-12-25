@@ -2,7 +2,7 @@
 id: 545
 title: 'Word of Wisdom Promises'
 date: '2005-10-30T17:22:49+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/10/30/word-of-wisdom-promises'
 permalink: /index.php/2005/10/30/word-of-wisdom-promises/

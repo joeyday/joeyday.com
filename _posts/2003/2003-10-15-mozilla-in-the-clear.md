@@ -2,7 +2,7 @@
 id: 21
 title: 'Mozilla in the Clear'
 date: '2003-10-15T18:19:35+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/15/mozilla-in-the-clear'
 permalink: /index.php/2003/10/15/mozilla-in-the-clear/

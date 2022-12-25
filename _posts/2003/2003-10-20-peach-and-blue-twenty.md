@@ -2,7 +2,7 @@
 id: 25
 title: 'Peach and Blue Twenty'
 date: '2003-10-20T20:14:13+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/20/peach-and-blue-twenty'
 permalink: /index.php/2003/10/20/peach-and-blue-twenty/

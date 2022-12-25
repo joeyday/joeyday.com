@@ -2,7 +2,7 @@
 id: 160
 title: 'A New Domain'
 date: '2005-04-24T14:36:57+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/24/a-new-domain'
 permalink: /index.php/2005/04/24/a-new-domain/

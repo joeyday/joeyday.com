@@ -2,7 +2,7 @@
 id: 26
 title: 'Keep Your Mobile Phone Number'
 date: '2003-10-23T08:50:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/23/keep-your-mobile-phone-number'
 permalink: /index.php/2003/10/23/keep-your-mobile-phone-number/

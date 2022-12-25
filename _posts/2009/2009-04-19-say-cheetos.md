@@ -2,7 +2,7 @@
 id: 915
 title: 'Say Cheetos!'
 date: '2009-04-19T22:36:02+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=915'
 permalink: /index.php/2009/04/19/say-cheetos/

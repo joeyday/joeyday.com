@@ -2,7 +2,7 @@
 id: 85
 title: 'Spread Firefox'
 date: '2004-09-28T16:04:45+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/28/spread-firefox'
 permalink: /index.php/2004/09/28/spread-firefox/

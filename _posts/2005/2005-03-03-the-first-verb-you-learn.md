@@ -2,7 +2,7 @@
 id: 507
 title: 'The first verb you learn'
 date: '2005-03-03T10:37:24+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/03/the-first-verb-you-learn'
 permalink: /index.php/2005/03/03/the-first-verb-you-learn/

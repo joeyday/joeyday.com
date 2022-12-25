@@ -2,7 +2,7 @@
 id: 2773
 title: 'Metric for Updated By'
 date: '2015-05-30T00:33:41+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2773'
 permalink: /index.php/2015/05/30/metric-for-updated-by/

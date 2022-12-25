@@ -2,7 +2,7 @@
 id: 131
 title: 'RSS for State Documents'
 date: '2005-02-10T11:50:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/10/rss-for-state-documents'
 permalink: /index.php/2005/02/10/rss-for-state-documents/

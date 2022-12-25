@@ -2,7 +2,7 @@
 id: 18
 title: 'Lighten Up, Teach!'
 date: '2003-10-09T18:03:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/09/lighten-up-teach'
 permalink: /index.php/2003/10/09/lighten-up-teach/

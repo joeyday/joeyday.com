@@ -2,7 +2,7 @@
 id: 1385
 title: 'Google Wave'
 date: '2009-10-06T18:11:49+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1385'
 permalink: /index.php/2009/10/06/google-wave/

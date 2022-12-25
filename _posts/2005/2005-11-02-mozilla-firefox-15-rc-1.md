@@ -2,7 +2,7 @@
 id: 184
 title: 'Mozilla Firefox 1.5 RC1'
 date: '2005-11-02T09:15:53+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/11/02/mozilla-firefox-15-rc-1'
 permalink: /index.php/2005/11/02/mozilla-firefox-15-rc-1/

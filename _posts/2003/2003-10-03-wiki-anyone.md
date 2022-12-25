@@ -2,7 +2,7 @@
 id: 10
 title: 'Wiki Anyone?'
 date: '2003-10-03T09:31:04+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/03/wiki-anyone'
 permalink: /index.php/2003/10/03/wiki-anyone/

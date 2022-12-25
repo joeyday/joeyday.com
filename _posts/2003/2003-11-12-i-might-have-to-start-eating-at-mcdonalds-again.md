@@ -2,7 +2,7 @@
 id: 30
 title: 'I Might Have to Start Eating at McDonald&#039;s Again'
 date: '2003-11-12T14:39:48+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/12/i-might-have-to-start-eating-at-mcdonalds-again'
 permalink: /index.php/2003/11/12/i-might-have-to-start-eating-at-mcdonalds-again/

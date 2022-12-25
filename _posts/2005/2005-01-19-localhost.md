@@ -2,7 +2,7 @@
 id: 127
 title: localhost
 date: '2005-01-19T10:30:11+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/19/localhost'
 permalink: /index.php/2005/01/19/localhost/

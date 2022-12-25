@@ -2,7 +2,7 @@
 id: 610
 title: 'Introducing the book'
 date: '2007-02-15T14:16:03+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/15/introducing-the-book'
 permalink: /index.php/2007/02/15/introducing-the-book/

@@ -2,7 +2,7 @@
 id: 1856
 title: 'By the grace of God they were freely willing'
 date: '2011-09-19T19:06:49+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1856'
 permalink: /index.php/2011/09/19/by-the-grace-of-god-they-were-freely-willing/

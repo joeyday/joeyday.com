@@ -2,7 +2,7 @@
 id: 1892
 title: 'On consistency between Biblical authors'
 date: '2012-04-08T15:37:36+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1892'
 permalink: /index.php/2012/04/08/on-consistency-between-biblical-authors/

@@ -2,7 +2,7 @@
 id: 1983
 title: 'A new mealtime game'
 date: '2012-04-07T15:59:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1983'
 permalink: /index.php/2012/04/07/a-new-mealtime-game/

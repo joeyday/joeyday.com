@@ -2,7 +2,7 @@
 id: 65
 title: 'Amazing Race 5'
 date: '2004-07-11T22:41:43+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/11/amazing-race-5'
 permalink: /index.php/2004/07/11/amazing-race-5/

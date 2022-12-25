@@ -2,7 +2,7 @@
 id: 126
 title: 'Introducing &quot;Joey Day : Collaboration&quot;'
 date: '2005-01-17T15:06:28+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/17/introducing-joey-day-collaboration'
 permalink: /index.php/2005/01/17/introducing-joey-day-collaboration/

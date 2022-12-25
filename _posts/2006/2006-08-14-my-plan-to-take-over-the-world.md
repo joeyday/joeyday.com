@@ -2,7 +2,7 @@
 id: 202
 title: 'My plan to take over the world'
 date: '2006-08-14T06:15:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/08/14/my-plan-to-take-over-the-world'
 permalink: /index.php/2006/08/14/my-plan-to-take-over-the-world/

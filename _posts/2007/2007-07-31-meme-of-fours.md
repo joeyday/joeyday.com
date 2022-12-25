@@ -2,7 +2,7 @@
 id: 713
 title: 'Meme of fours'
 date: '2007-07-31T14:24:25+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/07/31/meme-of-fours'
 permalink: /index.php/2007/07/31/meme-of-fours/

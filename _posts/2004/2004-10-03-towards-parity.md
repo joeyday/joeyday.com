@@ -2,7 +2,7 @@
 id: 90
 title: 'Towards Parity'
 date: '2004-10-03T23:38:55+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/03/towards-parity'
 permalink: /index.php/2004/10/03/towards-parity/

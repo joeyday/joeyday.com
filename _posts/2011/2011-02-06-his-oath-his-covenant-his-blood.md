@@ -2,7 +2,7 @@
 id: 1707
 title: 'His oath, his covenant, his blood'
 date: '2011-02-06T11:52:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2011/02/06/his-oath-his-covenant-his-blood'
 permalink: /index.php/2011/02/06/his-oath-his-covenant-his-blood/

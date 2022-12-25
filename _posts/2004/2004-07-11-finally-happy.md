@@ -2,7 +2,7 @@
 id: 64
 title: 'Finally Happy'
 date: '2004-07-11T16:39:59+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/11/finally-happy'
 permalink: /index.php/2004/07/11/finally-happy/

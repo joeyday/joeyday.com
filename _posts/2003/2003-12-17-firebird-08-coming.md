@@ -2,7 +2,7 @@
 id: 40
 title: 'Firebird 0.8 Coming'
 date: '2003-12-17T22:54:53+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/17/firebird-08-coming'
 permalink: /index.php/2003/12/17/firebird-08-coming/

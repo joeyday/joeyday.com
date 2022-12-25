@@ -2,7 +2,7 @@
 id: 3011
 title: 'Change of Procedure'
 date: '2005-03-02T11:47:15+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/02/change-of-procedure'
 permalink: /index.php/2005/03/02/change-of-procedure/

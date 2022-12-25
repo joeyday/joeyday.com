@@ -2,7 +2,7 @@
 id: 49
 title: 'Mozilla Firefox 0.8'
 date: '2004-02-10T13:23:12+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/02/10/mozilla-firefox-08'
 permalink: /index.php/2004/02/10/mozilla-firefox-08/

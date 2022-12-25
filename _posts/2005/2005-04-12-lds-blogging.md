@@ -2,7 +2,7 @@
 id: 527
 title: 'LDS Blogging'
 date: '2005-04-12T10:27:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/12/lds-blogging'
 permalink: /index.php/2005/04/12/lds-blogging/

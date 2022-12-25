@@ -2,7 +2,7 @@
 id: 147
 title: 'Wedding Pics'
 date: '2005-03-06T00:25:55+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/06/wedding-pics'
 permalink: /index.php/2005/03/06/wedding-pics/

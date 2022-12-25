@@ -2,7 +2,7 @@
 id: 631
 title: 'See you later, spam!'
 date: '2007-03-22T09:34:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/22/see-you-later-spam'
 permalink: /index.php/2007/03/22/see-you-later-spam/

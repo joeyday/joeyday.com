@@ -2,7 +2,7 @@
 id: 498
 title: 'WordPress Plugin: LDS Linker 1.2'
 date: '2005-02-11T17:28:42+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/11/wordpress-plugin-lds-linker-12a'
 permalink: /index.php/2005/02/11/wordpress-plugin-lds-linker-12a/

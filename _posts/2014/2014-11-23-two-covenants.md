@@ -2,7 +2,7 @@
 id: 2615
 title: 'Two Covenants'
 date: '2014-11-23T16:05:28+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2615'
 permalink: /index.php/2014/11/23/two-covenants/

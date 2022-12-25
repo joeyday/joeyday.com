@@ -2,7 +2,7 @@
 id: 182
 title: 'Mozilla Firefox 1.5 Beta 1'
 date: '2005-09-09T13:41:58+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=182'
 permalink: /index.php/2005/09/09/mozilla-firefox-15-beta-1/

@@ -2,7 +2,7 @@
 id: 80
 title: 'Avocation Enters the 21st Century'
 date: '2004-09-16T17:23:42+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/16/avocation-enters-the-21st-century'
 permalink: /index.php/2004/09/16/avocation-enters-the-21st-century/

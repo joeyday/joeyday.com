@@ -2,7 +2,7 @@
 id: 730
 title: 'Assembly line'
 date: '2007-08-22T07:14:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/22/assembly-line'
 permalink: /index.php/2007/08/22/assembly-line/

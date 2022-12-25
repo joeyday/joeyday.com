@@ -2,7 +2,7 @@
 id: 133
 title: 'An Obligatory Ping'
 date: '2005-02-11T00:13:53+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/11/an-obligatory-ping'
 permalink: /index.php/2005/02/11/an-obligatory-ping/

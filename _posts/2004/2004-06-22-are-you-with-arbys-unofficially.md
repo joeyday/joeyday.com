@@ -2,7 +2,7 @@
 id: 58
 title: 'Are you with Arby&#039;s? &#8212; Unofficially.'
 date: '2004-06-22T18:43:05+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/22/are-you-with-arbys-unofficially'
 permalink: /index.php/2004/06/22/are-you-with-arbys-unofficially/

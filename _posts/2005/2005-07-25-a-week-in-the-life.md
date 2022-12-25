@@ -2,7 +2,7 @@
 id: 535
 title: 'A Week in the Life'
 date: '2005-07-25T21:03:10+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/25/a-week-in-the-life'
 permalink: /index.php/2005/07/25/a-week-in-the-life/

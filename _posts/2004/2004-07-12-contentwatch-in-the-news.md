@@ -2,7 +2,7 @@
 id: 67
 title: 'ContentWatch in the News'
 date: '2004-07-12T17:48:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/12/contentwatch-in-the-news'
 permalink: /index.php/2004/07/12/contentwatch-in-the-news/

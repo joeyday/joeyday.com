@@ -2,7 +2,7 @@
 id: 121
 title: 'Beautiful Day'
 date: '2005-01-01T12:30:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/01/beautiful-day'
 permalink: /index.php/2005/01/01/beautiful-day/

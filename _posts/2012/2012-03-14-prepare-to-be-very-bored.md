@@ -2,7 +2,7 @@
 id: 1922
 title: 'Prepare to be very bored'
 date: '2012-03-14T13:28:34+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1922'
 permalink: /index.php/2012/03/14/prepare-to-be-very-bored/

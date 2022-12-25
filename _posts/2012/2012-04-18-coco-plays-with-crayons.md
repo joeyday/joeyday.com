@@ -2,7 +2,7 @@
 id: 2032
 title: 'Coco plays with crayons'
 date: '2012-04-18T21:18:37+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=2032'
 permalink: /index.php/2012/04/18/coco-plays-with-crayons/

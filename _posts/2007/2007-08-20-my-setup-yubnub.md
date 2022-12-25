@@ -2,7 +2,7 @@
 id: 721
 title: 'My setup: YubNub'
 date: '2007-08-20T13:20:11+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/20/my-setup-yubnub'
 permalink: /index.php/2007/08/20/my-setup-yubnub/

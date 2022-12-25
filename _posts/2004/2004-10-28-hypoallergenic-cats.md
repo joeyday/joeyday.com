@@ -2,7 +2,7 @@
 id: 99
 title: 'Hypoallergenic Cats?'
 date: '2004-10-28T13:25:42+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/28/hypoallergenic-cats'
 permalink: /index.php/2004/10/28/hypoallergenic-cats/

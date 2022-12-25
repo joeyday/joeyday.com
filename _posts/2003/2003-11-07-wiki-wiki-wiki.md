@@ -2,7 +2,7 @@
 id: 29
 title: 'Wiki Wiki Wiki'
 date: '2003-11-07T17:04:32+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/07/wiki-wiki-wiki'
 permalink: /index.php/2003/11/07/wiki-wiki-wiki/

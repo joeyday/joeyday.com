@@ -2,7 +2,7 @@
 id: 206
 title: 'Adventures in waking up, day 21'
 date: '2006-09-02T12:23:39+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/09/02/adventures-in-waking-up-day-21'
 permalink: /index.php/2006/09/02/adventures-in-waking-up-day-21/

@@ -2,7 +2,7 @@
 id: 804
 title: 'An engineer&#039;s guide to cats'
 date: '2008-04-15T19:27:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/15/an-engineers-guide-to-cats'
 permalink: /index.php/2008/04/15/an-engineers-guide-to-cats/

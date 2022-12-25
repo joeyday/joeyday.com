@@ -2,7 +2,7 @@
 id: 794
 title: Twenty-three
 date: '2008-03-30T13:54:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/30/twenty-three'
 permalink: /index.php/2008/03/30/twenty-three/

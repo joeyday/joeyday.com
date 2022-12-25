@@ -2,7 +2,7 @@
 id: 486
 title: 'Twain on the Christian Vote'
 date: '2004-08-26T13:07:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/26/twain-on-the-christian-vote'
 permalink: /index.php/2004/08/26/twain-on-the-christian-vote/

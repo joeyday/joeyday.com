@@ -2,7 +2,7 @@
 id: 37
 title: 'Google News Alerts'
 date: '2003-12-12T17:20:16+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/12/google-news-alerts'
 permalink: /index.php/2003/12/12/google-news-alerts/

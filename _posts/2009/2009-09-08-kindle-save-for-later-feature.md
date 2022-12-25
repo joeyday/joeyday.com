@@ -2,7 +2,7 @@
 id: 1282
 title: 'Kindle Save for Later &#034;feature&#034;'
 date: '2009-09-08T13:30:47+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1282'
 permalink: /index.php/2009/09/08/kindle-save-for-later-feature/

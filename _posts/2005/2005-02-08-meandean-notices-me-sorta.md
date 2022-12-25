@@ -2,7 +2,7 @@
 id: 129
 title: 'MeanDean Notices Me (Sorta)'
 date: '2005-02-08T09:44:14+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/08/meandean-notices-me-sorta'
 permalink: /index.php/2005/02/08/meandean-notices-me-sorta/

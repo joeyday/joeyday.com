@@ -2,7 +2,7 @@
 id: 24
 title: 'Going Through Withdrawals'
 date: '2003-10-20T09:52:42+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/20/going-through-withdrawals'
 permalink: /index.php/2003/10/20/going-through-withdrawals/

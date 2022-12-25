@@ -2,7 +2,7 @@
 id: 16
 title: 'Blogging for America'
 date: '2003-10-09T14:24:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/09/blogging-for-america'
 permalink: /index.php/2003/10/09/blogging-for-america/

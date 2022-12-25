@@ -2,7 +2,7 @@
 id: 48
 title: 'Clear Your Cache'
 date: '2004-02-09T11:04:22+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/02/09/clear-your-cache'
 permalink: /index.php/2004/02/09/clear-your-cache/

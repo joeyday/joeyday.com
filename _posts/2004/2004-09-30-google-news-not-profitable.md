@@ -2,7 +2,7 @@
 id: 86
 title: 'Google News Not Profitable'
 date: '2004-09-30T11:30:53+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/30/google-news-not-profitable'
 permalink: /index.php/2004/09/30/google-news-not-profitable/

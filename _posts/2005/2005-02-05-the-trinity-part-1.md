@@ -2,7 +2,7 @@
 id: 495
 title: 'The Trinity, Part 1'
 date: '2005-02-05T21:49:11+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/05/the-trinity-part-1'
 permalink: /index.php/2005/02/05/the-trinity-part-1/

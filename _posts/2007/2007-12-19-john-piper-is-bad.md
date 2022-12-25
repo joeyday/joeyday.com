@@ -2,7 +2,7 @@
 id: 766
 title: 'John Piper is bad'
 date: '2007-12-19T20:12:18+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/12/19/john-piper-is-bad'
 permalink: /index.php/2007/12/19/john-piper-is-bad/

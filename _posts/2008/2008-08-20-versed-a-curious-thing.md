@@ -2,7 +2,7 @@
 id: 852
 title: 'Versed, a curious thing'
 date: '2008-08-20T20:02:25+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=852'
 permalink: /index.php/2008/08/20/versed-a-curious-thing/

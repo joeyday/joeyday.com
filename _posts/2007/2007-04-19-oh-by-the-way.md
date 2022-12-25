@@ -2,7 +2,7 @@
 id: 672
 title: 'Oh, by the way'
 date: '2007-04-19T14:26:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/19/oh-by-the-way'
 permalink: /index.php/2007/04/19/oh-by-the-way/

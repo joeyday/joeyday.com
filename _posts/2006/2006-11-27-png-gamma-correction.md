@@ -2,7 +2,7 @@
 id: 332
 title: 'PNG gamma correction'
 date: '2006-11-27T14:14:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/11/27/png-gamma-correction'
 permalink: /index.php/2006/11/27/png-gamma-correction/

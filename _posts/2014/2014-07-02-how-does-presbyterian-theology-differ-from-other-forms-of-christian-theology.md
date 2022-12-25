@@ -2,7 +2,7 @@
 id: 2192
 title: 'How does Presbyterian theology differ from other forms of Christian theology?'
 date: '2014-07-02T14:15:22+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2192'
 permalink: /index.php/2014/07/02/how-does-presbyterian-theology-differ-from-other-forms-of-christian-theology/

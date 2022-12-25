@@ -2,7 +2,7 @@
 id: 205
 title: 'Adventures in waking up, day 5'
 date: '2006-08-17T16:05:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/08/17/adventures-in-waking-up-day-5'
 permalink: /index.php/2006/08/17/adventures-in-waking-up-day-5/

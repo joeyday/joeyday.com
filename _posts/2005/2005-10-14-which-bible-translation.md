@@ -2,7 +2,7 @@
 id: 542
 title: 'Which Bible Translation?'
 date: '2005-10-14T11:16:59+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/10/14/which-bible-translation'
 permalink: /index.php/2005/10/14/which-bible-translation/

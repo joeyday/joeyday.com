@@ -2,7 +2,7 @@
 id: 108
 title: 'Amazon Wish List'
 date: '2004-11-18T11:07:23+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/18/amazon-wish-list'
 permalink: /index.php/2004/11/18/amazon-wish-list/

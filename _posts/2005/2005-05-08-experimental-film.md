@@ -2,7 +2,7 @@
 id: 162
 title: 'Experimental Film'
 date: '2005-05-08T18:22:49+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/08/wedding-video'
 permalink: /index.php/2005/05/08/experimental-film/

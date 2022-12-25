@@ -2,7 +2,7 @@
 id: 552
 title: 'Open Letter Regarding Israel'
 date: '2006-01-08T20:58:43+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/01/08/open-letter-regarding-israel'
 permalink: /index.php/2006/01/08/open-letter-regarding-israel/

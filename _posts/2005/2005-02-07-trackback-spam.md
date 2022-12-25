@@ -2,7 +2,7 @@
 id: 128
 title: 'Trackback Spam'
 date: '2005-02-07T09:53:52+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/07/trackback-spam'
 permalink: /index.php/2005/02/07/trackback-spam/

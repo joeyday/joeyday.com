@@ -2,7 +2,7 @@
 id: 636
 title: 'Simba, my favorite kitty'
 date: '2007-03-25T18:32:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/25/simba-my-favorite-kitty'
 permalink: /index.php/2007/03/25/simba-my-favorite-kitty/

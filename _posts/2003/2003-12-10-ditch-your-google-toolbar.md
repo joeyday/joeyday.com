@@ -2,7 +2,7 @@
 id: 34
 title: 'Ditch Your Google Toolbar'
 date: '2003-12-10T11:43:44+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/10/ditch-your-google-toolbar'
 permalink: /index.php/2003/12/10/ditch-your-google-toolbar/

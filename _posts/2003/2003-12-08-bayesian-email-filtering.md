@@ -2,7 +2,7 @@
 id: 33
 title: 'Bayesian Email Filtering'
 date: '2003-12-08T10:20:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/08/bayesian-email-filtering'
 permalink: /index.php/2003/12/08/bayesian-email-filtering/

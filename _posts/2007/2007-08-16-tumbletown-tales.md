@@ -2,7 +2,7 @@
 id: 725
 title: 'Tumbletown Tales'
 date: '2007-08-16T17:54:43+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/16/tumbletown-tales'
 permalink: /index.php/2007/08/16/tumbletown-tales/

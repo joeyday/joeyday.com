@@ -2,7 +2,7 @@
 id: 748
 title: 'Weepies eBay auction'
 date: '2007-11-29T20:05:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/11/29/weepies-ebay-auction'
 permalink: /index.php/2007/11/29/weepies-ebay-auction/

@@ -2,7 +2,7 @@
 id: 200
 title: 'My setup: AutoHotkey and Launchy'
 date: '2007-07-24T14:57:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/07/24/my-setup-autohotkey-and-launchy'
 permalink: /index.php/2007/07/24/my-setup-autohotkey-and-launchy/

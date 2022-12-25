@@ -2,7 +2,7 @@
 id: 3010
 title: 'Mozilla Firebird'
 date: '2003-08-15T17:12:39+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/08/15/mozilla-firebird'
 permalink: /index.php/2003/08/15/mozilla-firebird/

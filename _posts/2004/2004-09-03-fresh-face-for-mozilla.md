@@ -2,7 +2,7 @@
 id: 77
 title: 'Fresh Face for Mozilla'
 date: '2004-09-03T09:15:18+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/03/fresh-face-for-mozilla'
 permalink: /index.php/2004/09/03/fresh-face-for-mozilla/

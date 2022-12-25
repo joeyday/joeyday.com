@@ -2,7 +2,7 @@
 id: 2086
 title: 'Sins of ignorance'
 date: '2012-11-02T20:07:45+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2086'
 permalink: /index.php/2012/11/02/sins-of-ignorance/

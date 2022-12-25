@@ -2,7 +2,7 @@
 id: 683
 title: 'How to give a man hug'
 date: '2007-05-20T13:43:04+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/05/20/how-to-give-a-man-hug'
 permalink: /index.php/2007/05/20/how-to-give-a-man-hug/

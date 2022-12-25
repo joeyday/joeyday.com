@@ -2,7 +2,7 @@
 id: 517
 title: 'Testimony at SLTS'
 date: '2005-03-23T16:24:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/23/testimony-at-slts'
 permalink: /index.php/2005/03/23/testimony-at-slts/

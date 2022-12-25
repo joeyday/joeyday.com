@@ -2,7 +2,7 @@
 id: 685
 title: Chesspark
 date: '2007-06-05T14:09:29+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/06/05/chesspark'
 permalink: /index.php/2007/06/05/chesspark/

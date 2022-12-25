@@ -2,7 +2,7 @@
 id: 45
 title: 'Microsoft v. MikeRoweSoft'
 date: '2004-01-20T14:29:22+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/01/20/microsoft-v-mikerowesoft'
 permalink: /index.php/2004/01/20/microsoft-v-mikerowesoft/

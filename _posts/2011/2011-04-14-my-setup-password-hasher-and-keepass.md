@@ -2,7 +2,7 @@
 id: 1599
 title: 'My setup: Password Hasher and KeePass'
 date: '2011-04-14T21:25:40+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1599'
 permalink: /index.php/2011/04/14/my-setup-password-hasher-and-keepass/

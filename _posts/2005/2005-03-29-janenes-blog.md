@@ -2,7 +2,7 @@
 id: 155
 title: 'Janene&#039;s Blog'
 date: '2005-03-29T11:38:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/29/janenes-blog'
 permalink: /index.php/2005/03/29/janenes-blog/

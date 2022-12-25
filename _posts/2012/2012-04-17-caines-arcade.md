@@ -2,7 +2,7 @@
 id: 2026
 title: 'Caine’s Arcade'
 date: '2012-04-17T10:30:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=2026'
 permalink: /index.php/2012/04/17/caines-arcade/

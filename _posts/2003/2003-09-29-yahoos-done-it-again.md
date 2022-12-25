@@ -2,7 +2,7 @@
 id: 8
 title: 'Yahoo&#039;s Done It Again'
 date: '2003-09-29T10:52:21+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/09/29/yahoos-done-it-again'
 permalink: /index.php/2003/09/29/yahoos-done-it-again/

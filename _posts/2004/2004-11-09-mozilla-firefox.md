@@ -2,7 +2,7 @@
 id: 100
 title: 'Mozilla Firefox'
 date: '2004-11-09T23:37:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/09/mozilla-firefox'
 permalink: /index.php/2004/11/09/mozilla-firefox/

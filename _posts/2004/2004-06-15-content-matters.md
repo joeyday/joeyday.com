@@ -2,7 +2,7 @@
 id: 56
 title: 'Content Matters'
 date: '2004-06-15T15:23:40+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/15/content-matters'
 permalink: /index.php/2004/06/15/content-matters/

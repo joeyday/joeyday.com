@@ -2,7 +2,7 @@
 id: 531
 title: 'The Wedding Video'
 date: '2005-05-27T12:48:53+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/27/the-wedding-video-2'
 permalink: /index.php/2005/05/27/the-wedding-video-2/

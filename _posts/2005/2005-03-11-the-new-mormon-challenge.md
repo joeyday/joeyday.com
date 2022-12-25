@@ -2,7 +2,7 @@
 id: 510
 title: 'The New Mormon Challenge'
 date: '2005-03-11T09:53:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/11/the-new-mormon-challenge'
 permalink: /index.php/2005/03/11/the-new-mormon-challenge/

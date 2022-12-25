@@ -2,7 +2,7 @@
 id: 61
 title: 'Spam Principle #1'
 date: '2004-07-02T09:09:45+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/02/spam-principle-1'
 permalink: /index.php/2004/07/02/spam-principle-1/

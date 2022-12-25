@@ -2,7 +2,7 @@
 id: 79
 title: 'Homestar Runner Wiki v1.0'
 date: '2004-09-14T14:31:14+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/14/homestar-runner-wiki-v10'
 permalink: /index.php/2004/09/14/homestar-runner-wiki-v10/

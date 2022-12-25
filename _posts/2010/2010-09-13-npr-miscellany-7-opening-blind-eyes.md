@@ -2,7 +2,7 @@
 id: 1576
 title: 'NPR miscellany #7: opening blind eyes'
 date: '2010-09-13T07:50:30+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1576'
 permalink: /index.php/2010/09/13/npr-miscellany-7-opening-blind-eyes/

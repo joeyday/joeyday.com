@@ -2,7 +2,7 @@
 id: 207
 title: 'The Weepies'
 date: '2006-09-27T21:05:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/09/27/the-weepies'
 permalink: /index.php/2006/09/27/the-weepies/

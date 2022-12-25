@@ -2,7 +2,7 @@
 id: 861
 title: 'A nickel update'
 date: '2008-08-21T19:29:29+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=861'
 permalink: /index.php/2008/08/21/a-nickel-update/

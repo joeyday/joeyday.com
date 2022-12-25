@@ -2,7 +2,7 @@
 id: 555
 title: 'Eternal Companion: Introduction'
 date: '2006-05-27T15:25:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/27/eternal-companion-introduction'
 permalink: /index.php/2006/05/27/eternal-companion-introduction/

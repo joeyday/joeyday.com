@@ -2,7 +2,7 @@
 id: 1676
 title: 'The one where Joey goes off the grid'
 date: '2011-01-20T19:19:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1676'
 permalink: /index.php/2011/01/20/the-one-where-joey-goes-off-the-grid/

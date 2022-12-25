@@ -2,7 +2,7 @@
 id: 95
 title: 'Google Desktop Search'
 date: '2004-10-14T13:17:22+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/14/google-desktop-search'
 permalink: /index.php/2004/10/14/google-desktop-search/

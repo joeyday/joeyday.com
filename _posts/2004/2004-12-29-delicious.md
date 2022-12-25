@@ -2,7 +2,7 @@
 id: 117
 title: del.icio.us
 date: '2004-12-29T14:21:49+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/29/delicious'
 permalink: /index.php/2004/12/29/delicious/

@@ -2,7 +2,7 @@
 id: 309
 title: 'Akeelah and the Bee'
 date: '2006-10-14T19:05:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/10/14/akeelah-and-the-bee'
 permalink: /index.php/2006/10/14/akeelah-and-the-bee/

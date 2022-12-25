@@ -2,7 +2,7 @@
 id: 2506
 title: 'Why do we baptize infants?'
 date: '2014-10-02T13:53:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2506'
 permalink: /index.php/2014/10/02/why-do-we-baptize-infants/

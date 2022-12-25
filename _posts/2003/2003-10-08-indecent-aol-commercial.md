@@ -2,7 +2,7 @@
 id: 15
 title: 'Indecent AOL Commercial'
 date: '2003-10-08T13:19:59+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/08/indecent-aol-commercial'
 permalink: /index.php/2003/10/08/indecent-aol-commercial/

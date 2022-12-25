@@ -2,7 +2,7 @@
 id: 803
 title: 'Closest book meme'
 date: '2008-04-14T20:10:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/14/closest-book-meme'
 permalink: /index.php/2008/04/14/closest-book-meme/

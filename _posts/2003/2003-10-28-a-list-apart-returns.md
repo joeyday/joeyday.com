@@ -2,7 +2,7 @@
 id: 27
 title: 'A List Apart Returns'
 date: '2003-10-28T13:10:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/28/a-list-apart-returns'
 permalink: /index.php/2003/10/28/a-list-apart-returns/

@@ -2,7 +2,7 @@
 id: 528
 title: 'New Categories'
 date: '2005-04-18T16:02:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/18/new-categories'
 permalink: /index.php/2005/04/18/new-categories/

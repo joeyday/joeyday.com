@@ -2,7 +2,7 @@
 id: 511
 title: 'On Being a Jew'
 date: '2005-03-11T19:08:38+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/11/on-being-a-jew'
 permalink: /index.php/2005/03/11/on-being-a-jew/

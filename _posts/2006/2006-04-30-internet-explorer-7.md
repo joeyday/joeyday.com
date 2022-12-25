@@ -2,7 +2,7 @@
 id: 198
 title: 'Internet Explorer 7'
 date: '2006-04-30T15:14:51+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/04/30/internet-explorer-7'
 permalink: /index.php/2006/04/30/internet-explorer-7/

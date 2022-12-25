@@ -2,7 +2,7 @@
 id: 31
 title: 'Firebird&#039;s Smart Address Bar'
 date: '2003-11-20T23:44:04+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/20/firebirds-smart-address-bar'
 permalink: /index.php/2003/11/20/firebirds-smart-address-bar/

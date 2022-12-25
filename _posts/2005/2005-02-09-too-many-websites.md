@@ -2,7 +2,7 @@
 id: 130
 title: 'Too Many Websites'
 date: '2005-02-09T17:02:48+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/09/too-many-websites'
 permalink: /index.php/2005/02/09/too-many-websites/

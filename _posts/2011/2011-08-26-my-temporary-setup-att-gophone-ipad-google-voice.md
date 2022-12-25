@@ -2,7 +2,7 @@
 id: 1809
 title: 'My temporary setup: AT&amp;T GoPhone + iPad + Google Voice'
 date: '2011-08-26T20:23:05+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1809'
 permalink: /index.php/2011/08/26/my-temporary-setup-att-gophone-ipad-google-voice/

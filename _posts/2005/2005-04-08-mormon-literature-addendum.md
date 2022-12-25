@@ -2,7 +2,7 @@
 id: 526
 title: 'Mormon Literature Addendum'
 date: '2005-04-08T10:58:06+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/08/mormon-literature-addendum'
 permalink: /index.php/2005/04/08/mormon-literature-addendum/

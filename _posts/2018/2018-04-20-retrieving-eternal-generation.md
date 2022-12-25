@@ -2,7 +2,7 @@
 id: 2961
 title: 'Retrieving eternal generation'
 date: '2018-04-20T14:30:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2961'
 permalink: /index.php/2018/04/20/retrieving-eternal-generation/

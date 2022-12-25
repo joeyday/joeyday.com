@@ -2,7 +2,7 @@
 id: 493
 title: 'What&#8217;s in a Name?'
 date: '2005-01-14T12:42:43+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/14/whats-in-a-name'
 permalink: /index.php/2005/01/14/whats-in-a-name/

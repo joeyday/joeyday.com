@@ -2,7 +2,7 @@
 id: 52
 title: 'Fresh Look (More on the Way?)'
 date: '2004-03-10T22:53:36+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/03/10/fresh-look-more-on-the-way'
 permalink: /index.php/2004/03/10/fresh-look-more-on-the-way/

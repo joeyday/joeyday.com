@@ -2,7 +2,7 @@
 id: 438
 title: 'Firebug 1.0 beta'
 date: '2006-12-13T12:40:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/12/13/firebug-10-beta'
 permalink: /index.php/2006/12/13/firebug-10-beta/

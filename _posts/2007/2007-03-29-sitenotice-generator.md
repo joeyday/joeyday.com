@@ -2,7 +2,7 @@
 id: 651
 title: 'Sitenotice Generator'
 date: '2007-03-29T17:00:17+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/29/sitenotice-generator'
 permalink: /index.php/2007/03/29/sitenotice-generator/

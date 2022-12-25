@@ -2,7 +2,7 @@
 id: 1703
 title: 'No, Mr. President'
 date: '2011-01-23T16:32:27+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1703'
 permalink: /index.php/2011/01/23/no-mr-president/

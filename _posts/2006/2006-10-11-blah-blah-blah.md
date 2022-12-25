@@ -2,7 +2,7 @@
 id: 308
 title: 'Blah blah blah'
 date: '2006-10-11T06:44:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/10/11/blah-blah-blah'
 permalink: /index.php/2006/10/11/blah-blah-blah/

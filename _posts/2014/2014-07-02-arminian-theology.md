@@ -2,7 +2,7 @@
 id: 2194
 title: 'Arminian Theology'
 date: '2014-07-02T14:26:09+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2194'
 permalink: /index.php/2014/07/02/arminian-theology/

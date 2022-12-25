@@ -2,7 +2,7 @@
 id: 2473
 title: 'My iPhone home screen'
 date: '2014-10-30T23:03:48+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2473'
 permalink: /index.php/2014/10/30/my-iphone-home-screen/

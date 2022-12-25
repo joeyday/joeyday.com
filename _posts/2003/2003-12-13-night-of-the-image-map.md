@@ -2,7 +2,7 @@
 id: 38
 title: 'Night of the Image Map'
 date: '2003-12-13T16:22:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/13/night-of-the-image-map'
 permalink: /index.php/2003/12/13/night-of-the-image-map/

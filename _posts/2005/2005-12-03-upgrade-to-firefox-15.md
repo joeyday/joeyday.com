@@ -2,7 +2,7 @@
 id: 190
 title: 'Upgrade to Firefox 1.5'
 date: '2005-12-03T15:07:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=190'
 permalink: /index.php/2005/12/03/upgrade-to-firefox-15/

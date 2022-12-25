@@ -2,7 +2,7 @@
 id: 153
 title: 'Delicious Crazy'
 date: '2005-03-22T10:28:11+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/22/delicious-crazy'
 permalink: /index.php/2005/03/22/delicious-crazy/

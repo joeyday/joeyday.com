@@ -2,7 +2,7 @@
 id: 666
 title: 'My testimony, part 1'
 date: '2007-04-10T13:40:20+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/10/my-testimony-part-1'
 permalink: /index.php/2007/04/10/my-testimony-part-1/

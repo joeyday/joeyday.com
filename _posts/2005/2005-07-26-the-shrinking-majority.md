@@ -2,7 +2,7 @@
 id: 536
 title: 'The Shrinking Majority'
 date: '2005-07-26T14:29:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/the-shrinking-majority'
 permalink: /index.php/2005/07/26/the-shrinking-majority/

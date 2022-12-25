@@ -2,7 +2,7 @@
 id: 54
 title: 'Patent Office Sees the Light'
 date: '2004-03-11T12:17:10+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/03/11/patent-office-sees-the-light'
 permalink: /index.php/2004/03/11/patent-office-sees-the-light/

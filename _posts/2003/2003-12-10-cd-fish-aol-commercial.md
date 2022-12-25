@@ -2,7 +2,7 @@
 id: 35
 title: 'CD Fish (AOL Commercial)'
 date: '2003-12-10T12:02:30+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/10/cd-fish-aol-commercial'
 permalink: /index.php/2003/12/10/cd-fish-aol-commercial/

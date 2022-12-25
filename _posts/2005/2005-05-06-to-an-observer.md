@@ -2,7 +2,7 @@
 id: 530
 title: 'To &#8220;An Observer&#8221;'
 date: '2005-05-06T09:12:12+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/06/to-an-observer'
 permalink: /index.php/2005/05/06/to-an-observer/

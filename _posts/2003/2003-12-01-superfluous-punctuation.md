@@ -2,7 +2,7 @@
 id: 32
 title: 'Superfluous Punctuation'
 date: '2003-12-01T09:35:21+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/01/superfluous-punctuation'
 permalink: /index.php/2003/12/01/superfluous-punctuation/

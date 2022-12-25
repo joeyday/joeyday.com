@@ -2,7 +2,7 @@
 id: 107
 title: 'Oranges and Apples'
 date: '2004-11-18T10:08:45+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/18/oranges-and-apples'
 permalink: /index.php/2004/11/18/oranges-and-apples/

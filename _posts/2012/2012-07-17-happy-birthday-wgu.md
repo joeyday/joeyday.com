@@ -2,7 +2,7 @@
 id: 2065
 title: Fifteen
 date: '2012-07-17T18:13:33+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2065'
 permalink: /index.php/2012/07/17/happy-birthday-wgu/

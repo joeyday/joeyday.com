@@ -2,7 +2,7 @@
 id: 84
 title: 'WordPress?'
 date: '2004-09-28T14:29:01+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/28/wordpress'
 permalink: /index.php/2004/09/28/wordpress/

@@ -2,7 +2,7 @@
 id: 614
 title: 'Christian basics'
 date: '2007-03-22T10:52:51+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/22/christian-basics'
 permalink: /index.php/2007/03/22/christian-basics/

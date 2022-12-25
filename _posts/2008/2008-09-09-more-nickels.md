@@ -2,7 +2,7 @@
 id: 871
 title: 'More nickels'
 date: '2008-09-09T09:17:02+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=871'
 permalink: /index.php/2008/09/09/more-nickels/

@@ -2,7 +2,7 @@
 id: 549
 title: 'Am I Anti-Mormon?'
 date: '2005-12-15T09:35:56+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/12/15/am-i-anti-mormon'
 permalink: /index.php/2005/12/15/am-i-anti-mormon/

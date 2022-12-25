@@ -2,7 +2,7 @@
 id: 496
 title: 'Color Puke'
 date: '2005-02-09T13:53:16+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/09/color-puke'
 permalink: /index.php/2005/02/09/color-puke/

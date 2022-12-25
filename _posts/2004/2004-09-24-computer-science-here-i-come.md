@@ -2,7 +2,7 @@
 id: 82
 title: 'Computer Science, Here I Come'
 date: '2004-09-24T20:50:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/24/computer-science-here-i-come'
 permalink: /index.php/2004/09/24/computer-science-here-i-come/

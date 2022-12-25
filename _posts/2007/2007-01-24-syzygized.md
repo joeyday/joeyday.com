@@ -2,7 +2,7 @@
 id: 560
 title: Syzygized
 date: '2007-01-24T13:25:39+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/01/24/syzygized'
 permalink: /index.php/2007/01/24/syzygized/

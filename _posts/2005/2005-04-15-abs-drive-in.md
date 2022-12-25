@@ -2,7 +2,7 @@
 id: 158
 title: 'Ab&#039;s Drive-in'
 date: '2005-04-15T13:20:32+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/15/abs-drive-in'
 permalink: /index.php/2005/04/15/abs-drive-in/

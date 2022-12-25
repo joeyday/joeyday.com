@@ -2,7 +2,7 @@
 id: 47
 title: 'Personal Information'
 date: '2004-01-30T17:14:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/01/30/personal-information'
 permalink: /index.php/2004/01/30/personal-information/

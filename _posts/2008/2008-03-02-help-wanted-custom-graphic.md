@@ -2,7 +2,7 @@
 id: 782
 title: 'Help wanted: custom graphic'
 date: '2008-03-02T19:04:03+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/02/help-wanted-custom-graphic'
 permalink: /index.php/2008/03/02/help-wanted-custom-graphic/

@@ -2,7 +2,7 @@
 id: 1586
 title: 'The “omnis” of God'
 date: '2010-09-20T10:53:23+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1586'
 permalink: /index.php/2010/09/20/the-omnis-of-god/

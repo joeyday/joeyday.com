@@ -2,7 +2,7 @@
 id: 12
 title: 'More About Wikis'
 date: '2003-10-06T12:00:13+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/06/more-about-wikis'
 permalink: /index.php/2003/10/06/more-about-wikis/

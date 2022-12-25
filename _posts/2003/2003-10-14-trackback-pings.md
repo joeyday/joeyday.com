@@ -2,7 +2,7 @@
 id: 20
 title: 'Trackback Pings'
 date: '2003-10-14T13:24:45+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/14/trackback-pings'
 permalink: /index.php/2003/10/14/trackback-pings/

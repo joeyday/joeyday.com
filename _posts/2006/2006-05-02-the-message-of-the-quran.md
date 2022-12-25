@@ -2,7 +2,7 @@
 id: 554
 title: 'The Message of the Quran'
 date: '2006-05-02T21:44:50+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/02/the-message-of-the-quran'
 permalink: /index.php/2006/05/02/the-message-of-the-quran/

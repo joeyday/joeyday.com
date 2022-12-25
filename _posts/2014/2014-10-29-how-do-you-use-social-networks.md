@@ -2,7 +2,7 @@
 id: 2550
 title: 'How do you use social networks?'
 date: '2014-10-29T23:00:38+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2550'
 permalink: /index.php/2014/10/29/how-do-you-use-social-networks/

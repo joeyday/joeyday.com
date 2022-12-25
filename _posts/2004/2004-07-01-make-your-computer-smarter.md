@@ -2,7 +2,7 @@
 id: 60
 title: 'Make Your Computer Smarter'
 date: '2004-07-01T15:07:48+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/01/make-your-computer-smarter'
 permalink: /index.php/2004/07/01/make-your-computer-smarter/

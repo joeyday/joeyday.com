@@ -2,7 +2,7 @@
 id: 122
 title: 'MagpieRSS Caching'
 date: '2005-01-06T14:49:39+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/06/magpierss-caching'
 permalink: /index.php/2005/01/06/magpierss-caching/

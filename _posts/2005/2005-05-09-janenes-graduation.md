@@ -2,7 +2,7 @@
 id: 163
 title: 'Janene&#039;s Graduation'
 date: '2005-05-09T08:20:41+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/09/janenes-graduation'
 permalink: /index.php/2005/05/09/janenes-graduation/

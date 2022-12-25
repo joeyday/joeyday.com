@@ -2,7 +2,7 @@
 id: 11
 title: 'Relative Links for Dummies'
 date: '2003-10-03T11:11:07+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/03/relative-links-for-dummies'
 permalink: /index.php/2003/10/03/relative-links-for-dummies/

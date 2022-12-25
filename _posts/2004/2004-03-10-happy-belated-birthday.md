@@ -2,7 +2,7 @@
 id: 53
 title: 'Happy Belated Birthday'
 date: '2004-03-10T23:16:40+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/03/10/happy-belated-birthday'
 permalink: /index.php/2004/03/10/happy-belated-birthday/

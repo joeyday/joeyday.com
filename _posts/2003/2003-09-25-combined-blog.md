@@ -2,7 +2,7 @@
 id: 6
 title: 'Combined Blog'
 date: '2003-09-25T23:25:48+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/09/25/combined-blog'
 permalink: /index.php/2003/09/25/combined-blog/

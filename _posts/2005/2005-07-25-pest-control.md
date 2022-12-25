@@ -2,7 +2,7 @@
 id: 175
 title: 'Pest Control'
 date: '2005-07-25T20:52:26+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/25/pest-control'
 permalink: /index.php/2005/07/25/pest-control/

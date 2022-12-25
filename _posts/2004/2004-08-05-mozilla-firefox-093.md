@@ -2,7 +2,7 @@
 id: 72
 title: 'Mozilla Firefox 0.9.3'
 date: '2004-08-05T13:10:04+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/05/mozilla-firefox-093'
 permalink: /index.php/2004/08/05/mozilla-firefox-093/

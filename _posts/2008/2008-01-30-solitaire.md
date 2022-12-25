@@ -2,7 +2,7 @@
 id: 773
 title: Solitaire
 date: '2008-01-30T12:46:28+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/01/30/solitaire'
 permalink: /index.php/2008/01/30/solitaire/

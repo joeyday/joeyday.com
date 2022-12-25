@@ -2,7 +2,7 @@
 id: 2909
 title: 'Sending off Pastor Tim'
 date: '2015-10-05T19:22:14+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2909'
 permalink: /index.php/2015/10/05/sending-off-pastor-tim/

@@ -2,7 +2,7 @@
 id: 791
 title: 'NPR miscellany #4'
 date: '2008-03-22T11:39:37+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/22/npr-miscellany-4'
 permalink: /index.php/2008/03/22/npr-miscellany-4/

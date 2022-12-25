@@ -2,7 +2,7 @@
 id: 1722
 title: 'Chew, chew, chew'
 date: '2011-03-27T18:06:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1722'
 permalink: /index.php/2011/03/27/chew-chew-chew/

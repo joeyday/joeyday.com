@@ -2,7 +2,7 @@
 id: 69
 title: 'Hogwash Served Fresh Daily'
 date: '2004-07-23T15:14:08+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/23/hogwash-served-fresh-daily'
 permalink: /index.php/2004/07/23/hogwash-served-fresh-daily/

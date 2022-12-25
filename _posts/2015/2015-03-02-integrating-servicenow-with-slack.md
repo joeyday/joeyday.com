@@ -2,7 +2,7 @@
 id: 2652
 title: 'Integrating ServiceNow with Slack'
 date: '2015-03-02T00:41:59+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2652'
 permalink: /index.php/2015/03/02/integrating-servicenow-with-slack/

@@ -2,7 +2,7 @@
 id: 795
 title: 'Adventures in waking up, day 627'
 date: '2008-03-31T21:38:12+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/31/adventures-in-waking-up-day-627'
 permalink: /index.php/2008/03/31/adventures-in-waking-up-day-627/

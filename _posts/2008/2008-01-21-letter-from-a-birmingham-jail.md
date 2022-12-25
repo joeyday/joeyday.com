@@ -2,7 +2,7 @@
 id: 771
 title: 'Letter from a Birmingham Jail'
 date: '2008-01-21T18:08:13+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/01/21/letter-from-a-birmingham-jail'
 permalink: /index.php/2008/01/21/letter-from-a-birmingham-jail/

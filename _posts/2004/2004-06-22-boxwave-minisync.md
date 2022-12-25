@@ -2,7 +2,7 @@
 id: 59
 title: 'BoxWave miniSync'
 date: '2004-06-22T19:11:55+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/22/boxwave-minisync'
 permalink: /index.php/2004/06/22/boxwave-minisync/

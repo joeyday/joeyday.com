@@ -2,7 +2,7 @@
 id: 684
 title: 'WordPress upgrade script'
 date: '2007-06-05T13:10:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/06/05/wordpress-upgrade-script'
 permalink: /index.php/2007/06/05/wordpress-upgrade-script/

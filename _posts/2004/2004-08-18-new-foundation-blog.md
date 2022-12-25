@@ -2,7 +2,7 @@
 id: 73
 title: 'New &quot;Foundation&quot; Blog'
 date: '2004-08-18T13:15:00+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/18/new-foundation-blog'
 permalink: /index.php/2004/08/18/new-foundation-blog/

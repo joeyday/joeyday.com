@@ -2,7 +2,7 @@
 id: 2092
 title: 'Like a vain woman'
 date: '2012-11-02T21:19:19+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2092'
 permalink: /index.php/2012/11/02/like-a-vain-woman-who-wants-compliments/

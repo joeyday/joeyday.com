@@ -2,7 +2,7 @@
 id: 7
 title: 'Down With Internet Explorer'
 date: '2003-09-28T23:38:31+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/09/28/down-with-internet-explorer'
 permalink: /index.php/2003/09/28/down-with-internet-explorer/

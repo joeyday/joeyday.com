@@ -2,7 +2,7 @@
 id: 557
 title: 'Welcome Azusa Pacific students!'
 date: '2006-06-29T07:28:33+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/06/29/welcome-azusa-pacific-students'
 permalink: /index.php/2006/06/29/welcome-azusa-pacific-students/

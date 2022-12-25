@@ -2,7 +2,7 @@
 id: 1462
 title: 'NPR miscellany #6: jazz guitarist Charlie Hunter'
 date: '2010-01-31T14:06:58+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1462'
 permalink: /index.php/2010/01/31/npr-miscellany-6-jazz-guitarist-charlie-hunter/

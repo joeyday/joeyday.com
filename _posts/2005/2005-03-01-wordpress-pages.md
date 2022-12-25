@@ -2,7 +2,7 @@
 id: 142
 title: 'WordPress Pages'
 date: '2005-03-01T20:53:46+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/01/wordpress-pages'
 permalink: /index.php/2005/03/01/wordpress-pages/

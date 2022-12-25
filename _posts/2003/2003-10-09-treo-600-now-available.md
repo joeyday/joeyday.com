@@ -2,7 +2,7 @@
 id: 17
 title: 'Treo 600 Now Available'
 date: '2003-10-09T17:28:15+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/09/treo-600-now-available'
 permalink: /index.php/2003/10/09/treo-600-now-available/

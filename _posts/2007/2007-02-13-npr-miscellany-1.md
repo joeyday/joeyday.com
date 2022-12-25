@@ -2,7 +2,7 @@
 id: 606
 title: 'NPR miscellany #1'
 date: '2007-02-13T21:32:55+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/13/npr-miscellany-1'
 permalink: /index.php/2007/02/13/npr-miscellany-1/

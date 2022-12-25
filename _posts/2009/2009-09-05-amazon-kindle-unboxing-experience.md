@@ -2,7 +2,7 @@
 id: 1264
 title: 'Amazon Kindle unboxing experience'
 date: '2009-09-05T12:42:21+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1264'
 permalink: /index.php/2009/09/05/amazon-kindle-unboxing-experience/

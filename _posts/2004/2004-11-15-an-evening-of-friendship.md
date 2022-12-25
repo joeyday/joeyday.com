@@ -2,7 +2,7 @@
 id: 490
 title: 'An Evening of Friendship'
 date: '2004-11-15T10:32:21+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/15/an-evening-of-friendship'
 permalink: /index.php/2004/11/15/an-evening-of-friendship/

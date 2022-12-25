@@ -2,7 +2,7 @@
 id: 1851
 title: 'A perfect day at the Utah State Fair'
 date: '2011-09-17T20:34:47+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1851'
 permalink: /index.php/2011/09/17/a-perfect-day-at-the-utah-state-fair/

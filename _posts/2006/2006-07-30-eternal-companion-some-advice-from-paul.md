@@ -2,7 +2,7 @@
 id: 558
 title: 'Eternal Companion: Some advice from Paul'
 date: '2006-07-30T19:50:58+00:00'
-author: joeyday
+author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/07/30/eternal-companion-some-advice-from-paul'
 permalink: /index.php/2006/07/30/eternal-companion-some-advice-from-paul/
