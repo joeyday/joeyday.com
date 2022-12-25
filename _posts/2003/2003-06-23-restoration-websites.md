@@ -4,7 +4,7 @@ title:	Restoration Websites
 date:	2003-06-23
 ---
 
-For the past few months I've been reading _Mormon America_, by Richard and Joan Ostling. It is probably the most objective book about Mormonism by any non-Mormon writer, and I've found it to be a painstakingly accurate and non-confrontational book. It presents the details of the Mormon faith very meticulously and mostly positively, and leaves the reader up to his own judgment as to what sort of religion Mormonism is. I would highly recommend it to any reader.
+For the past few months I've been reading _Mormon America: The Power and the Promise_, by Richard and Joan Ostling. It is probably the most objective book about Mormonism by any non-Mormon writer, and I've found it to be a painstakingly accurate and non-confrontational book. It presents the details of the Mormon faith very meticulously and mostly positively, and leaves the reader up to his own judgment as to what sort of religion Mormonism is. I would highly recommend it to any reader.
 
 The other day I was flipping through and found an interesting appendix in the back that lists a handful of websites related to Mormonism...
 
