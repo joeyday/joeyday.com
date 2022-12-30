@@ -5,7 +5,6 @@ date: '2005-05-31T14:54:44+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/31/internship-opportunity'
-permalink: /index.php/2005/05/31/internship-opportunity/
 dsq_thread_id:
     - '1744280902'
 categories:

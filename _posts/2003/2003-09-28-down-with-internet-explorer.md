@@ -5,7 +5,6 @@ date: '2003-09-28T23:38:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/09/28/down-with-internet-explorer'
-permalink: /index.php/2003/09/28/down-with-internet-explorer/
 dsq_thread_id:
     - '1744278585'
 categories:

@@ -5,7 +5,6 @@ date: '2011-03-27T18:06:00+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1722'
-permalink: /index.php/2011/03/27/chew-chew-chew/
 dsq_thread_id:
     - '1744280431'
 categories:

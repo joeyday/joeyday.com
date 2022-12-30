@@ -5,7 +5,6 @@ date: '2006-08-16T05:00:18+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/08/16/adventures-in-waking-up-day-4'
-permalink: /index.php/2006/08/16/adventures-in-waking-up-day-4/
 dsq_thread_id:
     - '1744280508'
 categories:

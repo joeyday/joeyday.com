@@ -5,7 +5,6 @@ date: '2004-02-19T14:05:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/02/19/transparent-backgrounds'
-permalink: /index.php/2004/02/19/transparent-backgrounds/
 dsq_thread_id:
     - '1744275480'
 categories:

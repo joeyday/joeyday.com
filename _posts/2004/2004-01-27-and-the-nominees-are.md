@@ -5,7 +5,6 @@ date: '2004-01-27T11:10:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/01/27/and-the-nominees-are'
-permalink: /index.php/2004/01/27/and-the-nominees-are/
 dsq_thread_id:
     - '1744279471'
 categories:

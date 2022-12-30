@@ -5,7 +5,6 @@ date: '2007-07-31T14:24:25+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/07/31/meme-of-fours'
-permalink: /index.php/2007/07/31/meme-of-fours/
 dsq_thread_id:
     - '2366121626'
 categories:

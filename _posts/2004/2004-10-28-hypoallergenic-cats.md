@@ -5,7 +5,6 @@ date: '2004-10-28T13:25:42+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/28/hypoallergenic-cats'
-permalink: /index.php/2004/10/28/hypoallergenic-cats/
 dsq_thread_id:
     - '1744276288'
 categories:

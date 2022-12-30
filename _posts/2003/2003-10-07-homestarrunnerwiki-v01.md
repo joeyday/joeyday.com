@@ -5,7 +5,6 @@ date: '2003-10-07T18:33:46+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/07/homestarrunnerwiki-v01'
-permalink: /index.php/2003/10/07/homestarrunnerwiki-v01/
 dsq_thread_id:
     - '1905218682'
 categories:

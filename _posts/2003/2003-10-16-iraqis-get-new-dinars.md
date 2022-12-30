@@ -5,7 +5,6 @@ date: '2003-10-16T22:04:24+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/16/iraqis-get-new-dinars'
-permalink: /index.php/2003/10/16/iraqis-get-new-dinars/
 categories:
     - essay
 tags:

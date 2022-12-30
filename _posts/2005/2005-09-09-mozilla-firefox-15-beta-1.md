@@ -5,7 +5,6 @@ date: '2005-09-09T13:41:58+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=182'
-permalink: /index.php/2005/09/09/mozilla-firefox-15-beta-1/
 dsq_thread_id:
     - '1744279039'
 categories:

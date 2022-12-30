@@ -5,7 +5,6 @@ date: '2005-10-14T11:16:59+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/10/14/which-bible-translation'
-permalink: /index.php/2005/10/14/which-bible-translation/
 dsq_thread_id:
     - '1744277937'
 categories:

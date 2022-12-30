@@ -5,7 +5,6 @@ date: '2005-04-12T10:27:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/12/lds-blogging'
-permalink: /index.php/2005/04/12/lds-blogging/
 dsq_thread_id:
     - '1744277141'
 categories:

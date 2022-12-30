@@ -5,7 +5,6 @@ date: '2011-03-27T20:08:28+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1725'
-permalink: /index.php/2011/03/27/blessings-by-laura-story/
 dsq_thread_id:
     - '1744280426'
 categories:

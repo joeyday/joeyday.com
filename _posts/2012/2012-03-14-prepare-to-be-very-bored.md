@@ -5,7 +5,6 @@ date: '2012-03-14T13:28:34+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1922'
-permalink: /index.php/2012/03/14/prepare-to-be-very-bored/
 dsq_thread_id:
     - '1744277079'
 categories:

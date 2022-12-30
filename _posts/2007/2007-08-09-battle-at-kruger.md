@@ -5,7 +5,6 @@ date: '2007-08-09T10:42:01+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/09/battle-at-kruger'
-permalink: /index.php/2007/08/09/battle-at-kruger/
 dsq_thread_id:
     - '1744276938'
 categories:

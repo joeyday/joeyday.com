@@ -5,7 +5,6 @@ date: '2006-11-27T14:14:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/11/27/png-gamma-correction'
-permalink: /index.php/2006/11/27/png-gamma-correction/
 dsq_thread_id:
     - '1827110819'
 categories:

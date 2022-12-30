@@ -5,7 +5,6 @@ date: '2006-05-27T15:25:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/27/eternal-companion-introduction'
-permalink: /index.php/2006/05/27/eternal-companion-introduction/
 dsq_thread_id:
     - '1744277279'
 categories:

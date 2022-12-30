@@ -5,7 +5,6 @@ date: '2004-08-16T15:48:45+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/16/edification-sidebar'
-permalink: /index.php/2004/08/16/edification-sidebar/
 categories:
     - essay
 ---

@@ -5,7 +5,6 @@ date: '2005-03-03T12:01:34+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/03/what-was-netscape-think-ing'
-permalink: /index.php/2005/03/03/what-was-netscape-thinking/
 dsq_thread_id:
     - '1744275306'
 categories:

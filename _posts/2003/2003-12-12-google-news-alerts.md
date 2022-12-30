@@ -5,7 +5,6 @@ date: '2003-12-12T17:20:16+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/12/google-news-alerts'
-permalink: /index.php/2003/12/12/google-news-alerts/
 dsq_thread_id:
     - '1744279463'
 categories:

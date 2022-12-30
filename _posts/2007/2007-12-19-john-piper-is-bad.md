@@ -5,7 +5,6 @@ date: '2007-12-19T20:12:18+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/12/19/john-piper-is-bad'
-permalink: /index.php/2007/12/19/john-piper-is-bad/
 dsq_thread_id:
     - '1787324924'
 categories:

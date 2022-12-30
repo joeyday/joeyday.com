@@ -5,7 +5,6 @@ date: '2005-07-26T14:42:41+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/new-secret-weapon-2'
-permalink: /index.php/2005/07/26/new-secret-weapon-2/
 dsq_thread_id:
     - '1744279159'
 categories:

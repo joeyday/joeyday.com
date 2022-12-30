@@ -5,7 +5,6 @@ date: '2007-07-03T16:01:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/07/03/elephant-jokes'
-permalink: /index.php/2007/07/03/elephant-jokes/
 dsq_thread_id:
     - '1744280406'
 categories:

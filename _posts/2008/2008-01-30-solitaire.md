@@ -5,7 +5,6 @@ date: '2008-01-30T12:46:28+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/01/30/solitaire'
-permalink: /index.php/2008/01/30/solitaire/
 dsq_thread_id:
     - '1784052057'
 wps_subtitle:

@@ -5,7 +5,6 @@ date: '2011-02-06T11:52:09+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2011/02/06/his-oath-his-covenant-his-blood'
-permalink: /index.php/2011/02/06/his-oath-his-covenant-his-blood/
 dsq_thread_id:
     - '1784595097'
 categories:

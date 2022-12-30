@@ -5,7 +5,6 @@ date: '2007-08-16T17:54:43+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/16/tumbletown-tales'
-permalink: /index.php/2007/08/16/tumbletown-tales/
 dsq_thread_id:
     - '1744280467'
 categories:

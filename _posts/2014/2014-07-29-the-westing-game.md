@@ -5,7 +5,6 @@ date: '2014-07-29T22:09:55+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2398'
-permalink: /index.php/2014/07/29/the-westing-game/
 wps_subtitle:
     - ''
 dsq_thread_id:

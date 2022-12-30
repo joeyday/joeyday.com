@@ -5,7 +5,6 @@ date: '2008-04-15T19:27:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/15/an-engineers-guide-to-cats'
-permalink: /index.php/2008/04/15/an-engineers-guide-to-cats/
 dsq_thread_id:
     - '3132288929'
 categories:

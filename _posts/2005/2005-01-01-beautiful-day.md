@@ -5,7 +5,6 @@ date: '2005-01-01T12:30:00+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/01/beautiful-day'
-permalink: /index.php/2005/01/01/beautiful-day/
 dsq_thread_id:
     - '1744276343'
 categories:

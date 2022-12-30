@@ -5,7 +5,6 @@ date: '2005-02-08T09:44:14+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/08/meandean-notices-me-sorta'
-permalink: /index.php/2005/02/08/meandean-notices-me-sorta/
 dsq_thread_id:
     - '1744276150'
 categories:

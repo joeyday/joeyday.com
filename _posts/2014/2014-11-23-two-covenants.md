@@ -5,7 +5,6 @@ date: '2014-11-23T16:05:28+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2615'
-permalink: /index.php/2014/11/23/two-covenants/
 wps_subtitle:
     - 'Are the two major divisions of the Bible really “testaments” or “covenants”?'
 dsq_thread_id:

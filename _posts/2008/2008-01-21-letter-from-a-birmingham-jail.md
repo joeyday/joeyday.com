@@ -5,7 +5,6 @@ date: '2008-01-21T18:08:13+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/01/21/letter-from-a-birmingham-jail'
-permalink: /index.php/2008/01/21/letter-from-a-birmingham-jail/
 dsq_thread_id:
     - '1744280981'
 categories:

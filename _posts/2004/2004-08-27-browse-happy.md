@@ -5,7 +5,6 @@ date: '2004-08-27T12:13:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/27/browse-happy'
-permalink: /index.php/2004/08/27/browse-happy/
 dsq_thread_id:
     - '4628990680'
 categories:

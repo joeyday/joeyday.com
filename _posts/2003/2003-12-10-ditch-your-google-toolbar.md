@@ -5,7 +5,6 @@ date: '2003-12-10T11:43:44+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/10/ditch-your-google-toolbar'
-permalink: /index.php/2003/12/10/ditch-your-google-toolbar/
 dsq_thread_id:
     - '2207144114'
 categories:

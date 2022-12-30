@@ -5,7 +5,6 @@ date: '2004-11-21T22:01:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/21/engagement-photos'
-permalink: /index.php/2004/11/21/engagement-photos/
 dsq_thread_id:
     - '1744276347'
 categories:

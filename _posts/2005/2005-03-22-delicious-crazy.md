@@ -5,7 +5,6 @@ date: '2005-03-22T10:28:11+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/22/delicious-crazy'
-permalink: /index.php/2005/03/22/delicious-crazy/
 dsq_thread_id:
     - '2551720725'
 categories:

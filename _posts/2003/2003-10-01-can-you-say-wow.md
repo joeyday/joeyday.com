@@ -5,7 +5,6 @@ date: '2003-10-01T23:56:30+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/01/can-you-say-wow'
-permalink: /index.php/2003/10/01/can-you-say-wow/
 dsq_thread_id:
     - '1744275049'
 categories:

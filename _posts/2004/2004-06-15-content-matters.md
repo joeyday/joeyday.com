@@ -5,7 +5,6 @@ date: '2004-06-15T15:23:40+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/15/content-matters'
-permalink: /index.php/2004/06/15/content-matters/
 dsq_thread_id:
     - '1744275700'
 categories:

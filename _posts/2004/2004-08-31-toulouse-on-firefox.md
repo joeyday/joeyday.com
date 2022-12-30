@@ -5,7 +5,6 @@ date: '2004-08-31T11:19:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/31/toulouse-on-firefox'
-permalink: /index.php/2004/08/31/toulouse-on-firefox/
 categories:
     - essay
 tags:

@@ -5,7 +5,6 @@ date: '2003-11-07T17:04:32+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/07/wiki-wiki-wiki'
-permalink: /index.php/2003/11/07/wiki-wiki-wiki/
 dsq_thread_id:
     - '2456288389'
 categories:

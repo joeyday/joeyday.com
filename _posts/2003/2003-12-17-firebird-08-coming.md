@@ -5,7 +5,6 @@ date: '2003-12-17T22:54:53+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/17/firebird-08-coming'
-permalink: /index.php/2003/12/17/firebird-08-coming/
 dsq_thread_id:
     - '2489452004'
 categories:

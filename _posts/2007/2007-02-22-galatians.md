@@ -5,7 +5,6 @@ date: '2007-02-22T13:17:25+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/22/galatians'
-permalink: /index.php/2007/02/22/galatians/
 dsq_thread_id:
     - '1744276821'
 categories:

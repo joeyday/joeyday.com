@@ -5,7 +5,6 @@ date: '2004-08-05T12:02:00+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/05/disney-dream-desk'
-permalink: /index.php/2004/08/05/disney-dream-desk/
 dsq_thread_id:
     - '1744276027'
 categories:

@@ -5,7 +5,6 @@ date: '2011-08-26T20:23:05+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1809'
-permalink: /index.php/2011/08/26/my-temporary-setup-att-gophone-ipad-google-voice/
 dsq_thread_id:
     - '1749990471'
 categories:

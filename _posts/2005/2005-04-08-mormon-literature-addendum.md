@@ -5,7 +5,6 @@ date: '2005-04-08T10:58:06+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/08/mormon-literature-addendum'
-permalink: /index.php/2005/04/08/mormon-literature-addendum/
 dsq_thread_id:
     - '1785627551'
 categories:

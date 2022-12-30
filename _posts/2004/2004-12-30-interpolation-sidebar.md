@@ -5,7 +5,6 @@ date: '2004-12-30T13:05:11+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/30/interpolation-sidebar'
-permalink: /index.php/2004/12/30/interpolation-sidebar/
 dsq_thread_id:
     - '1744275787'
 categories:

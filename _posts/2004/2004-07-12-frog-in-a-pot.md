@@ -5,7 +5,6 @@ date: '2004-07-12T09:36:30+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/12/frog-in-a-pot'
-permalink: /index.php/2004/07/12/frog-in-a-pot/
 dsq_thread_id:
     - '1744275721'
 categories:

@@ -5,7 +5,6 @@ date: '2005-02-14T16:26:49+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/14/the-definition-of-forgiveness'
-permalink: /index.php/2005/02/14/the-definition-of-forgiveness/
 dsq_thread_id:
     - '1744279785'
 categories:

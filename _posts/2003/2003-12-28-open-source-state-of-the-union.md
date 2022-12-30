@@ -5,7 +5,6 @@ date: '2003-12-28T23:45:27+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/28/open-source-state-of-the-union'
-permalink: /index.php/2003/12/28/open-source-state-of-the-union/
 categories:
     - essay
 tags:

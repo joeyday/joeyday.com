@@ -5,7 +5,6 @@ date: '2005-07-26T14:29:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/the-shrinking-majority'
-permalink: /index.php/2005/07/26/the-shrinking-majority/
 dsq_thread_id:
     - '1744276546'
 categories:

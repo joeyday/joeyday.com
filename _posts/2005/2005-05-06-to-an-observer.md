@@ -5,7 +5,6 @@ date: '2005-05-06T09:12:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/06/to-an-observer'
-permalink: /index.php/2005/05/06/to-an-observer/
 dsq_thread_id:
     - '2567936915'
 categories:

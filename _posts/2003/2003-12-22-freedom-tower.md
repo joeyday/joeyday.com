@@ -5,7 +5,6 @@ date: '2003-12-22T16:23:08+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/22/freedom-tower'
-permalink: /index.php/2003/12/22/freedom-tower/
 dsq_thread_id:
     - '1744279903'
 categories:

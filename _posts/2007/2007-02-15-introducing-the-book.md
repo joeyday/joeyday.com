@@ -5,7 +5,6 @@ date: '2007-02-15T14:16:03+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/15/introducing-the-book'
-permalink: /index.php/2007/02/15/introducing-the-book/
 dsq_thread_id:
     - '1744279587'
 categories:

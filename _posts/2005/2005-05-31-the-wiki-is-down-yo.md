@@ -5,7 +5,6 @@ date: '2005-05-31T10:57:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/31/the-wiki-is-down-yo'
-permalink: /index.php/2005/05/31/the-wiki-is-down-yo/
 dsq_thread_id:
     - '1744280275'
 categories:

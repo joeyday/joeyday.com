@@ -5,7 +5,6 @@ date: '2004-11-09T10:30:06+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/09/septoplasty-et-al'
-permalink: /index.php/2004/11/09/septoplasty-et-al/
 dsq_thread_id:
     - '1915910537'
 categories:

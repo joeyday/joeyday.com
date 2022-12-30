@@ -5,7 +5,6 @@ date: '2006-08-14T06:15:08+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/08/14/my-plan-to-take-over-the-world'
-permalink: /index.php/2006/08/14/my-plan-to-take-over-the-world/
 dsq_thread_id:
     - '1744277090'
 categories:

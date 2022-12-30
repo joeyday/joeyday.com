@@ -5,7 +5,6 @@ date: '2006-09-27T21:05:46+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/09/27/the-weepies'
-permalink: /index.php/2006/09/27/the-weepies/
 dsq_thread_id:
     - '1744280634'
 categories:

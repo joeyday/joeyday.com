@@ -5,7 +5,6 @@ date: '2004-03-15T11:31:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/03/15/contentwatch-upgrades'
-permalink: /index.php/2004/03/15/contentwatch-upgrades/
 categories:
     - essay
 tags:

@@ -5,7 +5,6 @@ date: '2006-05-02T21:44:50+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/02/the-message-of-the-quran'
-permalink: /index.php/2006/05/02/the-message-of-the-quran/
 dsq_thread_id:
     - '2110899228'
 categories:

@@ -5,7 +5,6 @@ date: '2009-09-05T12:42:21+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1264'
-permalink: /index.php/2009/09/05/amazon-kindle-unboxing-experience/
 dsq_thread_id:
     - '1744279674'
 categories:

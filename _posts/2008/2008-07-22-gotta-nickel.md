@@ -5,7 +5,6 @@ date: '2008-07-22T18:43:52+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/07/22/gotta-nickel'
-permalink: /index.php/2008/07/22/gotta-nickel/
 dsq_thread_id:
     - '1744277289'
 categories:

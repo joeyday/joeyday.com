@@ -5,7 +5,6 @@ date: '2014-10-30T23:03:48+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2473'
-permalink: /index.php/2014/10/30/my-iphone-home-screen/
 wps_subtitle:
     - ''
 dsq_thread_id:

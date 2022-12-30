@@ -5,7 +5,6 @@ date: '2003-10-14T13:24:45+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/14/trackback-pings'
-permalink: /index.php/2003/10/14/trackback-pings/
 dsq_thread_id:
     - '2355016881'
 categories:

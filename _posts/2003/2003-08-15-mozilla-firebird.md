@@ -5,7 +5,6 @@ date: '2003-08-15T17:12:39+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/08/15/mozilla-firebird'
-permalink: /index.php/2003/08/15/mozilla-firebird/
 dsq_thread_id:
     - '1744279465'
 categories:

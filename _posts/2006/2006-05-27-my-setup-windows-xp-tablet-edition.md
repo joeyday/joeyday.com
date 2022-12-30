@@ -5,7 +5,6 @@ date: '2006-05-27T15:14:58+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/05/27/my-setup-windox-xp-tablet-edition'
-permalink: /index.php/2006/05/27/my-setup-windows-xp-tablet-edition/
 dsq_thread_id:
     - '2233658998'
 categories:

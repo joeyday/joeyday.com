@@ -5,7 +5,6 @@ date: '2004-10-14T20:22:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/14/im-not-anti'
-permalink: /index.php/2004/10/14/im-not-anti/
 dsq_thread_id:
     - '1744279214'
 categories:

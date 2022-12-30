@@ -5,7 +5,6 @@ date: '2015-05-30T00:33:41+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2773'
-permalink: /index.php/2015/05/30/metric-for-updated-by/
 wps_subtitle:
     - 'Defining a ServiceNow Metric to track every update to any record in a table'
 dsq_thread_id:

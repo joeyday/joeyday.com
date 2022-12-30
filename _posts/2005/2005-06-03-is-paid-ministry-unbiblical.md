@@ -5,7 +5,6 @@ date: '2005-06-03T15:05:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/06/03/is-paid-ministry-unbiblical'
-permalink: /index.php/2005/06/03/is-paid-ministry-unbiblical/
 dsq_thread_id:
     - '1744280203'
 wps_subtitle:

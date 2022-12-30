@@ -5,7 +5,6 @@ date: '2004-08-05T12:31:33+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/05/traffic-jam'
-permalink: /index.php/2004/08/05/traffic-jam/
 dsq_thread_id:
     - '1744275640'
 categories:

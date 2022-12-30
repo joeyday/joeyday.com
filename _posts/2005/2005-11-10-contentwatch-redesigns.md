@@ -5,7 +5,6 @@ date: '2005-11-10T15:56:47+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/11/10/contentwatch-redesigns'
-permalink: /index.php/2005/11/10/contentwatch-redesigns/
 categories:
     - essay
 tags:

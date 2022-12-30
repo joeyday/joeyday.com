@@ -5,7 +5,6 @@ date: '2004-09-24T21:05:40+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/24/a-case-for-amillennialism-part-1'
-permalink: /index.php/2004/09/24/a-case-for-amillennialism-part-1/
 dsq_thread_id:
     - '1744279354'
 categories:

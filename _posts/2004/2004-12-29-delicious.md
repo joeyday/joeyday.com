@@ -5,7 +5,6 @@ date: '2004-12-29T14:21:49+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/29/delicious'
-permalink: /index.php/2004/12/29/delicious/
 dsq_thread_id:
     - '1744279013'
 categories:

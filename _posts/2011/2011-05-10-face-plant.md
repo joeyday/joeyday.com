@@ -5,7 +5,6 @@ date: '2011-05-10T19:01:25+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1760'
-permalink: /index.php/2011/05/10/face-plant/
 dsq_thread_id:
     - '1744277321'
 categories:

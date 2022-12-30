@@ -5,7 +5,6 @@ date: '2005-03-18T17:12:58+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/17/settlers-of-catan'
-permalink: /index.php/2005/03/18/settlers-of-catan/
 dsq_thread_id:
     - '1760690409'
 categories:

@@ -5,7 +5,6 @@ date: '2012-04-18T21:18:37+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=2032'
-permalink: /index.php/2012/04/18/coco-plays-with-crayons/
 dsq_thread_id:
     - '1744254044'
 categories:

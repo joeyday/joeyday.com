@@ -5,7 +5,6 @@ date: '2004-11-18T10:08:45+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/18/oranges-and-apples'
-permalink: /index.php/2004/11/18/oranges-and-apples/
 dsq_thread_id:
     - '1744278756'
 categories:

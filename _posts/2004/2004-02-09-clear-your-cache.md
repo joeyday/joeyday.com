@@ -5,7 +5,6 @@ date: '2004-02-09T11:04:22+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/02/09/clear-your-cache'
-permalink: /index.php/2004/02/09/clear-your-cache/
 dsq_thread_id:
     - '1744279966'
 categories:

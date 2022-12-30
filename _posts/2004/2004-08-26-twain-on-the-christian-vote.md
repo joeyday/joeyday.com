@@ -5,7 +5,6 @@ date: '2004-08-26T13:07:01+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/26/twain-on-the-christian-vote'
-permalink: /index.php/2004/08/26/twain-on-the-christian-vote/
 dsq_thread_id:
     - '2382910293'
 categories:

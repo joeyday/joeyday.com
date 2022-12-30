@@ -5,7 +5,6 @@ date: '2003-10-08T13:19:59+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/08/indecent-aol-commercial'
-permalink: /index.php/2003/10/08/indecent-aol-commercial/
 dsq_thread_id:
     - '1744278665'
 categories:

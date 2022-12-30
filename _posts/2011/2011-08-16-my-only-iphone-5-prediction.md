@@ -5,7 +5,6 @@ date: '2011-08-16T16:34:51+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1775'
-permalink: /index.php/2011/08/16/my-only-iphone-5-prediction/
 dsq_thread_id:
     - '1744280881'
 categories:

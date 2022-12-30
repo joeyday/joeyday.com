@@ -5,7 +5,6 @@ date: '2009-09-08T13:30:47+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1282'
-permalink: /index.php/2009/09/08/kindle-save-for-later-feature/
 dsq_thread_id:
     - '1809790656'
 categories:

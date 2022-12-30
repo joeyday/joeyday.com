@@ -5,7 +5,6 @@ date: '2009-09-11T18:44:35+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1304'
-permalink: /index.php/2009/09/11/gods-passion-for-his-glory/
 dsq_thread_id:
     - '1762017436'
 categories:

@@ -5,7 +5,6 @@ date: '2008-04-24T11:30:23+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/24/the-weepies-son-theo-introduces-hideaway'
-permalink: /index.php/2008/04/24/the-weepies-son-theo-introduces-hideaway/
 dsq_thread_id:
     - '1877353632'
 categories:

@@ -5,7 +5,6 @@ date: '2003-10-15T18:19:35+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/15/mozilla-in-the-clear'
-permalink: /index.php/2003/10/15/mozilla-in-the-clear/
 dsq_thread_id:
     - '6064938278'
 categories:

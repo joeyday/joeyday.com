@@ -5,7 +5,6 @@ date: '2004-06-22T18:43:05+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/22/are-you-with-arbys-unofficially'
-permalink: /index.php/2004/06/22/are-you-with-arbys-unofficially/
 dsq_thread_id:
     - '1744275977'
 categories:

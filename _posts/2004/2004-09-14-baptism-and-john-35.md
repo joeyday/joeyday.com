@@ -5,7 +5,6 @@ date: '2004-09-14T16:41:05+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/14/baptism-and-john-35'
-permalink: /index.php/2004/09/14/baptism-and-john-35/
 dsq_thread_id:
     - '1744276523'
 categories:

@@ -5,7 +5,6 @@ date: '2005-04-08T10:17:18+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/08/leaving-the-saints'
-permalink: /index.php/2005/04/08/leaving-the-saints/
 dsq_thread_id:
     - '1744277633'
 categories:

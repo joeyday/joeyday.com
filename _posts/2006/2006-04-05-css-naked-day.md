@@ -5,7 +5,6 @@ date: '2006-04-05T13:04:13+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/04/05/css-naked-day'
-permalink: /index.php/2006/04/05/css-naked-day/
 dsq_thread_id:
     - '1815358705'
 categories:

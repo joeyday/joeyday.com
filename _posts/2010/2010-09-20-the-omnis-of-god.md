@@ -5,7 +5,6 @@ date: '2010-09-20T10:53:23+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1586'
-permalink: /index.php/2010/09/20/the-omnis-of-god/
 dsq_thread_id:
     - '1744277910'
 categories:

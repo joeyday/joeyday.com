@@ -5,7 +5,6 @@ date: '2004-02-19T11:39:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/02/19/debugging-woes'
-permalink: /index.php/2004/02/19/debugging-woes/
 dsq_thread_id:
     - '1744279552'
 categories:

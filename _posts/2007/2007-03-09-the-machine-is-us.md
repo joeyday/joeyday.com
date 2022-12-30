@@ -5,7 +5,6 @@ date: '2007-03-09T13:06:42+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/09/the-machine-is-using-us'
-permalink: /index.php/2007/03/09/the-machine-is-us/
 dsq_thread_id:
     - '1744279741'
 categories:

@@ -5,7 +5,6 @@ date: '2004-09-28T10:58:25+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/28/under-the-knife'
-permalink: /index.php/2004/09/28/under-the-knife/
 dsq_thread_id:
     - '3265146991'
 categories:

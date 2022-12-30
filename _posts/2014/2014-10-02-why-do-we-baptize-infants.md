@@ -5,7 +5,6 @@ date: '2014-10-02T13:53:01+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2506'
-permalink: /index.php/2014/10/02/why-do-we-baptize-infants/
 wps_subtitle:
     - 'A review of Daniel Hyde’s book “Jesus Loves the Little Children: Why We Baptize Children”'
 dsq_thread_id:

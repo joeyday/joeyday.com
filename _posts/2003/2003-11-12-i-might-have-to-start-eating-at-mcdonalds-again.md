@@ -5,7 +5,6 @@ date: '2003-11-12T14:39:48+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/12/i-might-have-to-start-eating-at-mcdonalds-again'
-permalink: /index.php/2003/11/12/i-might-have-to-start-eating-at-mcdonalds-again/
 dsq_thread_id:
     - '1744279798'
 categories:

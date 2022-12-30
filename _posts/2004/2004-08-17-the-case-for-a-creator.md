@@ -5,7 +5,6 @@ date: '2004-08-17T22:40:47+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/08/17/the-case-for-a-creator'
-permalink: /index.php/2004/08/17/the-case-for-a-creator/
 dsq_thread_id:
     - '1744276494'
 wps_subtitle:

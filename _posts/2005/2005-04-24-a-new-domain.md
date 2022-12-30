@@ -5,7 +5,6 @@ date: '2005-04-24T14:36:57+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/24/a-new-domain'
-permalink: /index.php/2005/04/24/a-new-domain/
 dsq_thread_id:
     - '1744276238'
 categories:

@@ -5,7 +5,6 @@ date: '2005-02-09T13:53:16+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/09/color-puke'
-permalink: /index.php/2005/02/09/color-puke/
 dsq_thread_id:
     - '1744277210'
 categories:

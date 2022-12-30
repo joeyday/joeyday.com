@@ -5,7 +5,6 @@ date: '2005-07-26T14:01:39+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/windows-vista-fonts'
-permalink: /index.php/2005/07/26/windows-vista-fonts/
 dsq_thread_id:
     - '1744280344'
 categories:

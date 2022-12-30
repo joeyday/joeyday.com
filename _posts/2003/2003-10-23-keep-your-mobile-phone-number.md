@@ -5,7 +5,6 @@ date: '2003-10-23T08:50:00+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/23/keep-your-mobile-phone-number'
-permalink: /index.php/2003/10/23/keep-your-mobile-phone-number/
 dsq_thread_id:
     - '1763857485'
 categories:

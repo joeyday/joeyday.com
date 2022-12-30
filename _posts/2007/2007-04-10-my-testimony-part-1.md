@@ -5,7 +5,6 @@ date: '2007-04-10T13:40:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/10/my-testimony-part-1'
-permalink: /index.php/2007/04/10/my-testimony-part-1/
 dsq_thread_id:
     - '1744278144'
 categories:

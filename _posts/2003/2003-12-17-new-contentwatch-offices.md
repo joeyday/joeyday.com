@@ -5,7 +5,6 @@ date: '2003-12-17T23:15:02+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/17/new-contentwatch-offices'
-permalink: /index.php/2003/12/17/new-contentwatch-offices/
 dsq_thread_id:
     - '1744279161'
 categories:

@@ -5,7 +5,6 @@ date: '2011-09-19T19:06:49+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1856'
-permalink: /index.php/2011/09/19/by-the-grace-of-god-they-were-freely-willing/
 dsq_thread_id:
     - '1774469926'
 categories:

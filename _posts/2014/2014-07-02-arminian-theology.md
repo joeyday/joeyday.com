@@ -5,7 +5,6 @@ date: '2014-07-02T14:26:09+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2194'
-permalink: /index.php/2014/07/02/arminian-theology/
 dsq_thread_id:
     - '2813052096'
 wps_subtitle:

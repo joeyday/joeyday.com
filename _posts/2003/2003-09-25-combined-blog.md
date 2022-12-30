@@ -5,7 +5,6 @@ date: '2003-09-25T23:25:48+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/09/25/combined-blog'
-permalink: /index.php/2003/09/25/combined-blog/
 dsq_thread_id:
     - '1744275092'
 categories:

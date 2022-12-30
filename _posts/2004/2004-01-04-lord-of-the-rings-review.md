@@ -5,7 +5,6 @@ date: '2004-01-04T23:08:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/01/04/lord-of-the-rings-review'
-permalink: /index.php/2004/01/04/lord-of-the-rings-review/
 categories:
     - essay
 tags:

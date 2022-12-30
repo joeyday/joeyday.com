@@ -5,7 +5,6 @@ date: '2004-09-14T13:48:28+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/14/firefox-preview-release'
-permalink: /index.php/2004/09/14/firefox-preview-release/
 dsq_thread_id:
     - '1744278362'
 categories:

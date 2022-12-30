@@ -5,7 +5,6 @@ date: '2003-12-13T16:22:08+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/13/night-of-the-image-map'
-permalink: /index.php/2003/12/13/night-of-the-image-map/
 dsq_thread_id:
     - '1744275679'
 categories:

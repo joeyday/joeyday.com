@@ -5,7 +5,6 @@ date: '2005-03-14T16:31:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/14/lost-books'
-permalink: /index.php/2005/03/14/lost-books/
 dsq_thread_id:
     - '1744277494'
 categories:

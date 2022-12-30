@@ -5,7 +5,6 @@ date: '2018-04-20T14:30:56+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2961'
-permalink: /index.php/2018/04/20/retrieving-eternal-generation/
 wps_subtitle:
     - ''
 dsq_thread_id:

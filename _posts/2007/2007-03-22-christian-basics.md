@@ -5,7 +5,6 @@ date: '2007-03-22T10:52:51+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/22/christian-basics'
-permalink: /index.php/2007/03/22/christian-basics/
 dsq_thread_id:
     - '1744280416'
 categories:

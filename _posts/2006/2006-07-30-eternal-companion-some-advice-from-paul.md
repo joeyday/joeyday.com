@@ -5,7 +5,6 @@ date: '2006-07-30T19:50:58+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/07/30/eternal-companion-some-advice-from-paul'
-permalink: /index.php/2006/07/30/eternal-companion-some-advice-from-paul/
 dsq_thread_id:
     - '1744278143'
 categories:

@@ -5,7 +5,6 @@ date: '2005-04-04T09:33:04+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/04/175th-annual-general-conference'
-permalink: /index.php/2005/04/04/175th-annual-general-conference/
 dsq_thread_id:
     - '1744276980'
 categories:

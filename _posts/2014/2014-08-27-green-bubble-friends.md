@@ -5,7 +5,6 @@ date: '2014-08-27T17:33:11+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2453'
-permalink: /index.php/2014/08/27/green-bubble-friends/
 wps_subtitle:
     - "Do something nice for the Android people in your\_life"
 dsq_thread_id:

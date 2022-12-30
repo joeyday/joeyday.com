@@ -5,7 +5,6 @@ date: '2003-11-06T17:59:53+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/11/06/microsoft-must-be-under-a-lot-of-stress'
-permalink: /index.php/2003/11/06/microsoft-must-be-under-a-lot-of-stress/
 categories:
     - essay
 tags:

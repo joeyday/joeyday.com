@@ -5,7 +5,6 @@ date: '2011-09-21T18:09:26+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1860'
-permalink: /index.php/2011/09/21/toast-paint/
 dsq_thread_id:
     - '1744277374'
 categories:

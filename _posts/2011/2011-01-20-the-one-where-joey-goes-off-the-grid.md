@@ -5,7 +5,6 @@ date: '2011-01-20T19:19:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1676'
-permalink: /index.php/2011/01/20/the-one-where-joey-goes-off-the-grid/
 dsq_thread_id:
     - '1824401751'
 categories:

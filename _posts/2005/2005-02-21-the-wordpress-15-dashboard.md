@@ -5,7 +5,6 @@ date: '2005-02-21T10:28:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/21/the-wordpress-15-dashboard'
-permalink: /index.php/2005/02/21/the-wordpress-15-dashboard/
 dsq_thread_id:
     - '1744275301'
 categories:

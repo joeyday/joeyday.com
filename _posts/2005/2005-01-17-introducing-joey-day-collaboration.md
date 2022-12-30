@@ -5,7 +5,6 @@ date: '2005-01-17T15:06:28+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/17/introducing-joey-day-collaboration'
-permalink: /index.php/2005/01/17/introducing-joey-day-collaboration/
 dsq_thread_id:
     - '1744275895'
 categories:

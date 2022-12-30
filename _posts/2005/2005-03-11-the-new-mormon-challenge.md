@@ -5,7 +5,6 @@ date: '2005-03-11T09:53:46+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/11/the-new-mormon-challenge'
-permalink: /index.php/2005/03/11/the-new-mormon-challenge/
 dsq_thread_id:
     - '1744277479'
 categories:

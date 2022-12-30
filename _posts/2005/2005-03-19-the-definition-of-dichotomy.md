@@ -5,7 +5,6 @@ date: '2005-03-19T22:00:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/19/the-definition-of-dichotomy'
-permalink: /index.php/2005/03/19/the-definition-of-dichotomy/
 dsq_thread_id:
     - '1744276986'
 categories:

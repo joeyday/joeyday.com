@@ -5,7 +5,6 @@ date: '2014-07-02T14:15:22+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2192'
-permalink: /index.php/2014/07/02/how-does-presbyterian-theology-differ-from-other-forms-of-christian-theology/
 dsq_thread_id:
     - '2813159341'
 categories:

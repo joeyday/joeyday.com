@@ -5,7 +5,6 @@ date: '2006-03-16T10:50:25+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/03/16/new-header-images'
-permalink: /index.php/2006/03/16/new-header-images/
 dsq_thread_id:
     - '1744276781'
 categories:

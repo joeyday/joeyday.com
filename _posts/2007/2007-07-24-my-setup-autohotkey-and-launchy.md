@@ -5,7 +5,6 @@ date: '2007-07-24T14:57:01+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/07/24/my-setup-autohotkey-and-launchy'
-permalink: /index.php/2007/07/24/my-setup-autohotkey-and-launchy/
 dsq_thread_id:
     - '1744279070'
 categories:

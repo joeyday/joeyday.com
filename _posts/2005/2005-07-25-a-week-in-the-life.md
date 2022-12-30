@@ -5,7 +5,6 @@ date: '2005-07-25T21:03:10+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/25/a-week-in-the-life'
-permalink: /index.php/2005/07/25/a-week-in-the-life/
 dsq_thread_id:
     - '1744277854'
 categories:

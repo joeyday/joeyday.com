@@ -5,7 +5,6 @@ date: '2008-03-02T19:04:03+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/02/help-wanted-custom-graphic'
-permalink: /index.php/2008/03/02/help-wanted-custom-graphic/
 categories:
     - essay
 tags:

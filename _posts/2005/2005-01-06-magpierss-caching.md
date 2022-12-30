@@ -5,7 +5,6 @@ date: '2005-01-06T14:49:39+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/06/magpierss-caching'
-permalink: /index.php/2005/01/06/magpierss-caching/
 dsq_thread_id:
     - '1744275826'
 categories:

@@ -5,7 +5,6 @@ date: '2007-04-19T09:35:09+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/19/youre-an-idiot'
-permalink: /index.php/2007/04/19/youre-an-idiot/
 dsq_thread_id:
     - '1744280192'
 categories:

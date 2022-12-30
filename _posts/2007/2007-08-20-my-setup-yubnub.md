@@ -5,7 +5,6 @@ date: '2007-08-20T13:20:11+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/20/my-setup-yubnub'
-permalink: /index.php/2007/08/20/my-setup-yubnub/
 dsq_thread_id:
     - '1744278022'
 categories:

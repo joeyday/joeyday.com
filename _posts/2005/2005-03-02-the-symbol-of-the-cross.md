@@ -5,7 +5,6 @@ date: '2005-03-02T11:47:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/02/the-symbol-of-the-cross'
-permalink: /index.php/2005/03/02/the-symbol-of-the-cross/
 dsq_thread_id:
     - '1744280656'
 categories:

@@ -5,7 +5,6 @@ date: '2004-07-01T15:07:48+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/01/make-your-computer-smarter'
-permalink: /index.php/2004/07/01/make-your-computer-smarter/
 dsq_thread_id:
     - '1744279985'
 categories:

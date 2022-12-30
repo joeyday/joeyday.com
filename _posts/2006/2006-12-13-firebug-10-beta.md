@@ -5,7 +5,6 @@ date: '2006-12-13T12:40:46+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/12/13/firebug-10-beta'
-permalink: /index.php/2006/12/13/firebug-10-beta/
 dsq_thread_id:
     - '1786169583'
 categories:

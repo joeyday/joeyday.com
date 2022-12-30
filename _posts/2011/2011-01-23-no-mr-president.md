@@ -5,7 +5,6 @@ date: '2011-01-23T16:32:27+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1703'
-permalink: /index.php/2011/01/23/no-mr-president/
 dsq_thread_id:
     - '2183707228'
 categories:

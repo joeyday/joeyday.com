@@ -5,7 +5,6 @@ date: '2007-03-04T16:55:15+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/04/npr-miscellany-3'
-permalink: /index.php/2007/03/04/npr-miscellany-3/
 dsq_thread_id:
     - '1746005882'
 categories:

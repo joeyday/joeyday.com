@@ -5,7 +5,6 @@ date: '2005-02-07T09:53:52+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/07/trackback-spam'
-permalink: /index.php/2005/02/07/trackback-spam/
 dsq_thread_id:
     - '1744275557'
 categories:

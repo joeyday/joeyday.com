@@ -5,7 +5,6 @@ date: '2004-12-16T22:44:39+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/16/my-fifteen-minutes'
-permalink: /index.php/2004/12/16/my-fifteen-minutes/
 dsq_thread_id:
     - '1744275220'
 categories:

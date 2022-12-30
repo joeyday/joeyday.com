@@ -5,7 +5,6 @@ date: '2007-06-06T16:05:32+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/06/06/day-v-roboknight-1'
-permalink: /index.php/2007/06/06/day-v-roboknight-1/
 dsq_thread_id:
     - '1744277925'
 categories:

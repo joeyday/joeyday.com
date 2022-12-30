@@ -5,7 +5,6 @@ date: '2005-02-10T11:50:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/10/rss-for-state-documents'
-permalink: /index.php/2005/02/10/rss-for-state-documents/
 dsq_thread_id:
     - '1744275912'
 categories:

@@ -5,7 +5,6 @@ date: '2007-02-01T15:59:21+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/01/fun-with-subtitles'
-permalink: /index.php/2007/02/01/fun-with-subtitles/
 categories:
     - video
 tags:

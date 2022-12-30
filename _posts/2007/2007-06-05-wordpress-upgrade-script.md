@@ -5,7 +5,6 @@ date: '2007-06-05T13:10:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/06/05/wordpress-upgrade-script'
-permalink: /index.php/2007/06/05/wordpress-upgrade-script/
 dsq_thread_id:
     - '1744277866'
 categories:

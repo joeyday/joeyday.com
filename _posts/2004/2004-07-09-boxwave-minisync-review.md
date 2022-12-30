@@ -5,7 +5,6 @@ date: '2004-07-09T12:00:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/09/boxwave-minisync-review'
-permalink: /index.php/2004/07/09/boxwave-minisync-review/
 dsq_thread_id:
     - '4232263517'
 categories:

@@ -5,7 +5,6 @@ date: '2004-07-11T22:41:43+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/11/amazing-race-5'
-permalink: /index.php/2004/07/11/amazing-race-5/
 dsq_thread_id:
     - '1744279548'
 categories:

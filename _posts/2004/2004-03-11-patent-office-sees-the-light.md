@@ -5,7 +5,6 @@ date: '2004-03-11T12:17:10+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/03/11/patent-office-sees-the-light'
-permalink: /index.php/2004/03/11/patent-office-sees-the-light/
 dsq_thread_id:
     - '1744279981'
 categories:

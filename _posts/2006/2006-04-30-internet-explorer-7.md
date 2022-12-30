@@ -5,7 +5,6 @@ date: '2006-04-30T15:14:51+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/04/30/internet-explorer-7'
-permalink: /index.php/2006/04/30/internet-explorer-7/
 dsq_thread_id:
     - '2147585896'
 categories:

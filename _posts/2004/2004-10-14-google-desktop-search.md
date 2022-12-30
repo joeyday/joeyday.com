@@ -5,7 +5,6 @@ date: '2004-10-14T13:17:22+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/10/14/google-desktop-search'
-permalink: /index.php/2004/10/14/google-desktop-search/
 dsq_thread_id:
     - '1744276315'
 categories:

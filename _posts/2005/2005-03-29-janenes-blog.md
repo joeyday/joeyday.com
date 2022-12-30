@@ -5,7 +5,6 @@ date: '2005-03-29T11:38:09+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/29/janenes-blog'
-permalink: /index.php/2005/03/29/janenes-blog/
 dsq_thread_id:
     - '1939039456'
 categories:

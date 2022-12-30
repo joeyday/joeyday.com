@@ -5,7 +5,6 @@ date: '2003-10-08T08:25:52+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/08/new-forum-for-i-lead-participants'
-permalink: /index.php/2003/10/08/new-forum-for-i-lead-participants/
 categories:
     - essay
 tags:

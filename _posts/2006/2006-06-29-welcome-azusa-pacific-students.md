@@ -5,7 +5,6 @@ date: '2006-06-29T07:28:33+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/06/29/welcome-azusa-pacific-students'
-permalink: /index.php/2006/06/29/welcome-azusa-pacific-students/
 dsq_thread_id:
     - '1744278125'
 categories:

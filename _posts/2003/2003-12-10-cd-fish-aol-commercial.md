@@ -5,7 +5,6 @@ date: '2003-12-10T12:02:30+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/10/cd-fish-aol-commercial'
-permalink: /index.php/2003/12/10/cd-fish-aol-commercial/
 dsq_thread_id:
     - '1744275216'
 categories:

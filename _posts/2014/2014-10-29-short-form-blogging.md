@@ -5,7 +5,6 @@ date: '2014-10-29T22:19:53+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2541'
-permalink: /index.php/2014/10/29/short-form-blogging/
 wps_subtitle:
     - 'wherein I briefly blog about blogging briefly'
 dsq_thread_id:

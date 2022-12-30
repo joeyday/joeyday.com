@@ -5,7 +5,6 @@ date: '2005-01-08T20:54:57+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/08/a-better-wishlist'
-permalink: /index.php/2005/01/08/a-better-wishlist/
 categories:
     - essay
 tags:

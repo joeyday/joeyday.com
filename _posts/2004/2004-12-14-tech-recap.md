@@ -5,7 +5,6 @@ date: '2004-12-14T21:08:27+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/14/tech-recap'
-permalink: /index.php/2004/12/14/tech-recap/
 dsq_thread_id:
     - '1744280133'
 categories:

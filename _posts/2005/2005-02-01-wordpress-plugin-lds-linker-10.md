@@ -5,7 +5,6 @@ date: '2005-02-01T19:24:36+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/01/wordpress-plugin-lds-linker-10'
-permalink: /index.php/2005/02/01/wordpress-plugin-lds-linker-10/
 dsq_thread_id:
     - '1744280725'
 categories:

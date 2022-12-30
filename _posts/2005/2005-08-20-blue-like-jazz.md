@@ -5,7 +5,6 @@ date: '2005-08-20T13:10:11+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/08/20/blue-like-jazz'
-permalink: /index.php/2005/08/20/blue-like-jazz/
 dsq_thread_id:
     - '1744276532'
 categories:

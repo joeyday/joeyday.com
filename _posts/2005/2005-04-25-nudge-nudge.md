@@ -5,7 +5,6 @@ date: '2005-04-25T16:23:51+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/25/nudge'
-permalink: /index.php/2005/04/25/nudge-nudge/
 dsq_thread_id:
     - '1744280017'
 categories:

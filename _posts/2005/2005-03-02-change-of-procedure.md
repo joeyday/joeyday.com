@@ -5,7 +5,6 @@ date: '2005-03-02T11:47:15+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/02/change-of-procedure'
-permalink: /index.php/2005/03/02/change-of-procedure/
 dsq_thread_id:
     - '1744280650'
 categories:

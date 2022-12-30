@@ -5,7 +5,6 @@ date: '2005-01-14T12:42:43+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/14/whats-in-a-name'
-permalink: /index.php/2005/01/14/whats-in-a-name/
 dsq_thread_id:
     - '1744277258'
 categories:

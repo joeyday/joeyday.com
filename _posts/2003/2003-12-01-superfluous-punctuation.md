@@ -5,7 +5,6 @@ date: '2003-12-01T09:35:21+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/01/superfluous-punctuation'
-permalink: /index.php/2003/12/01/superfluous-punctuation/
 dsq_thread_id:
     - '1744279899'
 categories:

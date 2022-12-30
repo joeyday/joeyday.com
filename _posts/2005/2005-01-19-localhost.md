@@ -5,7 +5,6 @@ date: '2005-01-19T10:30:11+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/01/19/localhost'
-permalink: /index.php/2005/01/19/localhost/
 dsq_thread_id:
     - '1744276094'
 categories:

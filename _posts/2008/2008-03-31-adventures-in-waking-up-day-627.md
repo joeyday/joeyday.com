@@ -5,7 +5,6 @@ date: '2008-03-31T21:38:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/03/31/adventures-in-waking-up-day-627'
-permalink: /index.php/2008/03/31/adventures-in-waking-up-day-627/
 dsq_thread_id:
     - '1744277724'
 categories:

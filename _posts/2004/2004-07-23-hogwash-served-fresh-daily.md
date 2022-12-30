@@ -5,7 +5,6 @@ date: '2004-07-23T15:14:08+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/23/hogwash-served-fresh-daily'
-permalink: /index.php/2004/07/23/hogwash-served-fresh-daily/
 dsq_thread_id:
     - '1744276028'
 categories:

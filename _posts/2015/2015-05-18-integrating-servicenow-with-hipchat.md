@@ -5,7 +5,6 @@ date: '2015-05-18T23:18:51+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2747'
-permalink: /index.php/2015/05/18/integrating-servicenow-with-hipchat/
 wps_subtitle:
     - ''
 dsq_thread_id:

@@ -5,7 +5,6 @@ date: '2012-11-02T20:07:45+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2086'
-permalink: /index.php/2012/11/02/sins-of-ignorance/
 dsq_thread_id:
     - '1744253387'
 categories:

@@ -5,7 +5,6 @@ date: '2005-04-04T21:40:41+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/04/google-maps-now-with-satellite'
-permalink: /index.php/2005/04/04/google-maps-now-with-satellite/
 dsq_thread_id:
     - '1744275543'
 categories:

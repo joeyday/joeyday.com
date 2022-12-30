@@ -5,7 +5,6 @@ date: '2005-04-05T20:20:42+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/04/05/the-trinity-part-2'
-permalink: /index.php/2005/04/05/the-trinity-part-2/
 dsq_thread_id:
     - '1744280069'
 categories:

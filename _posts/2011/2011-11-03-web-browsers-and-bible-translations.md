@@ -5,7 +5,6 @@ date: '2011-11-03T21:18:01+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1877'
-permalink: /index.php/2011/11/03/web-browsers-and-bible-translations/
 dsq_thread_id:
     - '1744278991'
 categories:

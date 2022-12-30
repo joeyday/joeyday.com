@@ -5,7 +5,6 @@ date: '2007-02-13T21:32:55+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/02/13/npr-miscellany-1'
-permalink: /index.php/2007/02/13/npr-miscellany-1/
 enclosure:
     - "http://www.npr.org/templates/dmg/dmg_wmref.php?prgCode=ATC&showDate=13-Feb-2007&segNum=19&mediaPref=WM&sauid=U511893881171423907156&getUnderwriting=1\n0\naudio/x-ms-wax"
     - "http://www.npr.org/templates/dmg/dmg_wmref.php?prgCode=ATC&showDate=13-Feb-2007&segNum=17&mediaPref=WM&sauid=U511893881171423907156&getUnderwriting=1\n0\naudio/x-ms-wax"

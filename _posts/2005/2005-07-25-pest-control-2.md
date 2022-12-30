@@ -5,7 +5,6 @@ date: '2005-07-25T20:52:02+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/25/pest-control-2'
-permalink: /index.php/2005/07/25/pest-control-2/
 dsq_thread_id:
     - '1744277926'
 categories:

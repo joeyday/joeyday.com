@@ -5,7 +5,6 @@ date: '2006-10-11T06:44:20+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/10/11/blah-blah-blah'
-permalink: /index.php/2006/10/11/blah-blah-blah/
 dsq_thread_id:
     - '1744278557'
 categories:

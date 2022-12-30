@@ -5,7 +5,6 @@ date: '2006-01-03T20:53:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/01/03/english-standard-version'
-permalink: /index.php/2006/01/03/english-standard-version/
 dsq_thread_id:
     - '1744276661'
 categories:

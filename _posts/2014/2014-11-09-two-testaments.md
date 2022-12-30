@@ -5,7 +5,6 @@ date: '2014-11-09T22:28:22+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2589'
-permalink: /index.php/2014/11/09/two-testaments/
 wps_subtitle:
     - 'Where do we find biblical warrant for the terms “New Testament” and “Old Testament”?'
 dsq_thread_id:

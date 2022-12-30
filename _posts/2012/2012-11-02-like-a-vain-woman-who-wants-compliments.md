@@ -5,7 +5,6 @@ date: '2012-11-02T21:19:19+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2092'
-permalink: /index.php/2012/11/02/like-a-vain-woman-who-wants-compliments/
 dsq_thread_id:
     - '1744253253'
 categories:

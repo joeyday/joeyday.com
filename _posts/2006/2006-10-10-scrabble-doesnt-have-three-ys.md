@@ -5,7 +5,6 @@ date: '2006-10-10T19:25:34+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/10/10/scrabble-doesnt-have-three-ys'
-permalink: /index.php/2006/10/10/scrabble-doesnt-have-three-ys/
 dsq_thread_id:
     - '1744279266'
 categories:

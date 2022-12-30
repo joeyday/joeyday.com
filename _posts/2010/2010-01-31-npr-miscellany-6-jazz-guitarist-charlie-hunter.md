@@ -5,7 +5,6 @@ date: '2010-01-31T14:06:58+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1462'
-permalink: /index.php/2010/01/31/npr-miscellany-6-jazz-guitarist-charlie-hunter/
 dsq_thread_id:
     - '1780274897'
 categories:

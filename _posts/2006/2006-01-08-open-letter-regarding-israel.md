@@ -5,7 +5,6 @@ date: '2006-01-08T20:58:43+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/01/08/open-letter-regarding-israel'
-permalink: /index.php/2006/01/08/open-letter-regarding-israel/
 dsq_thread_id:
     - '1744277260'
 categories:

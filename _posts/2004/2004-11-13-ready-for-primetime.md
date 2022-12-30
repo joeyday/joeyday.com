@@ -5,7 +5,6 @@ date: '2004-11-13T19:30:05+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/13/ready-for-primetime'
-permalink: /index.php/2004/11/13/ready-for-primetime/
 dsq_thread_id:
     - '1760467738'
 categories:

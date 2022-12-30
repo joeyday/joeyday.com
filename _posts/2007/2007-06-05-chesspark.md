@@ -5,7 +5,6 @@ date: '2007-06-05T14:09:29+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/06/05/chesspark'
-permalink: /index.php/2007/06/05/chesspark/
 dsq_thread_id:
     - '1744279598'
 categories:

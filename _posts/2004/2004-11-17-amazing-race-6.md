@@ -5,7 +5,6 @@ date: '2004-11-17T13:02:33+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/11/17/amazing-race-6'
-permalink: /index.php/2004/11/17/amazing-race-6/
 categories:
     - essay
 tags:

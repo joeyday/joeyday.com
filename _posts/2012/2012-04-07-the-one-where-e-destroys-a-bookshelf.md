@@ -5,7 +5,6 @@ date: '2012-04-07T16:01:30+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1987'
-permalink: /index.php/2012/04/07/the-one-where-e-destroys-a-bookshelf/
 dsq_thread_id:
     - '1910003251'
 categories:

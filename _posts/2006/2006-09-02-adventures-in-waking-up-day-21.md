@@ -5,7 +5,6 @@ date: '2006-09-02T12:23:39+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/09/02/adventures-in-waking-up-day-21'
-permalink: /index.php/2006/09/02/adventures-in-waking-up-day-21/
 dsq_thread_id:
     - '1744276447'
 categories:

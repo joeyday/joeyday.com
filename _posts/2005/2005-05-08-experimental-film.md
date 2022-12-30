@@ -5,7 +5,6 @@ date: '2005-05-08T18:22:49+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/05/08/wedding-video'
-permalink: /index.php/2005/05/08/experimental-film/
 dsq_thread_id:
     - '2350743947'
 categories:

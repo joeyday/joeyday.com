@@ -5,7 +5,6 @@ date: '2003-07-23T16:06:12+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/07/23/virtual-private-server'
-permalink: /index.php/2003/07/23/virtual-private-server/
 categories:
     - essay
 tags:

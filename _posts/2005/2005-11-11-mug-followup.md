@@ -5,7 +5,6 @@ date: '2005-11-11T11:00:38+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/11/11/mug-followup'
-permalink: /index.php/2005/11/11/mug-followup/
 dsq_thread_id:
     - '1744277818'
 categories:

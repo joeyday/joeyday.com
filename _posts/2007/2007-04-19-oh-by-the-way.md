@@ -5,7 +5,6 @@ date: '2007-04-19T14:26:46+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/19/oh-by-the-way'
-permalink: /index.php/2007/04/19/oh-by-the-way/
 categories:
     - essay
 tags:

@@ -5,7 +5,6 @@ date: '2007-04-01T18:00:24+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/04/01/re-branded'
-permalink: /index.php/2007/04/01/re-branded/
 dsq_thread_id:
     - '2532062837'
 categories:

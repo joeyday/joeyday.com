@@ -5,7 +5,6 @@ date: '2003-10-16T18:41:10+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/16/democratic-hypocrites-and-geourl'
-permalink: /index.php/2003/10/16/democratic-hypocrites-and-geourl/
 dsq_thread_id:
     - '1744275460'
 categories:

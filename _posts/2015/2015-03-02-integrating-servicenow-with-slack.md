@@ -5,7 +5,6 @@ date: '2015-03-02T00:41:59+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2652'
-permalink: /index.php/2015/03/02/integrating-servicenow-with-slack/
 wps_subtitle:
     - ''
 dsq_thread_id:

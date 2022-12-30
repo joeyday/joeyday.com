@@ -5,7 +5,6 @@ date: '2004-12-22T11:18:37+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/12/22/firefox-article-in-the-new-york-times'
-permalink: /index.php/2004/12/22/firefox-article-in-the-new-york-times/
 categories:
     - essay
 tags:

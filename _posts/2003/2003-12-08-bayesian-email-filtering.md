@@ -5,7 +5,6 @@ date: '2003-12-08T10:20:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/12/08/bayesian-email-filtering'
-permalink: /index.php/2003/12/08/bayesian-email-filtering/
 dsq_thread_id:
     - '1744275422'
 categories:

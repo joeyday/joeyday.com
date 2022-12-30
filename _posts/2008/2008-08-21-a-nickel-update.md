@@ -5,7 +5,6 @@ date: '2008-08-21T19:29:29+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=861'
-permalink: /index.php/2008/08/21/a-nickel-update/
 dsq_thread_id:
     - '1762077237'
 categories:

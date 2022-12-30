@@ -5,7 +5,6 @@ date: '2011-08-29T11:28:13+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1835'
-permalink: /index.php/2011/08/29/correlation/
 dsq_thread_id:
     - '2488690239'
 categories:

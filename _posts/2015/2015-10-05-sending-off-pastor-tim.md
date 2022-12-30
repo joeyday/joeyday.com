@@ -5,7 +5,6 @@ date: '2015-10-05T19:22:14+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2909'
-permalink: /index.php/2015/10/05/sending-off-pastor-tim/
 dsq_thread_id:
     - '4199551386'
 wps_subtitle:

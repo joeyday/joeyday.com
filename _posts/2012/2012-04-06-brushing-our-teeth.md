@@ -5,7 +5,6 @@ date: '2012-04-06T22:07:40+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1976'
-permalink: /index.php/2012/04/06/brushing-our-teeth/
 dsq_thread_id:
     - '1744278975'
 categories:

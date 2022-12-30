@@ -5,7 +5,6 @@ date: '2004-07-02T09:09:45+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/02/spam-principle-1'
-permalink: /index.php/2004/07/02/spam-principle-1/
 dsq_thread_id:
     - '1744275951'
 categories:

@@ -5,7 +5,6 @@ date: '2007-03-29T17:00:17+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/29/sitenotice-generator'
-permalink: /index.php/2007/03/29/sitenotice-generator/
 dsq_thread_id:
     - '1931369309'
 categories:

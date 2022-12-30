@@ -5,7 +5,6 @@ date: '2005-02-09T17:02:48+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/02/09/too-many-websites'
-permalink: /index.php/2005/02/09/too-many-websites/
 dsq_thread_id:
     - '1744275898'
 categories:

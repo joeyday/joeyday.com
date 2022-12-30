@@ -5,7 +5,6 @@ date: '2003-10-20T20:14:13+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/20/peach-and-blue-twenty'
-permalink: /index.php/2003/10/20/peach-and-blue-twenty/
 categories:
     - essay
 tags:

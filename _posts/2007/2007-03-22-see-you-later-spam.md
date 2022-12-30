@@ -5,7 +5,6 @@ date: '2007-03-22T09:34:09+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/22/see-you-later-spam'
-permalink: /index.php/2007/03/22/see-you-later-spam/
 dsq_thread_id:
     - '1744278230'
 categories:

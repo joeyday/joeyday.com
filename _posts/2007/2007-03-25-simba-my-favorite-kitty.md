@@ -5,7 +5,6 @@ date: '2007-03-25T18:32:09+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/03/25/simba-my-favorite-kitty'
-permalink: /index.php/2007/03/25/simba-my-favorite-kitty/
 dsq_thread_id:
     - '2505783946'
 categories:

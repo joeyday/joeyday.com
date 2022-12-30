@@ -5,7 +5,6 @@ date: '2003-10-09T18:03:00+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/09/lighten-up-teach'
-permalink: /index.php/2003/10/09/lighten-up-teach/
 dsq_thread_id:
     - '1744278355'
 categories:

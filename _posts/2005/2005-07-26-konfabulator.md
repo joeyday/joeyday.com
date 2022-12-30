@@ -5,7 +5,6 @@ date: '2005-07-26T13:42:18+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/07/26/konfabulator'
-permalink: /index.php/2005/07/26/konfabulator/
 dsq_thread_id:
     - '1807367360'
 categories:

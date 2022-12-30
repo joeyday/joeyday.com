@@ -5,7 +5,6 @@ date: '2005-03-23T16:24:19+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/23/testimony-at-slts'
-permalink: /index.php/2005/03/23/testimony-at-slts/
 dsq_thread_id:
     - '2368356679'
 categories:

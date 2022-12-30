@@ -5,7 +5,6 @@ date: '2003-10-28T13:10:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/28/a-list-apart-returns'
-permalink: /index.php/2003/10/28/a-list-apart-returns/
 dsq_thread_id:
     - '1744275058'
 categories:

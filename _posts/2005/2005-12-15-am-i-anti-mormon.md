@@ -5,7 +5,6 @@ date: '2005-12-15T09:35:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/12/15/am-i-anti-mormon'
-permalink: /index.php/2005/12/15/am-i-anti-mormon/
 dsq_thread_id:
     - '1744278130'
 categories:

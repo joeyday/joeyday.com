@@ -5,7 +5,6 @@ date: '2011-08-21T16:55:21+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=1787'
-permalink: /index.php/2011/08/21/justification-and-hyphenation/
 dsq_thread_id:
     - '1744280466'
 categories:

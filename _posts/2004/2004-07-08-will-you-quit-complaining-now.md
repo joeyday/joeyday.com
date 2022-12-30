@@ -5,7 +5,6 @@ date: '2004-07-08T23:15:23+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/07/08/will-you-quit-complaining-now'
-permalink: /index.php/2004/07/08/will-you-quit-complaining-now/
 dsq_thread_id:
     - '1744280002'
 categories:

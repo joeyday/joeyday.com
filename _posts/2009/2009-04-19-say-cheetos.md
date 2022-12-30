@@ -5,7 +5,6 @@ date: '2009-04-19T22:36:02+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/?p=915'
-permalink: /index.php/2009/04/19/say-cheetos/
 dsq_thread_id:
     - '1744281040'
 categories:

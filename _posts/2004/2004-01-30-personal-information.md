@@ -5,7 +5,6 @@ date: '2004-01-30T17:14:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/01/30/personal-information'
-permalink: /index.php/2004/01/30/personal-information/
 dsq_thread_id:
     - '1744279907'
 categories:

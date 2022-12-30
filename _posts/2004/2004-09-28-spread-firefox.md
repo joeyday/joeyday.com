@@ -5,7 +5,6 @@ date: '2004-09-28T16:04:45+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/09/28/spread-firefox'
-permalink: /index.php/2004/09/28/spread-firefox/
 dsq_thread_id:
     - '3265147191'
 categories:

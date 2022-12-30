@@ -5,7 +5,6 @@ date: '2005-03-18T15:09:41+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/18/weirdness'
-permalink: /index.php/2005/03/18/weirdness/
 dsq_thread_id:
     - '1744275641'
 categories:

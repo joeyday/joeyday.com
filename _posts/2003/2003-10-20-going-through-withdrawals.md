@@ -5,7 +5,6 @@ date: '2003-10-20T09:52:42+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/10/20/going-through-withdrawals'
-permalink: /index.php/2003/10/20/going-through-withdrawals/
 dsq_thread_id:
     - '1744279775'
 categories:

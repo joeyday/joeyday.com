@@ -5,7 +5,6 @@ date: '2006-10-14T19:05:56+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2006/10/14/akeelah-and-the-bee'
-permalink: /index.php/2006/10/14/akeelah-and-the-bee/
 dsq_thread_id:
     - '1978415784'
 categories:

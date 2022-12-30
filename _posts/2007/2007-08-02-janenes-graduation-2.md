@@ -5,7 +5,6 @@ date: '2007-08-02T08:47:29+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2007/08/02/janenes-graduation-2'
-permalink: /index.php/2007/08/02/janenes-graduation-2/
 dsq_thread_id:
     - '1801492869'
 categories:

@@ -5,7 +5,6 @@ date: '2004-06-16T10:28:37+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2004/06/16/mozilla-firefox-09'
-permalink: /index.php/2004/06/16/mozilla-firefox-09/
 dsq_thread_id:
     - '1744275142'
 categories:

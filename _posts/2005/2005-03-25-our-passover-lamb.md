@@ -5,7 +5,6 @@ date: '2005-03-25T11:26:10+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/03/25/our-passover-lamb'
-permalink: /index.php/2005/03/25/our-passover-lamb/
 dsq_thread_id:
     - '2029286027'
 categories:

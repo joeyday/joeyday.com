@@ -5,7 +5,6 @@ date: '2008-04-14T20:10:31+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2008/04/14/closest-book-meme'
-permalink: /index.php/2008/04/14/closest-book-meme/
 dsq_thread_id:
     - '1744278845'
 categories:

@@ -5,7 +5,6 @@ date: '2013-06-09T23:26:07+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2121'
-permalink: /index.php/2013/06/09/gods-foreign-relations-with-man/
 dsq_thread_id:
     - '1744248570'
 categories:

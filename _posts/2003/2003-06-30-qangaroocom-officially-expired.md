@@ -5,7 +5,6 @@ date: '2003-06-30T16:06:38+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/06/30/qangaroocom-officially-expired'
-permalink: /index.php/2003/06/30/qangaroocom-officially-expired/
 dsq_thread_id:
     - '1852925509'
 categories:

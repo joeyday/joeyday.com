@@ -5,7 +5,6 @@ date: '2003-07-23T14:24:18+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2003/07/23/spyware-resources'
-permalink: /index.php/2003/07/23/spyware-resources/
 dsq_thread_id:
     - '1744275353'
 categories:

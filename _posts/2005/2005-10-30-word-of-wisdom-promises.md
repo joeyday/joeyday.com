@@ -5,7 +5,6 @@ date: '2005-10-30T17:22:49+00:00'
 author: Joey
 layout: post
 guid: 'http://www.joeyday.com/2005/10/30/word-of-wisdom-promises'
-permalink: /index.php/2005/10/30/word-of-wisdom-promises/
 dsq_thread_id:
     - '1744277510'
 categories:
