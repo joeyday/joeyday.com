@@ -18,7 +18,14 @@ tags:
     - 'scott swain'
 ---
 
-<figure aria-describedby="caption-attachment-2962" class="wp-caption alignleft" id="attachment_2962" style="width: 150px">[![](http://joeyday.com/wp-content/uploads/2018/04/61zjnMfDvcL.jpg)](https://amzn.com/B06XF84397)<figcaption class="wp-caption-text" id="caption-attachment-2962">Fred Sanders and Scott R. Swain’s “Retrieving Eternal Generation”</figcaption></figure>Fred Sanders and Scott R. Swain’s <cite>[Retrieving Eternal Generation](http://amzn.com/B06XF84397)</cite> is an important book for the church. It’s a theologically conservative voice of reason in a modern debate against new theological arguments: social trinitarianism and egalitarianism on one side and eternal functional subordination (a.k.a. eternal relations of authority and submission) (EFS/ERAS) on the other hand. Sanders and Swain and their excellent panel of authors enter into the fray with a clarion call to reaffirm the universal historical position of the church on the relations of origin between the trinitarian persons and the eternal generation of the Son in particular.
+<figure class="alignleft" style="width: 150px">
+	<figcaption>Fred Sanders and Scott R. Swain’s “Retrieving Eternal Generation”</figcaption>
+	<a href="https://amzn.com/B06XF84397">
+		<img src="/assets/2018-04-20-retrieving-eternal-generation.jpeg" />
+	</a>
+</figure>
+
+Fred Sanders and Scott R. Swain’s <cite>[Retrieving Eternal Generation](http://amzn.com/B06XF84397)</cite> is an important book for the church. It’s a theologically conservative voice of reason in a modern debate against new theological arguments: social trinitarianism and egalitarianism on one side and eternal functional subordination (a.k.a. eternal relations of authority and submission) (EFS/ERAS) on the other hand. Sanders and Swain and their excellent panel of authors enter into the fray with a clarion call to reaffirm the universal historical position of the church on the relations of origin between the trinitarian persons and the eternal generation of the Son in particular.
 
 I’ll cut right to the chase: the book is worth the price for Charles Lee Irons’s chapter alone. He argues very convincingly for the historical translation of the Greek μονογενής (monogenēs) as “only begotten” over and against the more recent scholarly consensus “only one of its/his kind”. While this doesn’t by itself prove eternal generation, it sets our minds greatly at ease that “generation” is at least an appropriate Bible word to use for the eternal “from-ness” or “of-ness” of the Son.
 

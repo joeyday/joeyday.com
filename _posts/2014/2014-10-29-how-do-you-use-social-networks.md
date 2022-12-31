@@ -35,4 +35,4 @@ As I’ve already mentioned, I take photos with [Instagram](http://instagram.com
 
 I am on [LinkedIn](http://linkedin.com/in/joeyday "Joey Day on LinkedIn"), but I’m honestly not sure why. I don’t post anything to it and I never read anything others post to it. I have never needed it and hope to never need it in the future. It is the worst social network in existence, I think, and has only gotten worse over time. It was Jason and Myke’s discussion of LinkedIn in particular that spurred me to write this post. They seem to hate it as much as I do. Why do we all feel the need to be on that site at all?
 
-I’d love to hear how you use your social networks. Please drop me a comment below. Should I ditch LinkedIn? Should we all ditch it together? Who’s in?\[endmark\]
+I’d love to hear how you use your social networks. Please drop me a comment below. Should I ditch LinkedIn? Should we all ditch it together? Who’s in?{% include endmark.html %}

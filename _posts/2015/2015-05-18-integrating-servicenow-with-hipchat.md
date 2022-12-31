@@ -205,4 +205,4 @@ if(response.getStatusCode() != 200) {
 
 ## Conclusion
 
-So, what can you use this for? The sky’s the limit really. You can set up a Business Rule to fire on any condition you want and send any HTML message into any HipChat room. Use it as above to notify any given team when they have a new assignment. Use it to notify management when there’s a P1 incident. If you find a creative use for this Script Include, I’d love if you’d leave a comment below or drop me a line on social media. Cheers!\[endmark\]
+So, what can you use this for? The sky’s the limit really. You can set up a Business Rule to fire on any condition you want and send any HTML message into any HipChat room. Use it as above to notify any given team when they have a new assignment. Use it to notify management when there’s a P1 incident. If you find a creative use for this Script Include, I’d love if you’d leave a comment below or drop me a line on social media. Cheers!{% include endmark.html %}

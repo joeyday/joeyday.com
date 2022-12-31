@@ -58,4 +58,4 @@ In conclusion, I should also point out that Mormonism’s own scriptures allow r
 
 Paid ministry is not unbiblical. On the contrary, there are numerous scriptures which support and even command compensation for full-time servants of the gospel.
 
-The bottom line comes down to motivation. If a pastor is preaching the gospel out of greed, he’s obviously not a very good pastor. If a church wishes to compensate their pastor for his valuable time and labor, they shouldn’t be hindered from doing that.\[endmark\]
+The bottom line comes down to motivation. If a pastor is preaching the gospel out of greed, he’s obviously not a very good pastor. If a church wishes to compensate their pastor for his valuable time and labor, they shouldn’t be hindered from doing that.{% include endmark.html %}

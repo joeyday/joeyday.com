@@ -89,4 +89,4 @@ While we were eating, a microphone was passed around to give people a chance to 
 
 <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
 
-We love you Pastor Tim. If you’re half the blessing to Grace Church as you’ve been to us they’ll be blessed indeed. Godspeed in all your future endeavors, friend.
+We love you Pastor Tim. If you’re half the blessing to Grace Church as you’ve been to us they’ll be blessed indeed. Godspeed in all your future endeavors, friend.{% include endmark.html %}

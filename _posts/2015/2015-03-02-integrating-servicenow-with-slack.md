@@ -219,4 +219,4 @@ One idea I thought of is adding a Slack username field to the sys\_user table an
  slack.send(‘Ticket ‘ + current.number + ‘ has been assigned to you!’, ‘@’ + current.assigned\_to.u\_slack\_username);  
 }\[/code\]
 
-If you use this Script Include for something interesting, I’d love if you’d leave a comment below or drop me a line on social media. Cheers!\[endmark\]
+If you use this Script Include for something interesting, I’d love if you’d leave a comment below or drop me a line on social media. Cheers!{% include endmark.html %}

@@ -39,4 +39,4 @@ Here’s my own version of Gina Trapani’s new rules for blogging:
 - Don’t obsess over proofreading before just clicking Publish.
 - Have fun. If it’s not fun, walk away. Play with the kids instead.
 
-What do you think? If you have your own blog, what’s keeping you from posting new content? Are Facebook and Twitter enough of an outlet for you, or could blogging be just the thing you need to get your creative writing juices flowing again?\[endmark\]
+What do you think? If you have your own blog, what’s keeping you from posting new content? Are Facebook and Twitter enough of an outlet for you, or could blogging be just the thing you need to get your creative writing juices flowing again?{% include endmark.html %}

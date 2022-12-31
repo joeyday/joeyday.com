@@ -35,4 +35,4 @@ The other passage makes this connection even more explicit. 2 Corinthians 8:16-1
 
 Again, other translations have phrases like “by his own choice” or “of his own initiative”, but the meaning is the same. God, in his sovereignty, put the care into Titus’ heart so that Titus himself would freely will to visit the Corinthian saints.
 
-I love the few passages in the New Testament that mention free will. They do not in any way deter me from glorying in the absolute sovereignty of God.\[endmark\]
+I love the few passages in the New Testament that mention free will. They do not in any way deter me from glorying in the absolute sovereignty of God.{% include endmark.html %}

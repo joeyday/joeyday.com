@@ -58,4 +58,4 @@ This is the secret sauce. Since fields like *sys\_updated\_by* aren’t monitore
  gs.eventQueue(‘metric.update’, current, ‘\[sys\_updated\_by\]’, 1, ‘metric\_update’);  
 }\[/code\]
 
-That’s all there is to it. Now any time someone inserts or updates any Task (or records in whatever table you specified instead) you’ll get a new Metric Instance with a value containing that User’s user name.\[endmark\]
+That’s all there is to it. Now any time someone inserts or updates any Task (or records in whatever table you specified instead) you’ll get a new Metric Instance with a value containing that User’s user name.{% include endmark.html %}

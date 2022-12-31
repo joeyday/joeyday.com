@@ -52,6 +52,6 @@ A corollary to this whole idea is not only looking for consistency within author
 
 ### Conclusion
 
-So I hope I’ve helped you see why paying attention to authorship is a huge part of my hermeneutic—my way of learning from and interpreting the Bible. Realizing how the Old Testament prophecies of Jesus are so amazingly fulfilled in the New Testament was one of the things that made me recognize the authenticity of the Bible in the first place. Realizing further that the Bible was written by multiple authors and yet they are all consistent in what they believed and taught has really helped to solidify that belief for me. I hope I’ve encouraged you to look at the Bible in a different way as you consider the various authors and how they support each other.\[endmark\]
+So I hope I’ve helped you see why paying attention to authorship is a huge part of my hermeneutic—my way of learning from and interpreting the Bible. Realizing how the Old Testament prophecies of Jesus are so amazingly fulfilled in the New Testament was one of the things that made me recognize the authenticity of the Bible in the first place. Realizing further that the Bible was written by multiple authors and yet they are all consistent in what they believed and taught has really helped to solidify that belief for me. I hope I’ve encouraged you to look at the Bible in a different way as you consider the various authors and how they support each other.{% include endmark.html %}
 
 <small>*Photo credit: [le vent le cri](http://www.flickr.com/photos/21836224@N02/2296855678/).*</small>

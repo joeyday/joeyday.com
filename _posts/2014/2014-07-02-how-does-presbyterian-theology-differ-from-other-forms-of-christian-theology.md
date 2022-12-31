@@ -30,6 +30,6 @@ However, though unique, this form of church government could hardly be described
 
 <span style="line-height:1.5em;">I’m trying to keep my answer short, but I would be remiss if I did not also mention briefly that Presbyterians affirm infant baptism and tend to be postmillennial or amillennial in their eschatology (understanding of end time prophecy). These ideas, too, are derived from covenant theology (sensing a pattern, yet?).</span>
 
-Conservative Presbyterian denominations all affirm a historic statement of faith called the *[Westminster Confession of Faith](http://www.opc.org/wcf.html)*, an excellent and not overly long read if you want to learn more. And if you’d really like to study Presbyterianism, I recommend *[On Being Presbyterian: Our Beliefs, Practices, And Stories](http://amzn.com/1596380195/)* by Sean Michael Lucas.\[endmark\]
+Conservative Presbyterian denominations all affirm a historic statement of faith called the *[Westminster Confession of Faith](http://www.opc.org/wcf.html)*, an excellent and not overly long read if you want to learn more. And if you’d really like to study Presbyterianism, I recommend *[On Being Presbyterian: Our Beliefs, Practices, And Stories](http://amzn.com/1596380195/)* by Sean Michael Lucas.{% include endmark.html %}
 
 *This post was originally published on Quora, here: [How does Presbyterian theology differ from other forms of Christian theology?](https://www.quora.com/Religion/How-does-Presbyterian-theology-differ-from-other-forms-of-Christian-theology)*

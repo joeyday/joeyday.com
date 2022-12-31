@@ -50,4 +50,4 @@ Apps I couldn’t live without: [Kindle](https://www.amazon.com/gp/digital/fiona
 
 Apps I love: [ComiXology](https://www.comixology.com/ "ComiXology") (comicbooks), [Dark Sky](http://darkskyapp.com/ "Dark Sky") (weather), [Instapaper](https://www.instapaper.com/iphone "Instapaper") (read later service), [Picturelife](https://picturelife.com/mobile "Picturelife") (cloud photo storage), [Reeder](http://reederapp.com/ios/ "Reeder 2 for iOS") (feed reader), [Simple](https://www.simple.com/ "Simple") (banking), [Soulver](http://www.acqualia.com/soulver/iphone/ "Soulver for iOS") (calculator), [Textastic](http://www.textasticapp.com/iphone.html "Textastic") (web development), and [Tweetbot](http://tapbots.com/software/tweetbot/ "Tweetbot for iPhone") (Twitter client).
 
-Questions about any other icons you see in the screenshot? Know an awesome app I’m missing? Drop me a line on Twitter or Facebook or toss in a comment below.\[endmark\]
+Questions about any other icons you see in the screenshot? Know an awesome app I’m missing? Drop me a line on Twitter or Facebook or toss in a comment below.{% include endmark.html %}

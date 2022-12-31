@@ -74,4 +74,4 @@ Second, Hyde includes a chapter of quotes from early church fathers, but most of
 
 ## Conclusion
 
-My one complaint aside, this is the best resource on infant baptism I have found. It is inviting and conversational in its tone and thoroughly scriptural and persuasive in its arguments. If you read only one book about covenantal infant baptism, make it this one.\[endmark\]
+My one complaint aside, this is the best resource on infant baptism I have found. It is inviting and conversational in its tone and thoroughly scriptural and persuasive in its arguments. If you read only one book about covenantal infant baptism, make it this one.{% include endmark.html %}
