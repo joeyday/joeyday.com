@@ -20,7 +20,7 @@ tags:
 
 <figure class="alignleft" style="width: 150px">
 	<figcaption>Fred Sanders and Scott R. Swain’s “Retrieving Eternal Generation”</figcaption>
-	<a href="https://amzn.com/B06XF84397">
+	<a href="https://amzn.com/0310537878">
 		<img src="/assets/2018-04-20-retrieving-eternal-generation.jpeg" />
 	</a>
 </figure>
