@@ -5,8 +5,7 @@ date: '2014-10-29T22:19:53+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2541'
-wps_subtitle:
-    - 'wherein I briefly blog about blogging briefly'
+subtitle: 'wherein I briefly blog about blogging briefly'
 dsq_thread_id:
     - '3171323487'
 categories:

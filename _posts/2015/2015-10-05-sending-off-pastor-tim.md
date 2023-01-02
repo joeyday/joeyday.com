@@ -7,8 +7,7 @@ layout: post
 guid: 'http://joeyday.com/?p=2909'
 dsq_thread_id:
     - '4199551386'
-wps_subtitle:
-    - ''
+subtitle: ''
 categories:
     - essay
 tags:

@@ -7,8 +7,7 @@ layout: post
 guid: 'http://joeyday.com/?p=2104'
 dsq_thread_id:
     - '1744252957'
-wps_subtitle:
-    - ''
+subtitle: ''
 categories:
     - video
 tags:

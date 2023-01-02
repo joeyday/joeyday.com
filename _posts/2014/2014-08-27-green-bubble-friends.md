@@ -5,8 +5,7 @@ date: '2014-08-27T17:33:11+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2453'
-wps_subtitle:
-    - "Do something nice for the Android people in your\_life"
+subtitle: "Do something nice for the Android people in your\_life"
 dsq_thread_id:
     - '2965178879'
 categories:

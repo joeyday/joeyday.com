@@ -7,8 +7,7 @@ layout: post
 guid: 'http://joeyday.com/?p=2194'
 dsq_thread_id:
     - '2813052096'
-wps_subtitle:
-    - 'In which this convinced Calvinist sees and appreciates the nuances of classical Arminianism'
+subtitle: 'In which this convinced Calvinist sees and appreciates the nuances of classical Arminianism'
 categories:
     - essay
 ---

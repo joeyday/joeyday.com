@@ -5,8 +5,7 @@ date: '2014-11-23T16:05:28+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2615'
-wps_subtitle:
-    - 'Are the two major divisions of the Bible really “testaments” or “covenants”?'
+subtitle: 'Are the two major divisions of the Bible really “testaments” or “covenants”?'
 dsq_thread_id:
     - '3256099066'
 categories:

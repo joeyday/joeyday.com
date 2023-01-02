@@ -7,8 +7,7 @@ layout: post
 guid: 'http://www.joeyday.com/2005/06/03/is-paid-ministry-unbiblical'
 dsq_thread_id:
     - '1744280203'
-wps_subtitle:
-    - ''
+subtitle: ''
 categories:
     - essay
     - favorite

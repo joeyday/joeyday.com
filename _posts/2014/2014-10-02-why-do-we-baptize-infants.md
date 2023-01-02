@@ -5,8 +5,7 @@ date: '2014-10-02T13:53:01+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2506'
-wps_subtitle:
-    - 'A review of Daniel Hyde’s book “Jesus Loves the Little Children: Why We Baptize Children”'
+subtitle: 'A review of Daniel Hyde’s book “Jesus Loves the Little Children: Why We Baptize Children”'
 dsq_thread_id:
     - '3076855805'
 categories:

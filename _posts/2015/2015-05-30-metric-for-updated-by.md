@@ -5,8 +5,7 @@ date: '2015-05-30T00:33:41+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2773'
-wps_subtitle:
-    - 'Defining a ServiceNow Metric to track every update to any record in a table'
+subtitle: 'Defining a ServiceNow Metric to track every update to any record in a table'
 dsq_thread_id:
     - '3806063223'
 categories:

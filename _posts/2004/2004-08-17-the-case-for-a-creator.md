@@ -7,8 +7,7 @@ layout: post
 guid: 'http://www.joeyday.com/2004/08/17/the-case-for-a-creator'
 dsq_thread_id:
     - '1744276494'
-wps_subtitle:
-    - ''
+subtitle: ''
 categories:
     - essay
 ---

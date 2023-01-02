@@ -5,8 +5,7 @@ date: '2018-04-20T14:30:56+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2961'
-wps_subtitle:
-    - ''
+subtitle: ''
 dsq_thread_id:
     - '6625140020'
 categories:

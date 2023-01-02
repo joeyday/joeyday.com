@@ -5,8 +5,7 @@ date: '2014-10-29T23:00:38+00:00'
 author: Joey
 layout: post
 guid: 'http://joeyday.com/?p=2550'
-wps_subtitle:
-    - 'I suggest we all ditch LinkedIn. Who’s in?'
+subtitle: 'I suggest we all ditch LinkedIn. Who’s in?'
 dsq_thread_id:
     - '3171406124'
 categories:
