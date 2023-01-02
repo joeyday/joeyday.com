@@ -19,7 +19,7 @@ tags:
     - 'web services'
 ---
 
-My tutorial on integrating \[ServiceNow\] with \[Slack\] turned out to be one of my most popular articles ever. Justin Meader recently asked me on Twitter how easy it would be to integrate Service­Now with \[HipChat\] instead.
+My tutorial on integrating [ServiceNow] with [Slack] turned out to be one of my most popular articles ever. Justin Meader recently asked me on Twitter how easy it would be to integrate Service­Now with [HipChat] instead.
 
 > [@joeyday](https://twitter.com/joeyday) Hey Joey, I found your article on integrating Slack with Service­Now, and it's very helpful.
 > 
@@ -92,7 +92,7 @@ To create the Script Include, follow these steps:
 3. Click “Submit”.
 
 Here’s the script itself:  
-\[code language=”javascript”\]var HipChatNotification = Class.create();
+[code language=”javascript”]var HipChatNotification = Class.create();
 
 HipChatNotification.prototype = {  
  ‘initialize’: function() {},
@@ -105,84 +105,84 @@ HipChatNotification.prototype = {
  // Encode the payload as JSON  
  var SNJSON = JSON; // Workaround for JSLint warning about using JSON as a constructor  
  var myjson = new SNJSON();  
- var encoded\_payload = myjson.encode(this.payload);
+ var encoded_payload = myjson.encode(this.payload);
 
  // Create and send the REST Message  
  var msg = new RESTMessage(‘HipChat’, this.method);  
  msg.setStringParameter(‘endpoint’, this.endpoint);  
- msg.setXMLParameter(‘payload’, encoded\_payload);  
+ msg.setXMLParameter(‘payload’, encoded_payload);  
  var res = msg.execute();  
  return res;  
  },
 
- ‘endpoint’ : gs.getProperty(‘hipchat\_notification.default\_endpoint’),  
+ ‘endpoint’ : gs.getProperty(‘hipchat_notification.default_endpoint’),  
  ‘method’ : ‘post’,  
  ‘payload’ : {  
- ‘color’ : gs.getProperty(‘hipchat\_notification.default\_color’),  
+ ‘color’ : gs.getProperty(‘hipchat_notification.default_color’),  
  ‘message’ : ”,  
- ‘message\_format’ : ‘html’,  
+ ‘message_format’ : ‘html’,  
  ‘notify’ : false  
  },
 
  ‘type’: ‘HipChatNotification’  
-};\[/code\]
+};[/code]
 
 Now, I said earlier if you’re running Fuji you could skip the step for adding the REST Message. If you did that, you’ll want to find the following block of code in the above script . . .  
-\[code language=”javascript”\]// Create and send the REST Message  
+[code language=”javascript”]// Create and send the REST Message  
 var msg = new RESTMessage(‘HipChat’, this.method);  
 msg.setStringParameter(‘endpoint’, this.endpoint);  
-msg.setXMLParameter(‘payload’, encoded\_payload);  
+msg.setXMLParameter(‘payload’, encoded_payload);  
 var res = msg.execute();  
-return res;\[/code\]
+return res;[/code]
 
 . . . And replace it with this:  
-\[code language=”javascript”\]// Create and send the REST Message  
-var msg = new sn\_ws.RESTMessageV2();  
+[code language=”javascript”]// Create and send the REST Message  
+var msg = new sn_ws.RESTMessageV2();  
 msg.setEndpoint(this.endpoint);  
 msg.setHttpMethod(this.method);  
 msg.setRequestHeader(‘Content-Type’, ‘application/json’);  
-msg.setRequestBody(encoded\_payload);  
+msg.setRequestBody(encoded_payload);  
 var res = msg.execute();  
-return res;\[/code\]
+return res;[/code]
 
 This alternative code instantiates a new RESTMessageV2 object (instead of the older RESTMessage object) and does so without specifying any parameters. One of the neat things about the new version of the Outbound REST API is you don’t have to specify an existing REST Message, but can use the setter methods you see here to set the Endpoint and the HTTP Method, as well as directly set the Content Body of the message, all at runtime. Obviously if there’s a lot of setup (special headers and authentication and such) you may still want to go the former route of declaring the REST Message up front and calling it here, but since using the HipChat API doesn’t require a lot of complicated setup, being able to do it this way keeps things simple.
 
 ## System Properties
 
-You may have noticed the Script Include pulls in a couple of System Properties. I like using System Properties because they allow you to change settings on the fly later without re-deploying code. You can get a list view of all System Properties by typing “sys\_properties.list” in the search box at the top of the left sidebar in Service­Now. To create a new System Property from there, simply click the “New” button.
+You may have noticed the Script Include pulls in a couple of System Properties. I like using System Properties because they allow you to change settings on the fly later without re-deploying code. You can get a list view of all System Properties by typing “sys_properties.list” in the search box at the top of the left sidebar in Service­Now. To create a new System Property from there, simply click the “New” button.
 
 You’ll need to declare the following System Properties in your instance for the Script Include above to function properly:
 
 | Name | Value |
 |---|---|
-| hipchat\_notification.default\_endpoint | Here’s where you should paste that URL you put in a safe place way back in the first section above. |
-| hipchat\_notification.default\_color | Specify the color you’d like all HipChat notifications to be by default. You can choose from yellow, green, red, purple, gray, or random. |
+| hipchat_notification.default_endpoint | Here’s where you should paste that URL you put in a safe place way back in the first section above. |
+| hipchat_notification.default_color | Specify the color you’d like all HipChat notifications to be by default. You can choose from yellow, green, red, purple, gray, or random. |
 
-I called these both defaults since, as I’ll show below, you can override either or both of them in your individual Business Rules. As a best practice I recommend you rename these to include a company prefix, e.g. **acme.hipchat\_notification.default\_endpoint**. If you do, just don’t forget to modify each of the gs.getProperty() calls in the Script Include to match the new names.
+I called these both defaults since, as I’ll show below, you can override either or both of them in your individual Business Rules. As a best practice I recommend you rename these to include a company prefix, e.g. **acme.hipchat_notification.default_endpoint**. If you do, just don’t forget to modify each of the gs.getProperty() calls in the Script Include to match the new names.
 
 ## Examples
 
 Here’s how easy it is to send a notification to the default endpoint using this Script Include. In an advanced Business Rule (with conditions specified however you like), just call the send() method on a new HipChatNotification object:
 
-\[code language=”javascript”\]var hipchat = new HipChatNotification();  
-hipchat.send(‘Hello World!’);\[/code\]
+[code language=”javascript”]var hipchat = new HipChatNotification();  
+hipchat.send(‘Hello World!’);[/code]
 
 To send the notification someplace other than the default room, simply create another integration for that room and specify the alternate endpoint URL as a second parameter of the send() method:
 
-\[code language=”javascript”\]var hipchat = new HipChatNotification();  
-hipchat.send(‘Hello World!’, ‘https://api.hipchat.com/v2/room/xxxxxxx/notification?auth\_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx’);\[/code\]
+[code language=”javascript”]var hipchat = new HipChatNotification();  
+hipchat.send(‘Hello World!’, ‘https://api.hipchat.com/v2/room/xxxxxxx/notification?auth_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx’);[/code]
 
 Note that the message itself can include HTML. Here’s a more realistic example how you might notify a room when an Incident has been assigned to a particular assignment group:
 
-\[code language=”javascript”\]// Initialize a new HipChatNotification  
+[code language=”javascript”]// Initialize a new HipChatNotification  
 var hipchat = new HipChatNotification();
 
 // Set up the payload  
-hipchat.payload.message = ‘An Incident has been assigned to ‘ + current.assignment\_group.name + ‘: &lt;a href="https://’ + gs.getProperty(‘instance\_name’) + ‘.service-now.com/nav\_to.do?uri=incident.do?sys\_id=’ + current.sys\_id + ‘"&gt;’ + current.number + ‘&lt;/a&gt; ‘ + current.short\_description;  
+hipchat.payload.message = ‘An Incident has been assigned to ‘ + current.assignment_group.name + ‘: &lt;a href="https://’ + gs.getProperty(‘instance_name’) + ‘.service-now.com/nav_to.do?uri=incident.do?sys_id=’ + current.sys_id + ‘"&gt;’ + current.number + ‘&lt;/a&gt; ‘ + current.short_description;  
 hipchat.payload.color = ‘red’;
 
 // Fire off the message  
-var response = hipchat.send();\[/code\]
+var response = hipchat.send();[/code]
 
 The above will result in a Slack notification looking like this:
 
@@ -191,7 +191,7 @@ The above will result in a Slack notification looking like this:
 Don’t miss how you can call the send() method without any parameters as long as you’ve specified useful values for the payload beforehand, and be aware you may need to use toString() when you set values if you’re not using string concatenation or something else that would implicitly cast the contents of a record field into a string.
 
 Lastly, note that the send() method returns the server response. If you store that response you can debug by grabbing values out of it as shown below:  
-\[code language=”javascript”\]// Send the notification  
+[code language=”javascript”]// Send the notification  
 var hipchat = new HipChatNotification();  
 var response = hipchat.send(‘Hello World!’);
 
@@ -200,7 +200,7 @@ if(response.getStatusCode() != 200) {
  gs.addInfoMessage("response.getBody: " + response.getBody());  
  gs.addInfoMessage("response.getStatusCode: " + response.getStatusCode());  
  gs.addInfoMessage("response.getErrorMessage: " + response.getErrorMessage());  
-}\[/code\]
+}[/code]
 
 ## Conclusion
 
