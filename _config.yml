@@ -16,7 +16,7 @@
 title: Joey Day
 author: Joey Day
 description: > # this means to ignore newlines until "baseurl:"
-    Hi, I’m Joey. I’m a 30-something software engineer (read: big nerd) in Salt Lake
+    Hi, I’m Joey. I’m a 40-something software engineer (read: big nerd) in Salt Lake
     City. When I grow up I’d like to be a seminary professor (read: even bigger nerd).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.joeyday.com" # the base hostname & protocol for your site, e.g. http://example.com
