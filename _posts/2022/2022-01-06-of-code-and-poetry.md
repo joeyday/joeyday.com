@@ -14,7 +14,7 @@ GPT stands for generative pre-trained transformer. It's an artificial intelligen
 
 If Siri and Alexa are smart at listening and understanding what you're asking, ChatGPT brings the smarts to the other half of the conversation, not just recalling terse facts and figures the way today's conversational assistants do, but providing in many cases whole paragraphs of apparently off-the-cuff explanation and analysis (if you ask it the same question twice, it words its answer differently the second time).
 
-# First contact
+## First contact
 
 I'd heard of ChatGPT a few times in water-cooler conversation around the office (the alpha version officially released to the public in November 2022), but my first experience with it was related to JavaScript trainings I've been doing at work. Once a week I've been holding a class with my junior engineers and a couple developers from another team to teach them JavaScript, and I've been handing out optional homework. We've recently been learning about strings and string manipulation and a couple weeks ago I challenged them to write a script for turning English text into Pig Latin.
 
@@ -119,7 +119,7 @@ gdt.setValue(gdt.getDate() + ' 00:00:00');
 
 Caveats aside, I do think using ChatGPT to produce code is a step above Googling and I think I'll continue to use it this way at work. It's one more tool in my toolbox alongside API docs, Stack Overflow, and Google, and perhaps it's the fastest of these resources.
 
-## Looking in the crystal ball
+## Peering into the crystal ball
 
 I don't know if improvement will come rapidly as they throw more and more data points at it, or if improvement will come in slow and steady tweaks to how the model carefully sifts the vast amount of things it knows (undoubtedly both). Surely some of what I'm about to say comes from the hubris and confirmation bias of being a senior engineer myself—the main reason I'm writing this down is to see how wrong or right I am in five, ten, twenty years.
 
