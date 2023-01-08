@@ -63,18 +63,18 @@ gr.query();
 
 // If there are any records returned, choose a random one
 if (gr.hasNext()) {
-  // Get the total number of returned records
-  var count = gr.getRowCount();
+    // Get the total number of returned records
+    var count = gr.getRowCount();
 
-  // Choose a random number between 0 and the total number of returned records
-  var randomIndex = Math.floor(Math.random() * count);
+    // Choose a random number between 0 and the total number of returned records
+    var randomIndex = Math.floor(Math.random() * count);
 
-  // Go to the record at the chosen random index
-  gr.setLimit(1, randomIndex);
-  gr.query();
+    // Go to the record at the chosen random index
+    gr.setLimit(1, randomIndex);
+    gr.query();
 
-  // Do something with the random incident record
-  // ...
+    // Do something with the random incident record
+    // ...
 }
 {% endhighlight %}
 
