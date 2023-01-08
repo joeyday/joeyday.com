@@ -42,7 +42,7 @@ function translateToPigLatin(str) {
 }
 {% endhighlight %}
 
-Assuming he had found it on Stack Overflow or some such, I told him it looked pretty good to me. Regular expressions are a clever way to solve the problem and the names of the function and variables are all nicely verbose and self-documenting. I was honestly a bit shook when he sprung the twist on me that it'd been written by an artificial intelligence.
+Assuming he'd found it on Stack Overflow or some such, I told him it looked pretty good to me. Regular expressions are a clever way to solve the problem and the names of the function and variables are all nicely verbose and self-documenting. I was honestly a bit shook when he sprung the twist on me that it'd been written by an artificial intelligence.
 
 ## Getting to know you
 
