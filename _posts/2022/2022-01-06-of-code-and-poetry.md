@@ -1,6 +1,6 @@
 ---
 title: 'Of code and poetry'
-subtitle: 'Reflections on my earliest conversations with ChatGPT'
+subtitle: 'Reflections on my earliest conversations with OpenAI's ChatGPT'
 date: '2022-01-06'
 author: Joey
 layout: post
