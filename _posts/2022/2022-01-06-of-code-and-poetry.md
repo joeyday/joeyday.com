@@ -1,6 +1,6 @@
 ---
 title: Of code and poetry
-subtitle: Reflections on my earliest interactions with OpenAI's ChatGPT
+subtitle: Reflections on my earliest interactions with OpenAI’s ChatGPT
 date: 2022-01-06
 author: Joey
 layout: post
