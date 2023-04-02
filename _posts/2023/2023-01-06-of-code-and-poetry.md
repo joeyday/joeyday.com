@@ -164,3 +164,16 @@ Brilliant, right?
 I hope I've captured a decent flavor of where my thoughts and feelings are currently. I think some people are scared artificial intelligence will one day achieve sentience and then we'll have a big moral quandary on our hands, but I'm honestly not scared of that at all. At the moment I suppose I'm a bit anxious about AI's ability to replace software engineers entirely, but I assure myself that it will never be completely without faults, that my human sensibilities will always be important for the production of good code, and that I should embrace AI as an awesome tool to make me more efficient and productive. Only time will tell, I guess.{% include endmark.html %}
 
 [^1]: I knew this myself, of course, but I'm also taking a cue here from my favorite podcaster, John Siracusa. Skip to about six minutes into [episode 516 of Accidental Tech Podcast](https://atp.fm/516) (chapter 3 if your podcast player supports chapters) for their discussion of code written by artificial intelligences.
+
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  window.DiscourseEmbed = { discourseUrl: 'https://talk.jday.co/',
+                     discourseEmbedUrl: 'https://joeyday.com/2023/01/06/of-code-and-poetry/' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = window.DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
