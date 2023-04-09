@@ -6,13 +6,13 @@
   <title>{% if page.title %}{{ page.title | escape }} ‹ {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="https://use.typekit.net/lkn6tyl.css">
+  <!-- link rel="stylesheet" href="https://use.typekit.net/lkn6tyl.css" -->
   <script src="https://use.fontawesome.com/65b54580d8.js"></script>
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
   
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <!-- link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}" -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">  
   <link rel="me" href="https://puritan.pub/@joeyday" />
