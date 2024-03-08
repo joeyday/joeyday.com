@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Joey Day › Résumé</title>
+	<link rel="stylesheet" href="https://use.typekit.net/uwt8qbu.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		/******* STYLE *******/
+		
+		html {
+			width: 100%;
+			height: 100%;
+		}
+		
+		body {
+			font-family: ff-tisa-web-pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-variant-numeric: oldstyle-nums;
+			font-variant-ligatures: common-ligatures;
+			font-kerning: normal;
+			font-size: 11pt;
+			min-height: 100%;
+			display: grid;
+			grid-template-rows: auto 1fr auto;
+			grid-template-columns: 100%;
+			-webkit-text-size-adjust: none;
+		}
+				
+		h1 {
+			font-family: ff-tisa-sans-web-pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-size: 30pt;
+			font-weight: 400;
+			text-align: center;
+			margin-top: 0.5in;
+			margin-bottom: 0;
+		}
+		
+		h2 {
+			font-family: ff-tisa-sans-web-pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-size: 13pt;
+			font-weight: 300;
+			border-bottom: 0.5pt solid #000;
+			margin: 6pt 0.05in 6pt;
+		}
+
+		h2::after {
+			content: " ›";
+		}
+		
+		h3 {
+			font-size: 11pt;
+			line-height: 1.5em;
+			margin-top: 6pt;
+			margin-bottom: 0;
+		}
+		
+		section {
+			margin: 6pt 0.15in 0;
+			padding: 0;
+		}
+		
+		section header {
+			margin-top: 0;
+			margin-bottom: 0;
+			padding: 0;
+		}
+		
+		p {
+			line-height: 1.5em;
+			margin-top: 0;
+			margin-bottom: 6pt;
+		}
+		
+		ul {
+			padding-left: 30px;
+			margin-top: 0;
+			margin-bottom: 6pt;
+		}
+		
+		li {
+			line-height: 1.5em;
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+		abbr, .lead {
+			font-variant-caps: all-small-caps;
+		}
+		
+		.contact-info {
+			font-family: ff-tisa-sans-web-pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-weight: 300;
+			text-align: center;
+			max-width: 4in;
+		}
+		
+		header .contact-info {
+			margin: 0 0.25in 6pt;
+		}
+		
+		footer .contact-info {
+			margin: 0.5in 0.25in 0.5in;
+		}
+		
+		.organization {
+			font-style: italic;
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+		.date-range {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+		.job-description {
+			font-weight: 300;
+		}
+		
+		a {
+			text-decoration: none;
+			color: inherit;
+		}
+	
+		a:hover {
+			text-decoration: underline;
+			color: inherit;
+		}
+		
+		/******* LAYOUT *******/
+		
+		@media print, screen and (min-width: 6.25in) {
+			body {
+				width: 6in;
+				margin: 0 auto;
+			}
+			
+			h2 {
+				margin-left: 0;
+				margin-right: 0;
+			}
+			
+			h1 {
+				margin 1in auto 0;
+			}
+				
+			h3 {
+				display: inline;
+				width: auto;
+			}
+		
+			h3::after {
+				content: ", ";
+				font-weight: 400;
+			}
+			
+			header .contact-info {
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			footer .contact-info {
+				margin: 1in auto 1in;
+			}
+		
+			section {
+				margin-left: 0.25in;
+				margin-right: 0.25in;
+			}
+			
+			section header {
+				display: grid;
+				grid-template-columns: auto 1fr auto;
+				width: 100%;
+			}
+			
+			section header h3,
+			section header p {
+				margin: 0;
+			}
+				
+			.organization {
+				display: inline;
+				width: auto;
+			}
+		
+			.date-range {
+				display: inline;
+				width: auto;
+			}
+		}
+		
+		@media print {
+			h1, h2, h3, .organization, .date-range {
+				break-after: avoid-page;
+			}
+		
+			ul {
+				break-before: avoid-page;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Joey Day</h1>
+		<p class="contact-info">117 Wayfield Dr&nbsp;· Draper, <abbr>UT</abbr> 84020&nbsp;· (801)&nbsp;808&#8209;5639&nbsp;· <a href="mailto:joeyday@hey.com">joeyday@hey.com</a>&nbsp;· <a href="https://glideguide.blog">glideguide.blog</a></p>
+	</header>
+	
+	<main>
+		<h2>Abstract</h2>
+
+		<section class="abstract">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat nec augue maximus pharetra ut at urna. Etiam vitae ipsum in metus ultricies mattis. Mauris et est orci. Vivamus eget velit pretium, feugiat ligula eget, facilisis justo. Maecenas eu sem quis massa malesuada bibendum vitae id felis. Fusce mauris massa, mollis non nulla id, accumsan tincidunt sapien. Donec eget turpis diam. Sed tempus neque rutrum, efficitur sem non, sagittis nisl.</p>
+		</section>
+
+		<h2>Skills</h2>
+
+		<section class="skills">
+			<ul>
+				<li>Pro-code custom ServiceNow application development</li>
+				<li>JavaScript (<abbr>ES12+</abbr>), <abbr>JSON</abbr>, <abbr>XML</abbr>, <abbr>HTML</abbr>, <abbr>CSS</abbr>, regular expressions</li>
+				<li>ServiceNow <abbr>API</abbr>s: GlideRecord, GlideAggregate, GlideQuery, GlideAjax, GlideSchedule, GlideDuration, GlideDateTime, GlideSystem, etc.</li>
+				<li>Integrations with <abbr>REST</abbr>, Graph<abbr>QL</abbr>, Table <abbr>API</abbr>, Scripted <abbr>REST</abbr> <abbr>API</abbr>s</li>
+				<li>Business Rules, <abbr>UI</abbr> Policies, Script Includes, Inbound Actions</li>
+				<li>Flow Designer, Process Automation Designer, Legacy Workflow</li>
+				<li>Service Portal: Angular<abbr>JS</abbr>, Bootstrap, <abbr>SASS</abbr>, custom widgets and pages</li>
+				<li>Legacy Content Management: Jelly, <abbr>UI</abbr> Macros, <abbr>UI</abbr> Pages</li>
+				<li>Coaching, mentoring, and training engineers at all skill levels</li>
+				<li>Agile Scrum, experience in Scrum Master and Product Owner roles</li>
+			</ul>
+		</section>
+
+		<h2>Professional experience</h2>
+		
+		<section class="job">
+			<header>
+				<h3>Senior ServiceNow Engineer</h3>
+				<p class="organization">Academy Mortgage</p>
+				<p class="date-range">Aug 2022 – Present</p>
+			</header>
+			<ul class="job-description">
+				<li>Re-designed pricing exception approvals app to align with updated process. New rules engine accommodates wide variety of use cases.</li>
+				<li>Engineered app to streamline decision-making on marketing materials ensuring regulatory and brand compliance. Includes feature to generate flattened reports from normalized tables for easier auditing.</li>
+				<li>Implemented Service Operations Workspace, Employee Center, and Risk Management.</li>
+			</ul>
+		</section>
+
+		<section class="job">
+			<header>
+				<h3>Lead Tech Services Engineer</h3>
+				<p class="organization">Progressive Leasing</p>
+				<p class="date-range">Nov 2019 – Aug 2022</p>
+			</header>
+			<ul class="job-description">
+				<li>Collaborated on development of custom Service Portal intranet to replace SharePoint. Implemented <abbr>HTML</abbr> and <abbr>CSS</abbr> based on design mockups.</li>
+				<li>Designed app for provisioning, de-provisioning, and managing channel membership of users in Slack messaging service.</li>
+				<li>Implemented <abbr>HR</abbr> Service Delivery and Virtual Agent. Maintained and supported Discovery, Service Mapping, and Event Management.</li>
+			</ul>
+		</section>
+	
+		<section class="job">
+			<header>
+				<h3>Senior Software Engineer</h3>
+				<p class="organization">Academy Mortgage</p>
+				<p class="date-range">Mar 2015 – Nov 2019</p>
+			</header>
+			<ul class="job-description">
+				<li>Developed Stip Pro application with custom Service Portal interface for managing investor stipulations on secondary market loan portfolios. Significantly boosted Post Closing department efficiency, enabling a 50% staff reduction.</li>
+				<li>Developed pricing exception approvals app (including bi-directional integration with loan origination system) for mitigation of revenue loss.</li>
+			</ul>
+		</section>
+	
+		<section class="job">
+			<header>
+				<h3>ServiceNow Administrator</h3>
+				<p class="organization">Western Governors Univ.</p>
+				<p class="date-range">May 2012 – Mar 2015</p>
+			</header>
+			<ul class="job-description">
+				<li>Collaborated with Salesforce administration team on bi-directional integration with Salesforce <abbr>CRM</abbr>.</li>
+				<li>Implemented <abbr>IT</abbr> Service Management.</li>
+			</ul>
+		</section>
+
+		<h2>Education</h2>
+
+		<section class="education">
+			<header>
+				<h3>B.S. in Information Technology</h3>
+				<p class="organization">Western Governors Univ.</p>
+			</header>
+		</section>
+	
+		<h2>Certifications</h2>
+
+		<section class="certification">
+			<header>
+				<h3>Certified Application Developer</h3>
+				<p class="organization">ServiceNow</p>
+			</header>
+		</section>
+	
+		<section class="education">
+			<header>
+				<h3>Certified System Administrator</h3>
+				<p class="organization">ServiceNow</p>
+			</header>
+		</section>
+	
+		<section class="education">
+			<header>
+				<h3>ITIL Foundation</h3>
+				<p class="organization"><abbr>APM</abbr> Group (PeopleCert)</p>
+			</header>
+		</section>
+	</main>
+	
+	<footer>
+		<p class="contact-info">Joey Day&nbsp;· (801)&nbsp;808-5639&nbsp;· <a href="mailto:joeyday@hey.com">joeyday@hey.com</a></p>
+	</footer>
+</body>
+</html>
+
