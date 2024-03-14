@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Instance Clone Standard Procedure</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		/******* STYLE *******/
+		
+		body {
+			font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-variant-numeric: oldstyle-nums;
+			font-variant-ligatures: common-ligatures;
+			font-kerning: normal;
+			min-height: 100%;
+			-webkit-text-size-adjust: none;
+			margin: 0.5in 0.125in;
+		}
+				
+		p, li {
+			line-height: 1.4em;
+		}
+		
+		/******* LAYOUT *******/
+		
+		@media print, screen and (min-width: 6.25in) {
+			body {
+				width: 6in;
+				margin: 0.5in auto;
+			}
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Instance Clone Standard Procedure</h1>
+	<h2>Schedule</h2>
+	<p>The clone schedule is on the shared ServiceNow Team calendar. Once every four weeks the Development and Stage instances should be cloned from Production, and once every two weeks the UAT instance should be cloned from Production. The shared calendar also designates which Software Engineer on the team will be responsible for carrying out the clone on any given weekend.</p>
+	<h2>Pre-clone backups (development instance only)</h2>
+	<p>To be carried out by responsible party prior to development instance clones:</p>
+	<h3>Back up Update Sets</h3>
+	<p>Run&nbsp;the following script in Xplore, but first correct the `start_date` so it matches the date of the last clone on the same instance (you can&nbsp;find&nbsp;information about all past clones in the production instance at&nbsp;System Clone &rsaquo; Live Clones &rsaquo; Clone History):</p>
+	<pre style="border: 1px dashed blue; background-color: #eef; padding: 1em; margin: 1em;">var start_date = '2245-04-11 00:00:00';
+	
+	var gr = new GlideQuery('sys_update_set')
+		.where('sys_created_on', '&gt;', start_date)
+		.where('state', 'complete')
+		.whereNull('base_update_set')
+		.orderBy('name')
+		.toGlideRecord();
+	
+	gr.query();
+	
+	var u = new UpdateSetExport();
+	var hyperlink;
+	
+	while (gr.next()) {
+		hyperlink = '&lt;a href="export_update_set.do?sysparm_sys_id=';
+		hyperlink += u.exportUpdateSet(gr);
+		hyperlink += '&amp;sysparm_delete_when_done=true&amp;sysparm_ck=';
+		hyperlink += gs.getSessionToken()
+		hyperlink +='" class="zzz_export_zzz" target="_blank"&gt;';
+		hyperlink += gr.name;
+		hyperlink += '&lt;/a&gt;';
+		gs.print(hyperlink);
+	}
+	
+	gs.print(gr.getRowCount());</pre>
+	<p>With the results of the previous script still on your screen, run this script in your browser console to download all the Update Sets:</p>
+	<pre style="border: 1px dashed blue; background-color: #eef; padding: 1em; margin: 1em;">const timer = ms =&gt; new Promise(res =&gt; setTimeout(res, ms));
+	const links = document.querySelectorAll('.zzz_export_zzz');
+	
+	(async function () {
+		for (let i = 0; i &lt; links.length; i++) {
+			links[i].click();
+			await timer(1000);
+		}
+	})();</pre>
+	<p>This&nbsp;second script&nbsp;creates XML export links for all In Progress update sets. Since most of these will be various instances of Default or the names of individual admins/devs working in scoped apps, you should not&nbsp;use&nbsp;the previous script to&nbsp;auto-download these&nbsp;but rather&nbsp;pick and choose which ones to download and click the links manually.&nbsp;There shouldn't be very many. (You'll need to fix the `start_date` just as you did in the first script.)</p>
+	<pre style="border: 1px dashed blue; background-color: #eeeeff; padding: 1em; margin: 1em;">var start_date = '2245-04-11 00:00:00';
+	
+	var sys_ids = new GlideQuery('sys_update_xml')
+		.whereNull('remote_update_set')
+		.whereNotNull('update_set')
+		.where('update_set.sys_created_on', '&gt;', start_date)
+		.where('update_set.state', 'in progress')
+		.whereNull('update_set.base_update_set')
+		.aggregate('COUNT')
+		.groupBy('update_set')
+		.select()
+		.reduce(function (acc, group) {
+			return acc.concat(group.group.update_set);
+		}, []);
+	
+	var gr = new GlideQuery('sys_update_set')
+		.where('sys_id', 'IN', sys_ids)
+		.orderBy('name')
+		.toGlideRecord();
+	
+	gr.query();
+	
+	var u = new UpdateSetExport();
+	var hyperlink;
+	
+	while (gr.next()) {
+		hyperlink = '&lt;a href="export_update_set.do?sysparm_sys_id=';
+		hyperlink += u.exportUpdateSet(gr);
+		hyperlink += '&amp;sysparm_delete_when_done=true&amp;sysparm_ck=';
+		hyperlink += gs.getSessionToken()
+		hyperlink +='" class="zzz_export_zzz" target="_blank"&gt;';
+		hyperlink += gr.name;
+		hyperlink += '&lt;/a&gt;';
+		gs.print(hyperlink);
+	}
+	
+	gs.print(gr.getRowCount());</pre>
+	<p>Move the downloaded files into a folder by themselves to avoid renaming more files than you intend to rename, then open a command prompt or terminal window, navigate to the folder where you moved all the update set files, type "python3" and press enter to open the Python REPL, and paste and execute this script to rename all the Update Sets:</p>
+	<pre style="border: 1px dashed blue; background-color: #eef; padding: 1em; margin: 1em;">import os, re, string
+	import xml.etree.ElementTree as et
+	
+	valid_chars = "-_() %s%s" % (string.ascii_letters, string.digits)
+	
+	for filename in os.listdir():
+		if re.fullmatch(r'sys_remote_update_set_.{32}\.xml', filename) is not None:
+			tree = et.parse(filename)
+			root = tree.getroot()
+			namenode = root.find('./sys_remote_update_set/name')
+			if namenode is not None:
+				name = ''.join(c for c in namenode.text if c in valid_chars)
+				os.rename(filename, name + '.xml')</pre>
+	<p>For safekeeping and easier access, the last step is to drag your folder&nbsp;into&nbsp;Teams under&nbsp;ServiceNow&nbsp;&rsaquo;&nbsp;General &rsaquo; Files.</p>
+	<h3>Back up Scheduled Jobs</h3>
+	<p>Export the entire Scheduled Jobs [sysauto] table as an XML file (since these don't get captured in update sets, we've had issues in the past where we lose a scheduled job through an instance clone). Copy it into the same Teams folder where you copied the Update Sets.</p>
+	<h3>Back up Scoped Applications</h3>
+	<ol>
+	<li>Navigate to System Applications &rsaquo; Studio on the left sidebar</li>
+	<li>On the Select Applications screen, sort the applications by the leftmost Status column in ascending order (it may also make things easier to filter the list with something like &ldquo;x_amr&rdquo; so that only our company apps appear)</li>
+	<li>The&nbsp;applications at the top of the list will all be ones that are linked to source control and have local changes not yet committed to their code repositories (they'll have an icon like this:&nbsp;<img style="width: 14px; vertical-align: middle;" src="/sys_attachment.do?sys_id=01d4d7b01b9ff910c0315467624bcb94" />)
+	<ul>
+	<li>Go through each of these apps and decide whether they need to be committed or not:
+	<ul>
+	<li>If the only change is the application file record, we don't need to worry about committing</li>
+	<li>If the only changes are older than the most recent clone, we don't need to worry about committing (these changes must already exist in production since they came down in the clone)</li>
+	<li>If there are changes other than the app record and newer than the most recent clone, these will be lost unless we commit; you should commit the application with an appropriate message describing the changes (or, if you don't know what the changes are, commit anyway with a generic message like &ldquo;commit before clone&rdquo;)</li>
+	</ul>
+	</li>
+	<li>There is no need to publish a new version of the app; simply committing is good enough to preserve the changes</li>
+	</ul>
+	</li>
+	<li>After you've committed all the apps with uncommitted changes, sort the applications in descending order to find all the applications&nbsp;with&nbsp;changes both locally and in the repository (they'll have an icon like this:&nbsp;<img style="width: 14px; vertical-align: middle;" src="/sys_attachment.do?sys_id=9ca55ff01b9ff910c0315467624bcb04" />)
+	<ul>
+	<li>Go through each of these apps and decide whether they need to be committed or not, using the same criteria as above</li>
+	<li>Since these apps have changes in the repository, there will be an extra step to apply remote changes, being careful to stash then restore the local changes before finally committing them</li>
+	</ul>
+	</li>
+	<li>Lastly, it's very important to make sure there aren't any Academy custom apps that haven't been linked to source control yet (they'll have an icon like this: <img style="width: 14px; vertical-align: middle;" src="/sys_attachment.do?sys_id=4296db741b9ff910c0315467624bcb7b" />); these apps will be completely lost if we don't link them to source control
+	<ul>
+	<li>There are instructions over in&nbsp;<a title="Scoped Application Policy and Procedure" href="/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0021561">Scoped Application Policy and Procedure</a>&nbsp;for linking an application to source control for the first time</li>
+	<li>Note this only matters for custom Academy applications; depending on whether you filtered to &ldquo;x_amr&rdquo; back at the first step, you may also see a lot of non-Academy applications not linked to source control; those can all be ignored</li>
+	</ul>
+	</li>
+	</ol>
+	<h2>Request the clone</h2>
+	<p>To be carried out by the responsible party prior to any instance clone:</p>
+	<ol>
+	<li>Navigate to System Clone &rsaquo; Request Clone on the left sidebar</li>
+	<li>Choose the &ldquo;Academy&rdquo; clone profile</li>
+	<li>Choose the correct target instance</li>
+	<li>Clones are typically carried out using an up to 24-hour-old backup, so you should schedule the clone to occur at least 24 hours after any configuration changes have occurred in production (late in the evening on Saturday is recommended)</li>
+	<li>Make sure to expand the options section and select the following:
+	<ul>
+	<li>Exclude tables specified in Exclusion List: YES</li>
+	<li>Exclude audit and log data: YES</li>
+	<li>Exclude large attachment data: YES</li>
+	<li>Preserve theme: YES</li>
+	<li>Lock settings for this clone request: NO</li>
+	<li>Amount of data copied from large tables: Last 90 days</li>
+	<li>Preserve In Progress Update Sets: Last 90 days</li>
+	<li>Preserve users and related tables: NO</li>
+	<li>Clone frequency: -- None --</li>
+	</ul>
+	</li>
+	<li>Click Save</li>
+	</ol>
+	<h2>Post-clone manual steps (all instances)</h2>
+	<p style="padding: .5em; background: #fcc; border: 1px solid #f66;">Note: If this is a new sub-production instance being cloned from production for the first time, note that all private system properties will be copied from production. This includes integration endpoints and credentials, etc. Double check after the clone that these have been changed to appropriate sub-production settings.</p>
+	<p>To be carried out by responsible party following any instance clone:</p>
+	<ul>
+	<li>Check the MID servers in the target instance to make sure they're up and running properly.
+	<ul>
+	<li>If the source and target instances are on different versions/patches of ServiceNow, sometimes the MID servers will be on the wrong version and need to be upgraded/downgraded/manually restarted.</li>
+	</ul>
+	</li>
+	</ul>
+	<h2>Post-clone automation</h2>
+	<p>Nothing actionable here, but documenting everything here so we have a shared understanding of everything that happens automatically during and after a clone.</p>
+	<h3>Cleanup Scripts</h3>
+	<p>Cleanup scripts run on the target sub-production instance after a clone. Here are our current post-clone cleanup scripts:</p>
+	<ul>
+	<li><strong>Set update sets to ignore</strong> &mdash; sets all Local Update Sets to the Ignore state so as to not severely slow retrieving in higher lanes after the clone.</li>
+	<li><strong>Sub-Prod Admin access</strong> and&nbsp;<strong>Sub-Prod Impersonator access</strong> &mdash; restore admin and impersonator roles to the Sub-Prod Admin and Sub-Prod Impersonator groups (these groups exist in Production but have no roles).</li>
+	<li><strong>Clear records from Task table</strong> &mdash;&nbsp;deletes&nbsp;all Task records (probably a no-op because of the Task table exclude rule created two years later).</li>
+	<li><strong>Set Email Notifications Inactive</strong> &mdash; sets all e-mail notifications inactive to reduce the overwhelm from debug e-mails sent to the dev team from lower lanes.</li>
+	</ul>
+	<h3>Excluded tables</h3>
+	<p>Data in excluded tables will never move from the source production instance into target sub-production instances. Here are our current excluded tables:</p>
+	<ul>
+	<li><strong>LDAP Servers [ldap_server_config]</strong> &mdash; If these are ever misconfigured in sub-production they can cause our credential to get locked out, so we exclude these mainly to prevent them impacting the production system. We clone frequently enough that lower lanes will stay relatively up-to-date, but we can copy new groups and users down from production&nbsp;if we need them immediately for testing, etc.</li>
+	<li><strong>Pricing Exceptions [x_amr_pe_pricing_exception]</strong> and <strong>Approval Steps [x_amr_pe_approval_step]</strong> &mdash; Like the Task exclusion below, this prevents PII from being migrated into lower lanes and reduces the overall time it takes for our clones to run.</li>
+	<li><strong>Scheduled Data Imports [scheduled_import_set]</strong> &mdash; This is related to LDAP Servers above. The only Scheduled Data Imports we have in production are LDAP Scheduled Loads.</li>
+	<li><strong>Task [task]</strong> &mdash; This prevents PII from being migrated into lower lanes and reduces the overall time it takes for our clones to run.</li>
+	</ul>
+	<h3>Data Preservers</h3>
+	<p>Data preservers ensure that data on the target sub-production instance isn't overwritten by data from the source production instance. In addition to the usual out-of-box data preservers, we've added the following custom preservers in our environment:</p>
+	<ul>
+	<li><strong>SAML 2.0 SP Keystore</strong> &mdash; Probably related to Azure SSO?</li>
+	<li><strong>Data Sources</strong> &mdash; Probably related to our older Scheduled Data Imports for Loan data?</li>
+	<li><strong>Private System Properties</strong> &mdash; Preserves system properties with the private checkbox checked. This is to preserve instance-specific settings from getting overwritten with production settings.</li>
+	<li><strong>Next Experience Theme Properties</strong> &mdash; Preserves the separately-colored themes in each of our instances.</li>
+	</ul>
+
+</body>
+</html>

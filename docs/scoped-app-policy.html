@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Scoped Application Policy and Procedure</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		/******* STYLE *******/
+		
+		body {
+			font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+			font-variant-numeric: oldstyle-nums;
+			font-variant-ligatures: common-ligatures;
+			font-kerning: normal;
+			min-height: 100%;
+			-webkit-text-size-adjust: none;
+			margin: 0.5in 0.125in;
+		}
+				
+		p, li {
+			line-height: 1.4em;
+		}
+		
+		/******* LAYOUT *******/
+		
+		@media print, screen and (min-width: 6.25in) {
+			body {
+				width: 6in;
+				margin: 0.5in auto;
+			}
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Scoped Application Policy and Procedure</h1>	
+	<p>Instead of deploying changes to our custom scoped apps using Update Sets, we have adopted the process of using&nbsp;Azure DevOps&nbsp;source control&nbsp;(Git) and publishing/installing/upgrading on our various instances using the ServiceNow Application Repository. This document outlines policies and procedures surrounding the development and deployment of our custom scoped apps.</p>
+	<h2>When to apply this policy</h2>
+	<p>Academy's policy for promoting ServiceNow changes is to&nbsp;use Update Sets only for configuration files in the Global scope. All&nbsp;Academy scopes begin with "x_amr_", and files within these scopes are governed by this policy and procedure document.</p>
+	<h2>Happy path</h2>
+	<p>Beginning development:</p>
+	<ol>
+	<li>Check to make sure the working copy for the scoped application isn&rsquo;t already on a branch. You can see this in Studio at the bottom-right corner. If it says &ldquo;main&rdquo; (*or &ldquo;master&rdquo;), you&rsquo;re good. If it says anything else, you&rsquo;ll need to find out who is working in that branch and coordinate your development efforts so as to not to conflict with each other. <small><em>(It&rsquo;s also possible whatever development was happening in that branch has been abandoned; if you&rsquo;re certain that&rsquo;s the case, follow the instructions for abandoning a branch under &ldquo;contingencies&rdquo; below.)</em></small></li>
+	<li>Determine the name for your new branch. We have adopted the practice of naming our branches for the current sprint plus&nbsp;a letter to distinguish between multiple branches inside a single sprint. So if you&nbsp;are working in the 11th sprint in 2025, your branch name would be &ldquo;2025_s11a&rdquo;. If you needed a second branch for the same application inside the same sprint, you would name it &ldquo;2025_s11b&rdquo;.</li>
+	<li>Create the new branch by clicking <em>Source Control</em> &rsaquo; <em>Create Branch</em> on the Studio menu and following the prompts. The new branch will be created and the working copy will immediately switch to the new branch.</li>
+	</ol>
+	<p>Developing and promoting to UAT:</p>
+	<ol>
+	<li>As you proceed with development, you should commit your work to source control daily, if not more frequently, by clicking <em>Source Control</em> &rsaquo; <em>Commit Changes</em> on the Studio menu and following the prompts.</li>
+	<li>When you&rsquo;re ready to submit your work for&nbsp;testing, publish a new version by clicking <em>File</em> &rsaquo; <em>Publish</em> on the Studio menu and following the prompts.&nbsp;If the&nbsp;latest version of the app is 1.3.7, the version number of the&nbsp;first version you publish in the new branch should be 1.4.0, and any subsequent versions from the same branch should increment the patch version number (the third number), i.e. 1.4.1, 1.4.2, etc.&nbsp;<small><em>(The reason we always go at least a minor version above is to reserve space in the numbering for hotfixes of old versions to be published while new versions are in various stages of development and testing; for more on this, see the instructions for hotfixes under &ldquo;contingencies&rdquo; below.)</em></small></li>
+	<li>Install or upgrade to the new version in&nbsp;UAT by navigating to <em>System Applications</em> &rsaquo; <em>My Company Applications</em> on the left sidebar, searching for the app, choosing the correct version number, and clicking <em>Install</em> or <em>Update</em>.</li>
+	<li>If re-work is required for any reason, repeat steps 1&ndash;3 as necessary.</li>
+	</ol>
+	<p>Deploying to Production:</p>
+	<ol>
+	<li>Install or upgrade&nbsp;a CAB-approved&nbsp;version in Production by navigating to <em>System Applications</em> &rsaquo; <em>My Company Applications</em> on the left sidebar, searching for the app, choosing the correct version number, and clicking <em>Install</em> or <em>Update</em>.</li>
+	<li>Use&nbsp;Azure DevOps&nbsp;to merge your development branch into the main (*or master) branch:
+	<ol style="list-style-type: lower-alpha;">
+	<li>Log into&nbsp;Azure DevOps&nbsp;here:&nbsp;<a href="https://dev.azure.com/academycorp/ServiceNow">https://dev.azure.com/academycorp/ServiceNow</a></li>
+	<li>Navigate to <em>Repos</em> on the left sidebar.</li>
+	<li>Choose the correct repository in the breadcrumb navigation across the top.</li>
+	<li>Click <em>Branches</em> on the left sidebar. (You may also need to click the <em>All</em>&nbsp;tab to find your branch.)</li>
+	<li>Click the ellipsis button (&ldquo;...&rdquo;) to the right of your branch and select&nbsp;<em>New&nbsp;pull request</em>&nbsp;from the menu.</li>
+	<li>Click <em>Create</em> to save the pull request record.</li>
+	<li>Click <em>Complete</em>, then click <em>Complete Merge</em>.&nbsp;<small><em>(On this step there's on outside chance you&rsquo;ll encounter a merge conflict; if you do, check the instructions for resolving merge commits under &ldquo;contingencies&rdquo; below.)</em></small></li>
+	</ol>
+	</li>
+	<li>Back in ServiceNow, switch the working copy back to the main (*or master) branch by clicking <em>Source Control</em> &rsaquo; <em>Switch Branch</em> on the Studio menu and following the prompts.</li>
+	</ol>
+	<h2>Contingencies</h2>
+	<p>If you just created a scoped app, or, for whatever reason, there isn&rsquo;t yet a source control repository for an application you've been tasked with some development work on, go ahead and create a new repository and configure the application to use it:</p>
+	<ol>
+	<li>Log into&nbsp;Azure DevOps&nbsp;here:&nbsp;<a href="https://dev.azure.com/academycorp/ServiceNow">https://dev.azure.com/academycorp/ServiceNow</a></li>
+	<li>Navigate to <em>Repos</em> on the left sidebar</li>
+	<li>Click on the current repository in the breadcrumb navigation across the top, then click&nbsp;<em>New repository</em> at the bottom of the dropdown menu</li>
+	<li>Fill in the following:
+	<ul>
+	<li>Repository type: Git</li>
+	<li>Repository name: e.g. &ldquo;servicenow-myawesomeapplication&rdquo; (this should&nbsp;be all lowercase&nbsp;and hyphenated, safe&nbsp;for use in a URI)</li>
+	<li>Uncheck&nbsp;<em>Add a README</em></li>
+	<li>Leave <em>Add a&nbsp;.gitignore</em> set to &ldquo;None&rdquo;</li>
+	<li>Click <em>Create</em></li>
+	</ul>
+	</li>
+	<li>Configure the application to use the new repository
+	<ol>
+	<li>In Studio, click <em>Source Control</em> &rsaquo; <em>Link to Source Control</em></li>
+	<li>Copy the repo URL from Azure DevOps into the <em>URL</em> field</li>
+	<li>Choose &ldquo;Azure DevOps Service Account&rdquo; in the <em>Credential</em> field</li>
+	<li>Type&nbsp;&ldquo;main&rdquo; in the <em>Branch</em> field</li>
+	<li>Leave everything else set to defaults</li>
+	<li>Click <em>Link to Source Control</em></li>
+	</ol>
+	</li>
+	<li>Set the &ldquo;main&rdquo; branch as default branch in the new repository
+	<ol>
+	<li>Back in Azure DevOps,&nbsp;with your new repository still selected&nbsp;at the top,&nbsp;click <em>Branches</em> on the left sidebar</li>
+	<li>You may need to click the <em>All</em> tab to see the &ldquo;main&rdquo; branch that should've been created with your initial commit</li>
+	<li>Click the ellipsis button (&ldquo;...&rdquo;) to the right of the &ldquo;main&rdquo; branch and choose <em>Set as default branch</em></li>
+	<li>Click the&nbsp;ellipsis button (&ldquo;...&rdquo;)&nbsp;to the right of the &ldquo;master&rdquo; branch and choose <em>Delete branch</em></li>
+	<li>Click <em>Delete</em> on the confirmation dialog</li>
+	</ol>
+	</li>
+	</ol>
+	<p>What if the application already exists in a source control repository, but isn't currently present / developable in the development environment?</p>
+	<ol>
+	<li>Check to make sure a Repository Configuration [sys_repo_config] record doesn't already exist for the app. If it does, delete it.</li>
+	<li>Open the Studio and on the Application Selection window click the <em>Import From Source Control</em> button.</li>
+	<li>Copy the repo URL from Azure DevOps into the <em>URL</em> field.</li>
+	<li>Choose &ldquo;Azure DevOps Service Account&rdquo; in the <em>Credential</em> field.</li>
+	<li>Type the correct branch name in the <em>Branch</em> field.</li>
+	<li>Leave everything else set to defaults.</li>
+	<li>Click <em>Import</em>.</li>
+	</ol>
+	<p>What to do if you decide to abandon your work?</p>
+	<ol>
+	<li>Switch the working copy back to the main (*or master) branch by clicking <em>Source Control</em> &rsaquo; <em>Switch Branch</em> on the Studio menu and following the prompts.</li>
+	<li>Log into&nbsp;Azure DevOps&nbsp;here:&nbsp;<a href="https://dev.azure.com/academycorp/ServiceNow">https://dev.azure.com/academycorp/ServiceNow</a></li>
+	<li>Navigate to <em>Repos</em> on the left sidebar.</li>
+	<li>Choose the correct repository in the breadcrumb navigation across the top.</li>
+	<li>Click <em>Branches</em> on the left sidebar. (You may also need to click the <em>All</em> tab to find your branch.)</li>
+	<li>Click the ellipsis button (&ldquo;...&rdquo;) to the right of your branch and select&nbsp;<em>Delete branch</em>&nbsp;from the menu.</li>
+	<li>Double-check you are deleting the correct branch, and, if so, click <em>Delete</em> again.</li>
+	</ol>
+	<p>What to do if the stakeholder asks for a hotfix while you are in the middle of development on a new feature?</p>
+	<ol>
+	<li>Switch back to main (*or master) branch in Studio</li>
+	<li>Create new hotfix branch &lt;what to name it?&gt;</li>
+	<li>Do development; commit to source control daily if not more frequently as work progresses</li>
+	<li>Publish any new versions with in-between version numbers &lt;explain this better?&gt;</li>
+	<li>As per the happy path instructions above, after deployment to Production, log into Azure DevOps&nbsp;to merge your hotfix branch back into main (*or master)</li>
+	<li>Optionally (recommended), merge main into your other development branch so you have the latest changes</li>
+	<li>Switch back to your development branch</li>
+	</ol>
+	<h2>Help with merges</h2>
+	<p>The most complicated part is any steps above that call for merging one branch into another</p>
+	<ol>
+	<li>Resolve the merge conflict. &lt;How?&gt;</li>
+	</ol>
+
+</body>
+</html>
