@@ -14,12 +14,14 @@
 		}
 		
 		body {
+			color: #1e1c1c;
 			font-family: ff-tisa-web-pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
 			font-variant-numeric: oldstyle-nums;
 			font-variant-ligatures: common-ligatures;
 			font-kerning: normal;
 			font-size: 11pt;
 			min-height: 100%;
+			background-color: #fff;
 			display: grid;
 			grid-template-rows: auto 1fr auto;
 			grid-template-columns: 100%;
@@ -199,6 +201,18 @@
 				break-before: avoid-page;
 			}
 		}
+		
+		@media (prefers-color-scheme: dark) {
+			body {
+				color: #eee;
+				background-color: #1e1c1c;
+			}
+			
+			h2 {
+				border-bottom: 0.5pt solid #eee;
+			}
+		}
+
 	</style>
 </head>
 <body>
