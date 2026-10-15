@@ -16,11 +16,19 @@
   .num { margin:0 0 6px; font-size:13px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }
   .blurb { margin:0 0 14px; }
   video { display:block; width:100%; aspect-ratio:16/9; background:#000; border-radius:10px; }
+  .speed { position:sticky; top:0; z-index:10; display:flex; gap:6px; align-items:center; flex-wrap:wrap; padding:10px 16px; background:var(--bg); border-bottom:1px solid var(--line); font-size:14px; }
+  .speed span { color:var(--muted); margin-right:4px; }
+  .speed button { font:inherit; padding:4px 10px; border:1px solid var(--line); border-radius:999px; background:transparent; color:var(--fg); cursor:pointer; }
+  .speed button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--bg); }
+  details { margin-top:10px; }
+  summary { cursor:pointer; font-size:14px; color:var(--accent); }
+  .tx { margin-top:8px; padding:4px 16px; border-left:3px solid var(--line); font-size:15px; }
   .src { margin:10px 0 0; font-size:14px; color:var(--muted); }
   a { color:var(--accent); }
 </style>
 </head>
 <body>
+<div class="speed" role="group" aria-label="Playback speed"><span>Speed for all clips</span></div>
 <main>
   <h1>Trinity Supercut</h1>
   <p class="lede">13 clips from 10 videos, in the order they were published.</p>
@@ -29,80 +37,121 @@
     <p class="num">Clip 1 of 13</p>
     <p class="blurb">This is a Thoughtful Faith conversation between Protestant pastor Jeff McCullough and Latter-day Saint Jacob Hansen about the nature of God. They&#x27;ve been working through how the oneness of God squares with Father, Son and Spirit, and a diagram of the Trinity is on the table. Hansen is about to say where the two views sound the same and where they split.</p>
     <video controls preload="metadata" src="clips/Iorbl-v0a14_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>We have three persons in one godhead. That&#x27;s the way that we would... So when a lot of this, honestly, it sounds the same, doesn&#x27;t it? Yes. And the thing is, is that there are ways in which we are definitely different about it. We do reject the three persons, one being. But what we do is we say, we say three beings with one nature, one purpose, and that are part of one God head. If you were to take this very diagram and put in it, instead of God, that said Godhead, that would be pretty much what we believe.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=Iorbl-v0a14&t=2295s" target="_blank" rel="noopener">Protestant Pastor and Latter-day Saint Discuss God (Full Episode)</a> · Thoughtful Faith · Feb 2023 · 40s clip</p>
   </article>
   <article id="clip-2">
     <p class="num">Clip 2 of 13</p>
     <p class="blurb">This is a debate on the Trinity between Hansen and Andrew Harrison, an Orthodox Christian, hosted by Marlon Wilson of The Gospel Truth channel. Hansen has just finished arguing that God&#x27;s oneness can be a shared nature between distinct beings, and he&#x27;s handed the floor back. Now come the pointed questions: is Jesus a God, is the Father a God, and in what sense are they one?</p>
     <video controls preload="metadata" src="clips/ohprxXvUSK0_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>Okay, so is Jesus a God?</p><p>Yes. Is the Father a God? Yes.</p><p>So in what sense can the Father and Son be one God?</p><p>it depends on what you mean by God. I use God as a title and or nature that is being described that a being has obtained. So I, for instance, I am a human and my father are human. We are humans, and we share that nature, that human nature, and so we are both, but we both are our own individual persons.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=ohprxXvUSK0&t=2159s" target="_blank" rel="noopener">Trinity Debate: Andrew Harrison vs Jacob Hansen</a> · Thoughtful Faith · Jul 2023 · 46s clip</p>
   </article>
   <article id="clip-3">
     <p class="num">Clip 3 of 13</p>
     <p class="blurb">Same Hansen versus Andrew Harrison Trinity debate, hosted by Marlon Wilson. We&#x27;re in the closing stretch. Hansen has just read a fiery passage against a God &quot;without body, parts, or passions&quot; and said he doesn&#x27;t need to pinpoint exactly when the church went astray. Next he turns back to John 17 and says he can actually agree with his opponent&#x27;s diagram.</p>
     <video controls preload="metadata" src="clips/ohprxXvUSK0_2.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>What makes sense is John 17, where Jesus Christ invites all of us into the oneness of God that he and the Father share, a oneness in relationship and in changing our nature to their divine nature. What my opponent has shown tonight in this diagram is that there is something that connects us. I actually can agree with this diagram. What&#x27;s in the middle is the nature of God. That is what connects the Father, the Son, and the Holy Spirit. And that nature is what we are called to be part of.</p><p>It all makes sense. There&#x27;s no need for all of this Greek philosophy and things that they added on to try and deal with these problems. Christ taught us the nature of the oneness that he and the Father shares. And he invites all of us to share in that oneness.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=ohprxXvUSK0&t=5192s" target="_blank" rel="noopener">Trinity Debate: Andrew Harrison vs Jacob Hansen</a> · Thoughtful Faith · Jul 2023 · 47s clip</p>
   </article>
   <article id="clip-4">
     <p class="num">Clip 4 of 13</p>
     <p class="blurb">This is a Thoughtful Faith episode, &quot;I Tried to Understand the Trinity,&quot; where Hansen sits down with the host of God Logic Apologetics. They&#x27;ve been swapping stories about Hansen&#x27;s turn on Jubilee, where he was the lone Latter-day Saint among a room of Christians. Now Hansen sets out to steel-man the Trinity so he&#x27;s engaging the best version of it.</p>
     <video controls preload="metadata" src="clips/Vk3J_d4D_GM_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>So obviously the Trinity, you know, one being, you know, consisting of three distinct persons, Father, Son, Holy Spirit, co-equal, co-eternal in their essence. I want to talk biblically about that, if that&#x27;s laid out biblically or not. And so when you have Jesus claiming to be God, how do you you know view that with the idea of monotheism so and and I think I let me see it just to make sure because I want to make sure that my understanding of the Trinity is accurate I want to kind of try and steel man it because I don&#x27;t want to I don&#x27;t want to engage with a version of the Trinity that isn&#x27;t kind of the best version okay and so the way I look at it as the essence of the Trinity is it&#x27;s three persons that share one substance, essence, or nature, right?</p><p>And so I, and from a Latter-day Saint perspective, we would view it like we agree that Jesus is a fully divine being, right? I would use this, this is sort of the analogy that I would use, and maybe to clarify sort of the distinction. with my father we both share the same nature in that we are both human men yeah right we&#x27;re both men yeah and so my father and i we are both men but we are two separate persons so we share the same nature as men but we are separate persons yeah and if that was all that the trinity was i&#x27;d be like makes total sense totally get rock with that it&#x27;s when the question then goes to okay, but then if someone ever said, well, me and my father share the same substance, then I&#x27;m going, and my genuine question, and I&#x27;m really here just so everyone knows, like I&#x27;m not here so much to debate, this is to try and understand it.</p><p>And that&#x27;s where I kind of am like, well, what is that, what is meant by that idea of the father and the son sharing the same substance?</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=Vk3J_d4D_GM&t=340s" target="_blank" rel="noopener">I Tried to Understand the Trinity… Here’s What Happened</a> · Thoughtful Faith · Apr 2025 · 115s clip</p>
   </article>
   <article id="clip-5">
     <p class="num">Clip 5 of 13</p>
     <p class="blurb">This is a conversation between Protestant theologian Gavin Ortlund and Hansen comparing Protestant and Mormon views of the Trinity. The topic is whether the Trinity is a &quot;theology test.&quot; Ortlund has just said it&#x27;s less a quiz than knowing who you&#x27;re actually dating, and Hansen replies by asking how many Christians can really explain the doctrine.</p>
     <video controls preload="metadata" src="clips/7Y9_unCe__M_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>And to me, it&#x27;s sort of like, I don&#x27;t even, I mean, how many people do you know that even like that are Christians who really deeply understand the doctrine of the Trinity and can explain it? I think they can. I think the basics, you know, three persons, one being, you&#x27;re right that there&#x27;s sometimes misunderstandings. Well, and I would say that I do believe in three persons who share one nature, the divine nature. But there&#x27;s a difference between saying that I believe that the Father, Son, and Holy Spirit are all divine and share in the one divine nature versus saying that they are all homoousius and Jesus exists within a hypostatic union.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=7Y9_unCe__M&t=1605s" target="_blank" rel="noopener">Protestant and Mormon Discuss the Trinity (Jacob Hansen and Gavin Ortlund)</a> · Gavin Ortlund · May 2025 · 41s clip</p>
   </article>
   <article id="clip-6">
     <p class="num">Clip 6 of 13</p>
     <p class="blurb">This is a Thoughtful Faith episode in which Hansen and a Muslim guest compare what monotheism means for Muslims, Latter-day Saints and creedal Christians. The guest has just laid out his case that pure logic leads step by step to one God. Hansen answers that the word &quot;God&quot; is slippery, since he uses it in at least three different ways.</p>
     <video controls preload="metadata" src="clips/CPKh1vmXl4Y_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>Okay. I personally, as a Latter-day Saint, when I use the word God, I could be referring to eternal law. I could be meaning the ultimate sort of nature of reality. The thing that is like the uncaused sort of oneness, maybe that you might be after. I then also believe that there is, I can use the word God to talk about the father, right? I can use it to talk about the Godhead or the, the three beings, the different persons, um, who share in this perfect nature. And then I can also use God to refer to divine beings, kind of like Elohim is used.</p><p>So the word is very, very tricky, and I think when you start, like you&#x27;re saying, when you&#x27;re starting with reason, the very first thing you have to do is define, well, what do you mean by the term God?</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=CPKh1vmXl4Y&t=2165s" target="_blank" rel="noopener">A Muslim, a Mormon, and ONE God</a> · Thoughtful Faith · Jul 2025 · 42s clip</p>
   </article>
   <article id="clip-7">
     <p class="num">Clip 7 of 13</p>
     <p class="blurb">This is Ruslan KD, a Protestant evangelical, pressing a Latter-day Saint apologist on whether Latter-day Saints are Christians. They&#x27;ve just agreed that attacks on people over their faith, like the recent one on an LDS church, are wrong. Then Ruslan turns to the creeds, and the Trinity is up next.</p>
     <video controls preload="metadata" src="clips/VcdzUy4MfFY_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>I&#x27;m talking about the creed, Nicaea, Constantinople I, the Athanasian Creed, and the creeds that kind of formulate and crystallize a particular interpretation of what it means for God to be one, right? And so that is where we get essentially the doctrine of the Trinity. Three persons, one being, one essence. Yes. God. Yes. And you guys reject the Trinity. Yes. So our view is that, to put it simply, is that we do believe that God shares the same essence, the Father and the Son, but we say that that&#x27;s more like they share the same nature.</p><p>They share the same divinity. Both are fully divine beings, but we believe that they are separate beings with their own minds, their own wills, and that they&#x27;re not the same being. So that&#x27;s kind of the distinction that gets made there.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=VcdzUy4MfFY&t=412s" target="_blank" rel="noopener">Pressing A Mormon Apologist on if LDS are Christians…</a> · Ruslan KD · Dec 2025 · 52s clip</p>
   </article>
   <article id="clip-8">
     <p class="num">Clip 8 of 13</p>
     <p class="blurb">This is a Maybe God Podcast episode where Hansen is questioned by Protestants, including Aaron Shaff, a vocal critic of the LDS Church. A Protestant guest has just finished explaining the Trinity as one being in three persons, ending with the sun analogy and the idea that God is beyond full comprehension. Now the host asks Hansen to say how his view differs.</p>
     <video controls preload="metadata" src="clips/uB94SNnwMnU_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>Now, Jacob, what would you say to that? And let&#x27;s strike some distinctions here between the view of God you just heard and your view of God as an LDS. So it&#x27;s – we believe that God is one – the Father, Son, and Holy Spirit have one nature. They share the same nature, but they are individual persons and individual beings because – and again, I&#x27;ll just put on my – take off my LDS hat and just say, okay, I&#x27;m trying to figure out the different models here. You know, how can a person, how can two people be the same being?</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=uB94SNnwMnU&t=4003s" target="_blank" rel="noopener">Protestants Grill A Latter-day Saint “Mormon” With Hard Questions</a> · Thoughtful Faith · Feb 2026 · 35s clip</p>
   </article>
   <article id="clip-9">
     <p class="num">Clip 9 of 13</p>
     <p class="blurb">Same Maybe God Podcast episode, with Hansen answering the host&#x27;s request to set his view against the Trinity. Hansen has said the Father, Son and Spirit share one nature but are separate beings, and he&#x27;s been pressing his objections: Jesus calls the Father the one true God, and Jesus doesn&#x27;t know everything the Father knows. He&#x27;s now about to sum up where all that leaves him.</p>
     <video controls preload="metadata" src="clips/uB94SNnwMnU_2.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>So in the end, my issue with the Trinitarian doctrines is that you can&#x27;t make sense of God being three persons that are all the same being and then reconcile that with scripture. Cause it&#x27;s very clear that Jesus has his own will, has his own mind that&#x27;s separate from that of the father. And so if you want to say they all share the same nature, that&#x27;s fine.</p><p>Because like my father is a man and I am a man. We both share the male nature. You can have multiple persons who share one nature, but to say that they are the same being to me is totally incomprehensible. And so I have a very hard time with any of the creedal formulations of God or any of the traditions that emerge from it, because I just think they have a conception of God that&#x27;s incoherent.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=uB94SNnwMnU&t=4135s" target="_blank" rel="noopener">Protestants Grill A Latter-day Saint “Mormon” With Hard Questions</a> · Thoughtful Faith · Feb 2026 · 57s clip</p>
   </article>
   <article id="clip-10">
     <p class="num">Clip 10 of 13</p>
     <p class="blurb">This is Hansen&#x27;s debate on the Trinity with the host of God Logic Apologetics, held at Ruslan KD&#x27;s Bless God Summit. In his opening, Hansen has just walked through the logic of identity versus predication: the difference between &quot;Jesus is God&quot; as being the same being, and as being fully divine. Now he introduces the two models the debate will compare.</p>
     <video controls preload="metadata" src="clips/sae5x_nRA-8_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>So, it is perfectly logical to say that the Father is God, He&#x27;s fully divine, the Son is fully divine, and the Spirit is fully divine. You can say that they are God in that sense. Okay? Totally perfectly fine. So, tonight, we&#x27;re going to actually compare two different models. Okay? One of those models is going to use the New Testament term, the Godhead. Okay? That is a term used throughout the New Testament. And in this model, you have three persons who share a single divine nature, and that nature brings them into perfect loving harmony as a single, perfectly united divine council that rules in unity over all things.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=sae5x_nRA-8&t=1437s" target="_blank" rel="noopener">I Went To A Major Protestant Conference And Debated The Trinity.</a> · Thoughtful Faith · Mar 2026 · 38s clip</p>
   </article>
   <article id="clip-11">
     <p class="num">Clip 11 of 13</p>
     <p class="blurb">This is Allie Beth Stuckey&#x27;s debate with Hansen on whether Mormons are Christians. They&#x27;ve just compared the LDS Church to Catholic claims of authority, and Allie has asked for the origin story of Jesus. Here Hansen answers on the eternal relationship of Father, Son and Spirit.</p>
     <video controls preload="metadata" src="clips/71bW-nM9DEE_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>My personal take on it is that the Father, Son, and the Holy Spirit have always dwelt into eternity past in a fullness of loving relationship with one another. But not as one. So not a trinity. Well, not as one in the sense that they are the same person or being. Yeah. Well, we believe in three persons, one being, you know, the eternal Godhead. But you do believe in three separate beings who are simply in communion with one another. Correct. But I would put it more that we believe that there are three persons who share one nature, right?</p><p>That they all share the fullness of the divine nature. Just like we&#x27;re two people, but we both share the fullness of human nature, like we are both fully human beings. And so it doesn&#x27;t make—I don&#x27;t have any issue with the idea of two persons that share the same nature. But when people begin to say that you have two persons, me and you, but we share the same being, I have a hard time with that because it seems to me that what makes you your own person is to have your own being. So I, and I mean this, I&#x27;m very open to being convinced of the Trinitarian formulation of God.</p><p>I genuinely don&#x27;t know what people even mean when they say that you have two persons that share the same being. I always thought that having your own being is what made you your own person.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=71bW-nM9DEE&t=1873s" target="_blank" rel="noopener">Debate: Are Mormons Christians? LDS Apologist vs. Evangelical Christian</a> · Allie Beth Stuckey · Apr 2026 · 76s clip</p>
   </article>
   <article id="clip-12">
     <p class="num">Clip 12 of 13</p>
     <p class="blurb">This is &quot;1 Mormon vs 10 Creedal Christians,&quot; a live &quot;Outnumbered&quot; debate on the Digital Social Hour Podcast, with Hansen facing ten Christians at once. They&#x27;re deep in the Trinity and Christ&#x27;s two natures. Hansen has just called their answers &quot;assertions, not explanations&quot; and compared it to a square circle. Now he reaches for a scripture where someone sees the Son of Man standing at the right hand of God.</p>
     <video controls preload="metadata" src="clips/O2Nlzfa9W70_1.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>Look, he said, I see heaven open and the son of man who&#x27;s that that&#x27;s jesus right on the right hand of another entity that he calls god who apparently has a right hand because how would he know what side he was standing on if he didn&#x27;t like he&#x27;s describing a spatial relationship between two beings that&#x27;s what the text says where does it say two beings the son of man is standing on the right hand of god are we dealing with one thing or two things?</p><p>Two persons. Okay. So now explain to me how two persons are the same being. And that&#x27;s a meaningful statement. Because there&#x27;s only one divine nature. You and I are two separate persons who share one nature. We both have human nature. Yeah, but we&#x27;re two humans. We have the same type of nature. Jesus and the Father are not just simply the same type of nature. They are the same nature, homoousios. Yeah, you and I are the same, the same with the exact same nature, but we are two instantiations of human nature.</p><p>But we would be homoousios though. We are two of the same type of thing. Jesus and the father are the same God. Where does it say that in the Bible? Well, the Bible says that there&#x27;s only one God.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=O2Nlzfa9W70&t=4242s" target="_blank" rel="noopener">1 Mormon vs 10 Creedal Christians</a> · Digital Social Hour Podcast · Sep 2026 · 73s clip</p>
   </article>
   <article id="clip-13">
     <p class="num">Clip 13 of 13</p>
     <p class="blurb">Same &quot;1 Mormon vs 10 Creedal Christians&quot; debate, now at the closing statements. The Christian side&#x27;s closing has just turned to Mormon history, with Adam-God, priesthood restrictions and plural marriage, and the claim that false teaching means apostasy. Hansen takes his turn to close and says the Trinity side has mixed up its terms.</p>
     <video controls preload="metadata" src="clips/O2Nlzfa9W70_2.mp4"></video>
+    <details><summary>Transcript</summary><div class="tx"><p>The original teachings can entirely be reconciled. You can have one God with three persons. That&#x27;s not a problem because they can form an entity that can be referred to as God. We call it the Godhead, right? And you can say, let&#x27;s say, I&#x27;ll use this example, three pens, I have three pens here. But guess what? If you&#x27;ve seen one pen, you&#x27;ve seen the others.</p><p>These three pens share the same nature or essence, but I still have three pens. The word God can refer to the essence, to divinity, to something that all three shared. That&#x27;s totally fine. But the reality is that they are the same. I have three, but they are still the same pen. Okay? That is perfectly coherent. That is not the Trinity, by the way. That is the Godhead model that is taught by the Church of Jesus Christ of Latter-day Saints.</p><p>And it happens to comport exactly with the biblical text without any of the mental gymnastics.</p></div></details>
     <p class="src"><a href="https://www.youtube.com/watch?v=O2Nlzfa9W70&t=4474s" target="_blank" rel="noopener">1 Mormon vs 10 Creedal Christians</a> · Digital Social Hour Podcast · Sep 2026 · 62s clip</p>
   </article>
 </main>
+<script>
+(function () {
+  var RATES = [0.75, 1, 1.25, 1.5, 1.75, 2];
+  var KEY = "supercut-rate", rate = 1;
+  try { rate = parseFloat(localStorage.getItem(KEY)) || 1; } catch (e) {}
+  var videos = Array.prototype.slice.call(document.querySelectorAll("video"));
+  var bar = document.querySelector(".speed"), buttons = [];
+  function paint() { buttons.forEach(function (b) { b.setAttribute("aria-pressed", String(parseFloat(b.dataset.rate) === rate)); }); }
+  function apply(r) {
+    rate = r;
+    videos.forEach(function (v) { if (v.playbackRate !== r) v.playbackRate = r; });
+    try { localStorage.setItem(KEY, String(r)); } catch (e) {}
+    paint();
+  }
+  RATES.forEach(function (r) {
+    var b = document.createElement("button");
+    b.type = "button"; b.dataset.rate = r; b.textContent = r + "×";
+    b.onclick = function () { apply(r); };
+    bar.appendChild(b); buttons.push(b);
+  });
+  videos.forEach(function (v) {
+    v.addEventListener("ratechange", function () { if (v.playbackRate !== rate) apply(v.playbackRate); });
+    v.addEventListener("loadedmetadata", function () { v.playbackRate = rate; });
+    v.addEventListener("play", function () { if (v.playbackRate !== rate) v.playbackRate = rate; });
+  });
+  apply(rate);
+})();
+</script>
 </body>
 </html>
