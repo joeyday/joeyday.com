@@ -16,19 +16,19 @@ I’ve almost matched my former [Movable Type](http://www.movabletype.org) blog 
 
 Here’s a list of things that still need to be done (I’ll cross them off as I go, and may add more as they come up):
 
-1. <del>Validate XHTML 1.0 Strict.</del>
-1. <del>Fix front page (3 entries with excerpts, 5 with titles only).</del>
-1. <del>Enable unique page titles (currently all pages say “Home”).</del>
-1. <del>Fix imported entries:</del>
-   - <del>Add newlines before and after “more” links.</del>
-   - <del>Set all to “Allow Pings.”</del>
-1. <del>[Figure out middot before “Comments” link](http://wordpress.org/support/3/13941) (shows up by itself on individual entry pages).</del>
-1. <del>Fix “Information” page (create two separate headstart.inc files, or fork it using a variable?).</del>
-1. <del>Bring back familiar emoticons.</del>
-1. <del>Interblog menu.</del>
-1. <del>“Commentation” sidebar — recent comments (do I really want to keep this?).</del>
-1. <del>Numbered comments.</del>
-1. <del>Comment preview.</del>
+1. ~~Validate XHTML 1.0 Strict.~~
+1. ~~Fix front page (3 entries with excerpts, 5 with titles only).~~
+1. ~~Enable unique page titles (currently all pages say “Home”).~~
+1. ~~Fix imported entries:~~
+   - ~~Add newlines before and after “more” links.~~
+   - ~~Set all to “Allow Pings.”~~
+1. ~~[Figure out middot before “Comments” link](http://wordpress.org/support/3/13941) (shows up by itself on individual entry pages).~~
+1. ~~Fix “Information” page (create two separate headstart.inc files, or fork it using a variable?).~~
+1. ~~Bring back familiar emoticons.~~
+1. ~~Interblog menu.~~
+1. ~~“Commentation” sidebar — recent comments (do I really want to keep this?).~~
+1. ~~Numbered comments.~~
+1. ~~Comment preview.~~
 
 For my [Foundation](http://www.joeyday.org) blog, the following things will need to be figured out before a switch is possible:
 
@@ -37,7 +37,7 @@ For my [Foundation](http://www.joeyday.org) blog, the following things will need
 
 Here are a few other things I’d like to add when I find the time:
 
-1. <del>Figure out WordPress links manager — add “Interpolation” and “Correlation” sidebars.</del> (done with [del.icio.us](http://www.delicious.com).)
+1. ~~Figure out WordPress links manager — add “Interpolation” and “Correlation” sidebars.~~ (done with [del.icio.us](http://www.delicious.com).)
 1. Figure out how to display a closing quotation mark in blockquotes. Use :first-child pseudo-class?
 1. Figure out Next and Previous links on archive pages.
 

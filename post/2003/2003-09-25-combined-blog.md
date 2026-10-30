@@ -12,7 +12,7 @@ dsq_thread_id:
   - "1744275092"
 ---
 
-It’s official. The blog formerly known as <q>The Forum</q> has been combined with the journal formerly known as <q>JoeyDay.com</q>. What this means is that anyone who previously had power to post on The Forum can now post on my main blog (whatever I decide to call it).
+It’s official. The blog formerly known as “The Forum” has been combined with the journal formerly known as “JoeyDay.com”. What this means is that anyone who previously had power to post on The Forum can now post on my main blog (whatever I decide to call it).
 
 I will probably continue posting journal type stuff here, but not as often, as I’ll probably concentrate more on news/blog type stuff. I will refer to this as a blog from now on, even though it will contain some journal content. I don’t anticipate that anyone will have problems with that.
 

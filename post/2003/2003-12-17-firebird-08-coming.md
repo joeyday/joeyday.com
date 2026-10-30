@@ -14,7 +14,7 @@ dsq_thread_id:
 
 [MozillaZine](http://www.mozillazine.org) announced today that a [branch has been cut for version 0.8 of Mozilla Firebird](http://www.mozillazine.org/talkback.html?article=4104). They use a lot of tree terminology to describe the source code for Mozilla, so let me break it down as best I understand it.
 
-They call the main pile of source code the <q>trunk</q>, but it is rarely stable as is. You can download nightly builds of the trunk, but don’t expect them to work very well. Whenever they want to release a stable version, they take a snapshot of all of the most recent trunk files and create a new <q>branch</q>. The trunk continues to grow, but the newest files are not added to the branch unless they are deemed critical. That way, the branch can be stabilized and made available for use.
+They call the main pile of source code the “trunk”, but it is rarely stable as is. You can download nightly builds of the trunk, but don’t expect them to work very well. Whenever they want to release a stable version, they take a snapshot of all of the most recent trunk files and create a new “branch”. The trunk continues to grow, but the newest files are not added to the branch unless they are deemed critical. That way, the branch can be stabilized and made available for use.
 
 Basically, what this boils down to is that we can expect the release of 0.8 in a couple of weeks — maybe even before Christmas. 😀
 

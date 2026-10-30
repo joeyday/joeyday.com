@@ -23,4 +23,4 @@ dsq_thread_id:
 
 <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/JUdWApwbudQ&rel=0"></param><param name="wmode" value="transparent"></param><embed height="344" src="http://www.youtube.com/v/JUdWApwbudQ&rel=0" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
 
-<span class="hattip">(Hat tip: [Challies.com](http://www.challies.com/sideblog/archives/2007/05/a_la_carte_518.php))</span>
+[(Hat tip: [Challies.com](http://www.challies.com/sideblog/archives/2007/05/a_la_carte_518.php))]{.hattip}

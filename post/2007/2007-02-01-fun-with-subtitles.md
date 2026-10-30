@@ -21,4 +21,4 @@ This seems really serious at first, but wait for it—it’s hilarious.
 
 <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/f3ZDAJ-BAus&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="http://www.youtube.com/v/f3ZDAJ-BAus&hl=en&fs=1&" type="application/x-shockwave-flash" width="425"></embed></object>
 
-<span class="hattip">(Hat tip: [See Life Differently](http://seelifedifferently.blogspot.com/2007/01/news-from-iraq-w-subtitles.html))</span>
+[(Hat tip: [See Life Differently](http://seelifedifferently.blogspot.com/2007/01/news-from-iraq-w-subtitles.html))]{.hattip}

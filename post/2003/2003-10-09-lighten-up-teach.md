@@ -20,6 +20,6 @@ He then announced that since the class time goes until 3:20pm, we were all oblig
 
 We used scantrons, and he repeated no less than ten times that he didn’t want people asking him if the machine would be able to read a bubble that had been erased (as if we haven’t used scantrons since elementary school). No one was asking him that, so I have no idea why he had to make such a big deal out of it. As he was handing out the exams and the scantrons, he wouldn’t give any of us a scantron until we had written our name, section, and the date on the exam itself.
 
-After the first listening portion of the test he announced that the second listening portion would start at 5 minutes to the hour. He then said, <q>I realize a lot of you use digital clocks, so I should point out that on this analog clock [pointing to a clock on the wall] when the big hand gets to the 11 that’s five minutes to the hour.</q>
+After the first listening portion of the test he announced that the second listening portion would start at 5 minutes to the hour. He then said, “I realize a lot of you use digital clocks, so I should point out that on this analog clock [pointing to a clock on the wall] when the big hand gets to the 11 that’s five minutes to the hour.”
 
 When the class time was over he dismissed us row by row and made us walk to the front single-file to turn in our exams. :eek

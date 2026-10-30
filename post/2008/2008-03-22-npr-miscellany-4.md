@@ -32,4 +32,4 @@ I especially love the intro to this story:
 
 That fits me to a tee. If it fits you, you owe it to yourself to check out LibraryThing!{{endmark}}
 
-<span class="hattip">(hat tip: [The LibraryThing Blog](http://www.librarything.com/blog/2008/03/all-things-considered-does-librarything.php))</span>
+[(hat tip: [The LibraryThing Blog](http://www.librarything.com/blog/2008/03/all-things-considered-does-librarything.php))]{.hattip}

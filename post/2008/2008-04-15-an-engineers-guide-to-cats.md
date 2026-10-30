@@ -21,4 +21,4 @@ dsq_thread_id:
 
 <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/mHXBL6bzAR4&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="http://www.youtube.com/v/mHXBL6bzAR4&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>
 
-<span class="hattip">(hat tip: [Swirlee](http://swirlee.tumblr.com/post/31646139))</span>
+[(hat tip: [Swirlee](http://swirlee.tumblr.com/post/31646139))]{.hattip}

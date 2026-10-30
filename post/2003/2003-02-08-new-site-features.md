@@ -11,8 +11,8 @@ Third, I've cleaned up some of the commenting pages—most notably the comment p
 
 Last but not least, I've found a way to implement emoticons. The following emoticons can now be added to your posts (I hope to include more in the future):
 
-“: - )” or “: )” — (without spaces) will produce 😊<br />
-“: - (” or “: (” — (without spaces) will produce 😟<br />
+“: - )” or “: )” — (without spaces) will produce 😊\
+“: - (” or “: (” — (without spaces) will produce 😟\
 “: - D” or “: D” — (without spaces) will produce 😀
 
 Let me know what the most important emoticons are to you and I'll try to get them up first.

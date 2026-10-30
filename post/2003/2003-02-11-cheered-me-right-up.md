@@ -8,7 +8,7 @@ author: Stuart
 
 check it out. Some of it's pretty funny. While you are at it, check out these other flash sites.
 
-[http://www.starwarsspoofs.com](http://www.starwarsspoofs.com)<br />
+[http://www.starwarsspoofs.com](http://www.starwarsspoofs.com)\
 [http://www.homestarrunner.com](http://www.homestarrunner.com)
 
 all three are pretty funny.

@@ -22,15 +22,15 @@ Additional updates include better support for CSS2 and CSS3, support for scalabl
 
 I’m mildly dissappointed that several of my extensions haven’t yet been updated:
 
-- <del datetime="2005-09-13T22:02:01+00:00">ForecastFox</del>
-- <del datetime="2005-09-13T22:02:01+00:00">HTML Validator (based on Tidy)</del>
+- ~~ForecastFox~~
+- ~~HTML Validator (based on Tidy)~~
 - Stop-or-Reload Button
-- <del datetime="2005-09-13T22:02:01+00:00">IE View</del>
+- ~~IE View~~
 - ReloadEvery
-- <del datetime="2005-09-19T15:44:32+00:00">All-in-One Gestures</del>
-- <del datetime="2005-09-19T15:41:17+00:00">BBCode</del>
+- ~~All-in-One Gestures~~
+- ~~BBCode~~
 - Timestamp
-- <del datetime="2005-09-13T22:02:01+00:00">Web Developer</del>
+- ~~Web Developer~~
 - Wikipedia
 
 All-in-all, though, this is a great release. I can’t wait until it comes out of beta.
