@@ -1,0 +1,61 @@
+name: Deploy
+
+# Builds the vault with bgen (pinned to a release) and publishes it to GitHub Pages.
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v7
+
+      - name: Checkout bgen
+        uses: actions/checkout@v7
+        with:
+          repository: joeyday/blog-static-site-generator
+          ref: v0.1.0
+          path: .bgen
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      - name: Install bgen
+        run: npm ci --prefix .bgen
+
+      - name: Build
+        run: node .bgen/build.js
+        env:
+          BGEN_OUT: ${{ runner.temp }}/site
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,15 @@
+---
+title: Debugging Woes
+date: 2004-02-19T11:39:20+00:00
+author: Joey
+categories:
+  - essay
+tags:
+  - recommended
+id: 50
+guid: http://www.joeyday.com/2004/02/19/debugging-woes
+dsq_thread_id:
+  - "1744279552"
+---
+
+This made me laugh: “[Beware of strangers](http://diveintomark.org/archives/2004/02/18/libxml2)“. If you’ve ever debugged a program, you’ll have a good idea what was going through this guy’s head.

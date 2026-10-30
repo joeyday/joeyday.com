@@ -1,0 +1,15 @@
+---
+title: Hypoallergenic Cats?
+date: 2004-10-28T13:25:42+00:00
+author: Joey
+categories:
+  - essay
+tags:
+  - news
+id: 99
+guid: http://www.joeyday.com/2004/10/28/hypoallergenic-cats
+dsq_thread_id:
+  - "1744276288"
+---
+
+Please tell me I’m not the only person who thinks [this](http://www.allerca.com) is weird.
