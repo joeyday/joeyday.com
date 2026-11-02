@@ -3,7 +3,7 @@ title: 1-800 !CONTACTS, Trillian
 date: 2003-05-08
 ---
 
-Well, after finding out that everyone but me (As I type this there are 8 comments on my post from [[2003-05-02-job-application-union-website|May 2]]) seems to know that Vector Marketing is not a good place to work, I'm feeling somewhat sheepish. :)
+Well, after finding out that everyone but me (As I type this there are 8 comments on my post from [[2003-05-02-job-application-union-website|May 2]]) seems to know that Vector Marketing is not a good place to work, I'm feeling somewhat sheepish. 🙂
 
 I have now applied at [1-800 !CONTACTS](http://www.1800contacts.com/), where I could start full-time making $8.50/hr. From what I understand, they have an on site chef, and the food is free on the weekends. On top of that, bread, cereal, fruit, and beverages are always free. They also have massage tables in the break rooms and a fitness center. They require six months of customer service experience and 35 WPM typing skills. I have almost double of both so I'm really hoping they will consider me. The $8.50 would be a pay cut for me, but the full time hours would more than make up for that. They also claim to have "frequent reviews", so hopefully I could get a raise after being there a while.
 

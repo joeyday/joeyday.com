@@ -14,7 +14,7 @@ dsq_thread_id:
 
 I woke up at 5:00 am this morning to take my mother-in-law to the airport. I think I’ll stick with 5:00 am from here on out. I’m feeling good and today was the first day that my waking up was almost automatic. I can feel this slowly transitioning from willpower to habit.
 
-I feel bad because haven’t commuted by bicycle all week, but Janene and I did go on a nice two mile ride last night. It was her first time on a bike in a while and I’m still getting back in shape, so it was good for both of us. I’m starting to eat healthier and I’ve even started taking a multi-vitamin. I’m beginning to feel really healthy, but Janene keeps asking me what I’ve done with her husband. :p
+I feel bad because haven’t commuted by bicycle all week, but Janene and I did go on a nice two mile ride last night. It was her first time on a bike in a while and I’m still getting back in shape, so it was good for both of us. I’m starting to eat healthier and I’ve even started taking a multi-vitamin. I’m beginning to feel really healthy, but Janene keeps asking me what I’ve done with her husband. 😛
 
 My dad told me today that my Grandpa Day was something of a health nut. Apparently, when he was a teenager the President of the United States unveiled a national health initiative[^1], and Grandpa learned many health-conscious habits in early life, including getting up early in the morning. My dad says Grandpa always got up at 4:00 am! Of course, he was a dairy farmer, so I suspect he got up that early mostly to milk the cows, but my dad says he had learned to wake up early even in his younger years.
 

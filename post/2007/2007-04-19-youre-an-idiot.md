@@ -43,7 +43,7 @@ Now, you might insist that I should have been riding on the sidewalk, since ther
 
 As it happens, even though you’re a fool, you couldn’t help but notice me because of where I was riding. In order to pass me, you made a (very discourteous) lane change, thereby putting over six feet of distance in between us. If I had been riding as far to the right as possible, you probably would’ve buzzed past me at high speed with inches between us and nearly killed me. So, even though you’re stupid, I was actually safer last night because I was following laws that exist precisely for my protection.
 
-If you drive a motor vehicle or ride a bike and you don’t know much about bicycle safety laws, I would encourage you to read the relevant sections of the Utah Bicycle Commuter Guide or locate a similar guide for your state or country. Or, check out the links I’ve provided below, especially the “Sharing the Road” section on the first site. :syzygy:
+If you drive a motor vehicle or ride a bike and you don’t know much about bicycle safety laws, I would encourage you to read the relevant sections of the Utah Bicycle Commuter Guide or locate a similar guide for your state or country. Or, check out the links I’ve provided below, especially the “Sharing the Road” section on the first site.{{endmark}}
 
 #### See also
 

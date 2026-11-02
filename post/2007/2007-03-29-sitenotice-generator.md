@@ -26,4 +26,4 @@ I’m in the process of submitting this to [wp-plugins.org](http://www.wp-plugin
 
 To use the plugin, you’ll need to add a new template tag to an appropriate place where you’d like the sitenotice to appear when it’s enabled (I have mine right at the end of my header.php template file). The new tag is `<?php get_the_sitenotice(); ??>`. The plugin adds a new admin panel called “Sitenotice” to the WordPress options menu, from which you can edit the sitenotice message and configure other features.
 
-This is alpha software, so if you install it, realize you’re using it at your own risk. If you do try it out, let me know if you have any feature requests or find any bugs I should squash! :syzygy:
+This is alpha software, so if you install it, realize you’re using it at your own risk. If you do try it out, let me know if you have any feature requests or find any bugs I should squash!{{endmark}}

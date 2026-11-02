@@ -19,4 +19,4 @@ dsq_thread_id:
 
 [![[2007-06-chesspark.png]]](http://www.chesspark.com)
 
-Anybody out there heard of [Chesspark](http://www.chesspark.com)? It’s a new online community for chess players. I’ve recently joined and am looking for people to play with. If you join, feel free to add me to your contact list. My username is ‘joeyday’. :syzygy:
+Anybody out there heard of [Chesspark](http://www.chesspark.com)? It’s a new online community for chess players. I’ve recently joined and am looking for people to play with. If you join, feel free to add me to your contact list. My username is ‘joeyday’.{{endmark}}

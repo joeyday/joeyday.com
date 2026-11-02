@@ -32,4 +32,4 @@ I’m not excited about losing Instant Messaging, but I’m willing to sacrifice
 
 Anyway, the major reason I’ve posted this is so that my friends will know why I’m not online during the day anymore. I’m not trying to ignore anybody, but orders are orders.
 
-In related news, I just found out today that the company offices are being relocated. The new location is closer to the University (of course, just about anywhere is closer than Bluffdale :)), so it should save me quite a bit of gas. The move will take place the first week in December.
+In related news, I just found out today that the company offices are being relocated. The new location is closer to the University (of course, just about anywhere is closer than Bluffdale 🙂), so it should save me quite a bit of gas. The move will take place the first week in December.

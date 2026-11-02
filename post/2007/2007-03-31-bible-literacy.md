@@ -52,4 +52,4 @@ Van Biema’s careful criteria for Bible literacy courses in public schools, as 
 
 I personally agree with Van Biema’s criteria and his conclusion and would welcome the academic teaching of the Bible in public schools.
 
-As an aside, in trying to think about this from the perspective of someone who is not Christian, I’m trying to imagine what it would be like to have secular teaching of the Quran in high schools. The more I think about that, the more I wish I could’ve taken such a class in high school. I think it would’ve prepared me better (and, if offered today, would prepare our children) to deal better with and think more rationally about current events in the middle east. :syzygy:
+As an aside, in trying to think about this from the perspective of someone who is not Christian, I’m trying to imagine what it would be like to have secular teaching of the Quran in high schools. The more I think about that, the more I wish I could’ve taken such a class in high school. I think it would’ve prepared me better (and, if offered today, would prepare our children) to deal better with and think more rationally about current events in the middle east.{{endmark}}

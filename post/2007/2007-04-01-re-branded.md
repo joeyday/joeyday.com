@@ -19,4 +19,4 @@ I know I’m jumping on the bandwagon awfully late here, but I didn’t get the 
 
 ![[joeydaycom-aprilfools07.png]]
 
-If you don’t get it, see the post over at [SimpleBits](http://www.simplebits.com/notebook/2007/04/01/simplefools.html) and the [Flickr Pool](http://www.flickr.com/groups/simplefools/pool/). :syzygy:
+If you don’t get it, see the post over at [SimpleBits](http://www.simplebits.com/notebook/2007/04/01/simplefools.html) and the [Flickr Pool](http://www.flickr.com/groups/simplefools/pool/).{{endmark}}

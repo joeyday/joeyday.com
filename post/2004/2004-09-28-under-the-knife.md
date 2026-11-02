@@ -18,6 +18,6 @@ My [Otorhinolaryngologist](http://en.wikipedia.org/wiki/Otorhinolaryngologist) (
 
 Actually, he recommended this two years ago, but I didn’t go through with it because of an insurance quibble (my family had just switched providers and we were on a pre-existing conditions restriction). The insurance issues are out of the way now, so I’ll be going in for surgery on October 12.
 
-Septoplasty is common and has a high rate of success. It’s outpatient surgery, meaning I’ll be home the same day. I may be in bed for a few days afterward (doped up on painkillers :-)), but should heal quickly. Along with the septoplasty, the doctor is planning to cauterize some capillaries in my left nostril to prevent nosebleeds. He’ll also try to widen the vents into my upper sinuses to prevent future sinus infections.
+Septoplasty is common and has a high rate of success. It’s outpatient surgery, meaning I’ll be home the same day. I may be in bed for a few days afterward (doped up on painkillers 🙂), but should heal quickly. Along with the septoplasty, the doctor is planning to cauterize some capillaries in my left nostril to prevent nosebleeds. He’ll also try to widen the vents into my upper sinuses to prevent future sinus infections.
 
 I’ve never had any surgery done — not even minor. Understandably, I feel a little nervous about it. However, I’m confident that things will turn out alright.

@@ -20,4 +20,4 @@ I’ve been wanting to publish my testimony for some time now and have had an ou
 
 The outline I’ve got is currently divided into seven sections, but I may combine or split a few sections, so it should end up between six or eight installments long. I’m going to try my darnedest to publish weekly, but some of the sections require more work than others to write, so I may give myself two weeks for those.
 
-The [first installment](/testimony/1) has been published. You can get to it by clicking the link I just provided or by using the “Testimony” link on the navigation bar across the top of every page on the site. :syzygy:
+The [first installment](/testimony/1) has been published. You can get to it by clicking the link I just provided or by using the “Testimony” link on the navigation bar across the top of every page on the site.{{endmark}}

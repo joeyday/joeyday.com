@@ -12,7 +12,7 @@ dsq_thread_id:
   - "1744278565"
 ---
 
-I’m feeling extremely stupid right about now. Here I am coding away in strict XHTML, and I just learned how relative links work. :O
+I’m feeling extremely stupid right about now. Here I am coding away in strict XHTML, and I just learned how relative links work. 😮
 
 Now, I sortof understood how relative links worked before, but I never used them because I never saw the usefulness of them. Relative links are meant to make it easier to move things around, but I always thought people who said that were smoking crack. If you move a page up or down a directory, all your relative links are broken! Consequently, I always preferred using static links for all of my content, like this:
 
