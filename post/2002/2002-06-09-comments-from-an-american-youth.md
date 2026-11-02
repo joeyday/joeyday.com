@@ -2,7 +2,7 @@
 title: Comments From an American Youth
 date: 2002-06-09
 ---
-Today I had some time to kill, so I asked my girlfriend and her family what I should put on my website. I was surprised by the thoughtful response I received from her twelve year old sister, Kathlene. She has written some comments about September 11 and asked me to post them here.
+Today I had some time to kill, so I asked my girlfriend and her family what I should put on my website. I was surprised by the thoughtful response I received from her twelve-year-old sister, Kathlene. She has written some comments about September 11 and asked me to post them here.
 
 The September 11 terrorism attack on the World Trade Center had a deep impact on a lot of American children. Kathlene's father served in the Navy when he was younger, and she has very strong feelings about our country and our freedoms. These are the thoughts of children across America. May we all listen and learn from them.{{endmark}}
 
