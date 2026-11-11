@@ -19,6 +19,6 @@ Consequently, I’ve added a few new links to my Sites I Frequent list, one of w
 
 > In Iraq, we are committed to working with our international partners to keep Saddam Hussein boxed in, and we will work to see him out of power. Bill Clinton and Al Gore have stood up to Saddam Hussein time and time again. As President, Al Gore will not hesitate to use America’s military might against Iraq when and where it is necessary.
 
-As President, Al Gore will tolerate no attack against American interests at home or abroad: terrorists must know that if they attack America, we will never forget. We will scour the world to hunt them down and bring them to justice.
+> As President, Al Gore will tolerate no attack against American interests at home or abroad: terrorists must know that if they attack America, we will never forget. We will scour the world to hunt them down and bring them to justice.
 
 Remember, these quotes were part of the Democratic Party Platform back in 2000! Why do most Democrats hate Bush for doing exactly the things they were planning to do? It makes absolutely no sense to me.
