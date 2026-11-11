@@ -12,15 +12,11 @@ dsq_thread_id:
   - "1744278362"
 ---
 
-==
-
 <div class="pic">
 
 [![[firefoxsetup-pr.png]]](http://www.getfirefox.com)
 
 </div>
-
-==
 
 Every day moves us closer to a full release of Firefox. The [1.0 Preview Release](http://www.getfirefox.com) went live this morning. I’ve downloaded and installed it, and I have to say it was the smoothest Firefox upgrade I’ve ever been through.
 

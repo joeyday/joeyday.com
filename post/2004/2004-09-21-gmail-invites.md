@@ -10,15 +10,11 @@ dsq_thread_id:
   - "1744275796"
 ---
 
-==
-
 <div class="rpic-transparent">
 
 [![[gmail.png]]](http://www.gmail.com)
 
 </div>
-
-==
 
 Anybody wishing they had a [Gmail](http://www.gmail.com) account? If so, let me know. I’ve got 6 invites. I’m not sure why I have them, considering the fact that I haven’t even been using my account, but whatever.
 

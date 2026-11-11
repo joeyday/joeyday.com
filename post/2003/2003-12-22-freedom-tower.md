@@ -12,16 +12,12 @@ dsq_thread_id:
   - "1744279903"
 ---
 
-==
-
 <div class="lpic">
 
 [![[freedomtower-thumb.jpg]]](/assets/images/freedomtower.jpg) [![[freedomtower2-thumb.jpg]]](/assets/images/freedomtower2.jpg)  
 (Click images to enlarge)
 
 </div>
-
-==
 
 Designs for the new “Freedom Tower”, to be built on Ground Zero, were unveiled on Friday. It’s got elements reminiscent of the Brooklyn Bridge and the Statue of Liberty, and will be exactly 1,776 feet tall to commemorate the signing of the Declaration of Independence. A fairly large section of the building is simply a wire frame that has several wind turbines built in. The turbines will provide 20-40% of the building’s electricity.
 

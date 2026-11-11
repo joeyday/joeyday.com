@@ -13,15 +13,11 @@ dsq_thread_id:
   - "1744279979"
 ---
 
-==
-
 <div class="pic">
 
 [![[firefoxlogo.png]]](http://www.mozilla.org/products/firefox)
 
 </div>
-
-==
 
 On Monday, Mozilla announced the release of version 0.8 of their standalone browser, formerly named Mozilla Firebird. Version 0.8 carries a new moniker: [Mozilla Firefox](http://www.mozilla.org/products/firefox). The name took a few minutes to grow on me (after I got over the initial question, *[Why a name change?](http://www.mozilla.org/projects/firefox/firefox-name-faq.html)*). “Firefox” is apparently another name for the [Chinese red panda](http://en.wikipedia.org/wiki/Red_Panda).
 

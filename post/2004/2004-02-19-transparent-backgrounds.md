@@ -12,8 +12,6 @@ dsq_thread_id:
   - "1744275480"
 ---
 
-==
-
 <div style="position: relative; float: right; margin-left: 10px; width: 150px; height: 100px; border: 1px black solid; background: url('/images/flowers.jpg');">
 
 <div class="tintedwhite" style="position: absolute; top: 20px; left: 20px; width: 110px; height: 20px; padding: 20px 0px; text-align: center; border: 1px white solid; color: black;">
@@ -23,8 +21,6 @@ dsq_thread_id:
 </div>
 
 </div>
-
-==
 
 I’ve written before about [alpha transparency in PNG images](/archives/individual/000475.php). I’ve always wanted to use the effect to give a semi-transparent background to divs on my site. Unfortunately, since IE can’t render PNGs properly, the appearance of the site would break for 90% of all Internet users.
 

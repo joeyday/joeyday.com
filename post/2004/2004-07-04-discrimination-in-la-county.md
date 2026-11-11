@@ -10,8 +10,6 @@ dsq_thread_id:
   - "1744279596"
 ---
 
-==
-
 <div class="pic">
 
 [![[lacseal-fullsize.gif]]](/assets/images/lacseal-fullsize.gif)  
@@ -19,8 +17,6 @@ dsq_thread_id:
 larger image)
 
 </div>
-
-==
 
 Have you heard about the ACLU’s recent gripe against Los Angelos County? Apparently, they have alleged that the symbol of a cross on the L.A. County seal violates the Constitutional principle of separation of church and state. I’ve provided a picture of the seal so that you can see what I’m talking about. The cross is !VERY small.
 
