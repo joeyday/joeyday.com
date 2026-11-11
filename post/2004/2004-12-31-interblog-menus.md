@@ -20,26 +20,32 @@ That’s a good question. It’s actually kinda funny, since right now my “Avo
 
 To achieve the correct output in WordPress, I created an “interblog.php” file that contains the following code:
 
-> &lt;?php require(‘./wp-blog-header.php’); ?&gt;
+```
+<?php require('./wp-blog-header.php'); ?>
 
-&lt;h2&gt;&lt;a href=”http://joeyday.com”&gt;Avocation&lt;/a&gt;&lt;/h2&gt;  
-&lt;ul&gt;  
-&lt;?php $posts = get\_posts(‘offset=0’); foreach ($posts as $post) : start\_wp(); ?&gt;  
-&lt;li id=”post-&lt;?php the\_ID(); ?&gt;”&gt;&lt;a href=”&lt;?php the\_permalink() ?&gt;” title=”Permanent Link: &lt;?php the\_title(); ?&gt;”&gt;&lt;?php the\_title(); ?&gt;&lt;/a&gt;&lt;/li&gt;  
-&lt;?php endforeach; ?&gt;  
-&lt;/ul&gt;
+<h2><a href="http://joeyday.com">Avocation</a></h2>
+<ul>
+<?php $posts = get_posts('offset=0'); foreach ($posts as $post) : start_wp(); ?>
+<li id="post-<?php the_ID(); ?>"><a href="<?php the_permalink() ?>" title="Permanent Link: <?php the_title(); ?>"><?php the_title(); ?></a></li>
+<?php endforeach; ?>
+</ul>
+```
 
 In Movable Type, I created a custom template called “tpl-interblog.inc”, which outputs a static file called “interblog.inc”. It looks like this:
 
-> &lt;h2&gt;&lt;a href=”http://www.joeyday.org”&gt;Foundation&lt;/a&gt;&lt;/h2&gt;  
-&lt;ul&gt;  
-&lt;MTEntries lastn=”5″&gt;  
-&lt;li&gt;&lt;a href=”&lt;MTEntryLink&gt;”&gt;&lt;MTEntryTitle&gt;&lt;/a&gt;&lt;/li&gt;  
-&lt;/MTEntries&gt;  
-&lt;/ul&gt;
+```
+<h2><a href="http://www.joeyday.org">Foundation</a></h2>
+<ul>
+<MTEntries lastn="5">
+<li><a href="<MTEntryLink>"><MTEntryTitle></a></li>
+</MTEntries>
+</ul>
+```
 
 both of them get included from the other blog using nearly identical code:
 
-> &lt;?php requre (‘http://joeyday.com/interblog.php’); ?&gt;
+```
+<?php requre ('http://joeyday.com/interblog.php'); ?>
+```
 
 As you can see, it’s all pretty straightforward, but it took me a few minutes of head-scratching to figure it out. Hope this is useful for others who wish to refer to entries between multiple blogs.

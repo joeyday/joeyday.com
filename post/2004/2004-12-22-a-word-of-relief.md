@@ -15,8 +15,8 @@ dsq_thread_id:
 A few days ago, I blogged the following:
 
 > **A Word of Advice**
-
-Don’t lose your wallet. Ugh.
+> 
+> Don’t lose your wallet. Ugh.
 
 Yes, I was speaking from personal experience. On Thursday, December 9, I lost my wallet. Actually, it’s quite a bit more than just a wallet. It’s a small [zippered folio](http://shopping.franklincovey.com/shopping/catalog/product2.jsp?navAction=push&amp;navCount=3&amp;id=prod114) (mine is actually blue, but the line has been discontinued and this is the only picture I can find online) that contains, in addition to my driver’s license and credit cards, my [palmOne Tungsten E](http://palmone.com/us/products/handhelds/tungsten-e/).
 

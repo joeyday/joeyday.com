@@ -11,5 +11,4 @@ guid: http://www.joeyday.com/2004/12/14/a-word-of-advice
 dsq_thread_id:
   - "1831013725"
 ---
-
 Don’t lose your wallet. Ugh.
