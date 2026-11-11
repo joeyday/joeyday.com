@@ -3,7 +3,7 @@ title: New Blurry Ticker Tape
 date: 2002-07-11
 ---
 
-I completely bombed an exam today for my online Calculus class. I feel just horrible about it. The exam was on related rates and applications of the derivative—finding minimums and maximums, inflection points, and so on. I didn't study near as much as I should have. The clincher was when I went to turn on my calculator halfway through the exam. I guess I must've left it in my car a little too long, cuz the batteries are fried—as in fluid has leaked all over the inside of the battery compartment! !ACK. :eek
+I completely bombed an exam today for my online Calculus class. I feel just horrible about it. The exam was on related rates and applications of the derivative—finding minimums and maximums, inflection points, and so on. I didn't study near as much as I should have. The clincher was when I went to turn on my calculator halfway through the exam. I guess I must've left it in my car a little too long, cuz the batteries are fried—as in fluid has leaked all over the inside of the battery compartment! !ACK. 😳
 
 On a more positive note, check out the spiffy ticker thingy at the top of the page. I discovered it on a free DHTML script site called [Simply The Best Scripts](http://www.simplythebest.net/info/scripts.html). It took me almost an hour to tweak the stupid thing, but I did it, and I feel very good about the final product. So, if you don't like it that's just too bad!
 

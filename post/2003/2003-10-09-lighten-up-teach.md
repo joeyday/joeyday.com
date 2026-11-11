@@ -22,4 +22,4 @@ We used scantrons, and he repeated no less than ten times that he didn’t want 
 
 After the first listening portion of the test he announced that the second listening portion would start at 5 minutes to the hour. He then said, “I realize a lot of you use digital clocks, so I should point out that on this analog clock [pointing to a clock on the wall] when the big hand gets to the 11 that’s five minutes to the hour.”
 
-When the class time was over he dismissed us row by row and made us walk to the front single-file to turn in our exams. :eek
+When the class time was over he dismissed us row by row and made us walk to the front single-file to turn in our exams. 😳
